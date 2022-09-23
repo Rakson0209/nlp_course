@@ -8,10 +8,12 @@ MIT license: www.opensource.org/licenses/mit-license.php
 
 import re
 from collections import Counter
+import os
 
 def words(text): return re.findall(r'\w+', text.lower())
 
-WORDS = Counter(words(open('big.txt').read()))
+path = "{}".format(os.getcwd())
+WORDS = Counter(words(open(path + '/hw1/big.txt').read()))
 
 def P(word, N=sum(WORDS.values())): 
     "Probability of `word`."
@@ -23,7 +25,7 @@ def correction(word):
 
 def candidates(word): 
     "Generate possible spelling corrections for word."
-    return (known([word]) or known(edits1(word)) or known(edits2(word)) or [word])
+    return (known(Priority_1(word)) or known(Priority_2(word)) or known(Priority_3(word)) or known(Priority_4(word)) or known(edits1(word)) or  known(edits2(word)) or [word] or known([word]))
 
 def known(words): 
     "The subset of `words` that appear in the dictionary of WORDS."
@@ -42,6 +44,30 @@ def edits1(word):
 def edits2(word): 
     "All edits that are two edits away from `word`."
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
+
+def Priority_1(word):
+    splits     = [(word[:i], word[i:])    for i in range(len(word) + 1)]
+    "Priority 1: single letter -> doubling letters (ex. aple -> apple)"
+    doubling   = [L + R[0] + R               for L, R in splits if R]
+    return doubling
+
+def Priority_2(word): 
+    "Priority 2: two edits of Priority 1"
+    return (e2 for e1 in Priority_1(word) for e2 in Priority_1(e1))
+
+def Priority_3(word):
+    splits     = [(word[:i], word[i:])    for i in range(len(word) + 1)]
+    "Priority 3: insert letter (ex. juce -> juice)"
+    letters    = 'abcdefghijklmnopqrstuvwxyz'
+    inserts    = [L + c + R               for L, R in splits for c in letters]
+    return inserts
+
+def Priority_4(word):
+    splits     = [(word[:i], word[i:])    for i in range(len(word) + 1)]
+    "Priority 4: vowel replace (ex. juuce -> juice)"
+    vowels    = 'aeiou'
+    replaces   = [L + c + R[1:]           for L, R in splits if R if R[0] == 'a' or R[0] == 'e' or R[0] == 'i' or R[0] == 'o' or R[0] == 'u' for c in vowels]
+    return replaces
 
 ################ Test Code 
 
@@ -79,7 +105,7 @@ def unit_tests():
 def spelltest(tests, verbose=False):
     "Run correction(wrong) on all (right, wrong) pairs; report results."
     import time
-    start = time.clock()
+    start = time.perf_counter()
     good, unknown = 0, 0
     n = len(tests)
     for right, wrong in tests:
@@ -90,7 +116,7 @@ def spelltest(tests, verbose=False):
             if verbose:
                 print('correction({}) => {} ({}); expected {} ({})'
                       .format(wrong, w, WORDS[w], right, WORDS[right]))
-    dt = time.clock() - start
+    dt = time.perf_counter() - start
     print('{:.0%} of {} correct ({:.0%} unknown) at {:.0f} words per second '
           .format(good / n, n, unknown / n, n / dt))
     
@@ -100,7 +126,6 @@ def Testset(lines):
             for (right, wrongs) in (line.split(':') for line in lines)
             for wrong in wrongs.split()]
 
-if __name__ == '__main__':
-    print(unit_tests())
-    spelltest(Testset(open('spell-testset1.txt')))
-    spelltest(Testset(open('spell-testset2.txt')))
+
+spelltest(Testset(open(path + '/hw1/spell-testset1.txt')))
+
