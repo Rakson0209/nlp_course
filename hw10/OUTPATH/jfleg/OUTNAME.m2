@@ -3,13 +3,11 @@ A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For not use car .
-A 2 3|||R:VERB:FORM|||using|||REQUIRED|||-NONE-|||0
 A 3 3|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
 
 S Here was no promise of morning except that we looked up through the trees we saw how low the forest had swung .
-A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Thus even today sex is considered as the least important topic in many parts of India .
 A 0 1|||R:OTHER|||Thus,|||REQUIRED|||-NONE-|||0
@@ -19,11 +17,11 @@ A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S image you salf you are wark in factory just to do one thing like pot taire on car if they fire you you will destroy , becouse u dont know more than pot taire in car .
 A 0 19|||U:OTHER|||If|||REQUIRED|||-NONE-|||0
 A 19 20|||R:PRON|||you|||REQUIRED|||-NONE-|||0
-A 21 22|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 22 22|||M:OTHER|||will destroy you,|||REQUIRED|||-NONE-|||0
 A 25 26|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 26 27|||R:NOUN|||you,|||REQUIRED|||-NONE-|||0
-A 27 28|||R:OTHER|||you|||REQUIRED|||-NONE-|||0
-A 35 37|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
+A 27 29|||R:OTHER|||you will not|||REQUIRED|||-NONE-|||0
+A 32 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales .
 A 3 5|||R:ORTH|||consumers,|||REQUIRED|||-NONE-|||0
@@ -32,15 +30,14 @@ A 19 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I want to talk about nocive or bad products like alcohol , hair spray and cigarrets .
 A 10 12|||R:ORTH|||alcohol,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:SPELL|||cigarre|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||cigar|||REQUIRED|||-NONE-|||0
 
 S For example they can play football whenever they want but the olders can not .
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB|||want,|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||older|||REQUIRED|||-NONE-|||0
-A 11 12|||R:NOUN|||people|||REQUIRED|||-NONE-|||0
-A 12 15|||R:OTHER|||can't.|||REQUIRED|||-NONE-|||0
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||older|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||people cannot.|||REQUIRED|||-NONE-|||0
 
 S It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex .
 A 14 52|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -66,10 +63,10 @@ S 4:they have a big chance to prepare for their future life
 A 10 11|||R:NOUN|||life.|||REQUIRED|||-NONE-|||0
 
 S One person if do n't have good health that means so many things they could lost .
-A 3 4|||R:OTHER|||they|||REQUIRED|||-NONE-|||0
-A 4 5|||R:CONTR|||don't|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||doesn't|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN|||health,|||REQUIRED|||-NONE-|||0
-A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||lose.|||REQUIRED|||-NONE-|||0
 
 S Many studies over the last 5 0 years have shown that people who have fluoride in their drinking water are considerably have less cavities than people who have not drinking nonfluoridated water .
 A 16 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -90,7 +87,7 @@ A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And young people spend time more ther lifestile .
 A 4 6|||R:WO|||more time|||REQUIRED|||-NONE-|||0
-A 6 7|||R:VERB|||living|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||lifestiles.|||REQUIRED|||-NONE-|||0
 A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
@@ -100,10 +97,11 @@ A 16 18|||R:ORTH|||can't|||REQUIRED|||-NONE-|||0
 A 19 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We have to know this problem it 's serious but almost people doens't know about this .
-A 6 8|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||serious,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||don't|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||it.|||REQUIRED|||-NONE-|||0
 
 S Students can focus on only a few subjects they are intwerested in and they will become an experts in those areas .
 A 3 5|||R:WO|||only on|||REQUIRED|||-NONE-|||0
@@ -113,10 +111,11 @@ A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But in other waythismakes other way country need to pay extra money to make , repair the roads What they did is reduce the amount of gas consumers , high the gas tax , and low the income tax because they thought , only rise the gas tax is unfair .
 A 3 4|||R:NOUN|||ways,|||REQUIRED|||-NONE-|||0
-A 4 6|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:SVA|||needs|||REQUIRED|||-NONE-|||0
+A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||way,|||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||make,|||REQUIRED|||-NONE-|||0
-A 19 51|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 51|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Today , MBA students with a background in engineering are in high demand .
 A 0 2|||R:ORTH|||Today,|||REQUIRED|||-NONE-|||0
@@ -147,12 +146,16 @@ S These activities make the community a better place to live in and inculcate th
 A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Beacuse all those broad knowledge help they to understand their major in university as well as help they to make a correct choice in specializing study .
+A 0 1|||R:SPELL|||Because|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||knowledge,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PRON|||they|||REQUIRED|||-NONE-|||0
 A 6 7|||R:PRON|||them|||REQUIRED|||-NONE-|||0
 A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And it was very easy to me to understand why he always brang bad marks at home .
-A 5 7|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 16 18|||R:ORTH|||home.|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then when we went to the Science Olympiad , she could have diverse knowledges about the subects and it was not new for her to think about new things .
 A 7 9|||R:ORTH|||Olympiad,|||REQUIRED|||-NONE-|||0
@@ -161,17 +164,16 @@ A 16 30|||R:OTHER|||sub|||REQUIRED|||-NONE-|||0
 
 S If every people thinks to learn and understand lots of scientifc subjects , any person will do not do it and as a result of this any science is n't imporeved .
 A 2 3|||R:NOUN|||person|||REQUIRED|||-NONE-|||0
-A 10 11|||R:SPELL|||scientifical|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||science|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||subjects,|||REQUIRED|||-NONE-|||0
-A 15 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Thus in concordance with the above I agree whole heartedly that in twenty years there will be fewer cars in use than there are today .
 A 0 1|||R:OTHER|||Thus,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOUN|||accordance|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||above,|||REQUIRED|||-NONE-|||0
-A 8 10|||R:ORTH|||wholeheartedly|||REQUIRED|||-NONE-|||0
-A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Third the butt it in hte front of the door of store to make the poeple see it even if it is not good
 A 0 1|||R:OTHER|||Third,|||REQUIRED|||-NONE-|||0
@@ -198,7 +200,7 @@ S But YOU have to create these opportunities .
 A 6 8|||R:ORTH|||opportunities.|||REQUIRED|||-NONE-|||0
 
 S Throughts our lives needs talk about our familys .
-A 4 4|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||need to|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||family.|||REQUIRED|||-NONE-|||0
 A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
@@ -221,8 +223,9 @@ A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Secondly the place of the film must must be very clear and chir must be relax etc .
 A 0 1|||R:OTHER|||Secondly,|||REQUIRED|||-NONE-|||0
 A 6 7|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 15 16|||R:MORPH|||relaxed|||REQUIRED|||-NONE-|||0
-A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S and will put you maind on a non-stop learning ...
 A 4 5|||U:VERB||||||REQUIRED|||-NONE-|||0
@@ -252,7 +255,6 @@ A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Young has his own field and word on it hard , and do more benefits to the society .
 A 9 11|||R:ORTH|||hard,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:VERB:SVA|||does|||REQUIRED|||-NONE-|||0
 A 16 17|||U:DET||||||REQUIRED|||-NONE-|||0
 A 17 19|||R:ORTH|||society.|||REQUIRED|||-NONE-|||0
 
@@ -261,12 +263,14 @@ A 6 7|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||editors.|||REQUIRED|||-NONE-|||0
 
 S If we conseder an idea as a totally autonomous concept within the individual process of defining reality , I will state that ideas are useless , not being based on experience .
-A 2 3|||R:VERB|||conceive|||REQUIRED|||-NONE-|||0
-A 15 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB|||define|||REQUIRED|||-NONE-|||0
+A 17 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He/she wants to know everything about the universe , wants to know everything about the God , the death etc. these some concepts that everyone can encourage a lot of ideas but the facts are not found yet .
 A 7 9|||R:ORTH|||universe,|||REQUIRED|||-NONE-|||0
-A 16 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
+A 15 17|||R:ORTH|||God,|||REQUIRED|||-NONE-|||0
+A 17 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It so expensive that only those people can do this besides of their allday living .
 A 1 1|||M:VERB|||is|||REQUIRED|||-NONE-|||0
@@ -279,7 +283,6 @@ A 15 17|||R:ORTH|||year.|||REQUIRED|||-NONE-|||0
 
 S For this reason , the number of cars would be decrease in the future .
 A 2 4|||R:ORTH|||reason,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:VERB:TENSE|||will|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:FORM|||decreasing|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||future.|||REQUIRED|||-NONE-|||0
 
@@ -287,7 +290,7 @@ S So he took upon himself to narrow his research on this subject which was a mys
 A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Others who do n't have this concept they will sell uncerfied wood .
-A 2 4|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
+A 3 4|||R:CONTR|||not|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PRON||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||wood.|||REQUIRED|||-NONE-|||0
 
@@ -327,7 +330,8 @@ A 0 1|||R:ORTH|||But|||REQUIRED|||-NONE-|||0
 A 2 2|||M:OTHER|||of the|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN:NUM|||students|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
-A 14 15|||R:NOUN|||thoughts|||REQUIRED|||-NONE-|||0
+A 13 14|||R:DET|||their|||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||thinking|||REQUIRED|||-NONE-|||0
 A 16 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Otherwise , it will be a problem for us to understand certain thing in life .
@@ -336,7 +340,7 @@ A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S I myself like to participate in kind of activities and meet many people who would like to do .
-A 17 19|||R:ORTH|||do.|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
 
 S Second the amount of treasure locations are implausibly large .
 A 0 1|||R:ADV|||Second,|||REQUIRED|||-NONE-|||0
@@ -350,7 +354,8 @@ A 12 14|||R:ORTH|||interview.|||REQUIRED|||-NONE-|||0
 S becaese when we learn about some subjects we should have more information about what we study so that the student will get the information more easier and more better and this is my first reason .
 A 0 1|||R:SPELL|||Because|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||subjects,|||REQUIRED|||-NONE-|||0
-A 18 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||study,|||REQUIRED|||-NONE-|||0
+A 17 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In a market economy the price must reflect costs of the product and consumer 's willingness to buy the product .
 A 3 4|||R:OTHER|||economy,|||REQUIRED|||-NONE-|||0
@@ -361,12 +366,13 @@ A 19 21|||R:OTHER|||consumer'|||REQUIRED|||-NONE-|||0
 S some tour guide who will want to set maximum security make tour difficult because you will only have a wonderful view throught the bus .
 A 0 1|||R:ORTH|||Some|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOUN:NUM|||guides|||REQUIRED|||-NONE-|||0
-A 4 5|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
-A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because the fashional culture has been changed .
 A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||fashion|||REQUIRED|||-NONE-|||0
+A 3 4|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||changed.|||REQUIRED|||-NONE-|||0
 
 S actually that was so unstable trip .
@@ -433,7 +439,6 @@ A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S In early industry , a lot of warker worked together .
 A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 2 4|||R:ORTH|||industry,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOUN:INFL|||warkers|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||together.|||REQUIRED|||-NONE-|||0
 
 S It kept Anasazi from living in American Southwest by very high temparture ; it caused droughts .
@@ -447,7 +452,6 @@ A 3 4|||R:NOUN:NUM|||reasons|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||choice.|||REQUIRED|||-NONE-|||0
 
 S Because one time you get success and next time will why not ?
-A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||not?|||REQUIRED|||-NONE-|||0
 
 S While at university , he might specialize in a subject , while still taking a number of diverse other courses .
@@ -512,13 +516,12 @@ A 7 9|||R:ORTH|||job.|||REQUIRED|||-NONE-|||0
 
 S Although the few lucky ones struck gold , most of the people simply vanished as they left their homes , only to be forgotten , and some of them even developed obsessions for the western mirage .
 A 6 8|||R:ORTH|||gold,|||REQUIRED|||-NONE-|||0
-A 9 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 18 20|||R:ORTH|||homes,|||REQUIRED|||-NONE-|||0
-A 20 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And like the citizens of the developed countries , these people want to possess cars themselves .
 A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||countries,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB|||own|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||themselves.|||REQUIRED|||-NONE-|||0
 
 S we grip on many subject we get ample exopsure greatly and easily .
@@ -527,9 +530,12 @@ A 4 5|||R:OTHER|||subjects,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||easily.|||REQUIRED|||-NONE-|||0
 
 S But on the other hand ther is also people that is often convinced by the interesting advertisements they see everywhere , becuase of this many times they have to face problems with the product that they bought and many times ther is no way to give back that product .
-A 4 5|||R:OTHER|||hand,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||hand,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||there|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
-A 17 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 36 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They take responsible the future of their society and the results , it can the most helpful thing for society .
 A 2 3|||R:MORPH|||responsibility|||REQUIRED|||-NONE-|||0
@@ -542,6 +548,8 @@ S So the conclusion is clear .
 A 4 6|||R:ORTH|||clear.|||REQUIRED|||-NONE-|||0
 
 S and you can change your views and ideas but you can not change ypu fact .
+A 0 1|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 1 2|||R:ORTH|||You|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||ideas,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:DET|||the|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||fact.|||REQUIRED|||-NONE-|||0
@@ -555,6 +563,8 @@ A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S However , this reading passage casts douts on the speaker 's mention .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN:INFL|||dout|||REQUIRED|||-NONE-|||0
 A 9 13|||R:ORTH|||speaker's mention.|||REQUIRED|||-NONE-|||0
 
 S However , all of them are limited .
@@ -567,9 +577,8 @@ A 11 13|||R:ORTH|||think.|||REQUIRED|||-NONE-|||0
 S The placebo effect is not illusion but the real , so the drug was effected the placebo effect .
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||real,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:VERB|||affected|||REQUIRED|||-NONE-|||0
 A 15 15|||M:PREP|||by|||REQUIRED|||-NONE-|||0
-A 17 19|||R:ORTH|||effect.|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When I go to travel to see something I want , we do not know about when it is open or close even though I study before , it might be suddenly close .
 A 9 11|||R:ORTH|||want,|||REQUIRED|||-NONE-|||0
@@ -598,8 +607,6 @@ A 13 15|||R:ORTH|||subject.|||REQUIRED|||-NONE-|||0
 
 S For example , in 2 0 0 6 world cup form Germany , as many conch wanna term work .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:NOUN:NUM|||cups|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||Germany,|||REQUIRED|||-NONE-|||0
 A 15 16|||R:NOUN|||people|||REQUIRED|||-NONE-|||0
 A 16 20|||R:OTHER|||want|||REQUIRED|||-NONE-|||0
@@ -611,13 +618,16 @@ S This will give rise to a holistic understanding .
 A 7 9|||R:ORTH|||understanding.|||REQUIRED|||-NONE-|||0
 
 S They want to make people understend thet dhe product is the best and really you can trust on it .
+A 5 6|||R:VERB|||know|||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||the|||REQUIRED|||-NONE-|||0
 A 7 8|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||you really|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 18 20|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
 S There can be any other theories about migrating reason and about the methods of migrating .
-A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 9|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 14 16|||R:ORTH|||migrating.|||REQUIRED|||-NONE-|||0
 
 S Thus , the environmental issue will push more people to consider another way to commute instead of driving a car .
 A 0 2|||R:ORTH|||Thus,|||REQUIRED|||-NONE-|||0
@@ -628,9 +638,10 @@ A 3 7|||R:ORTH|||hand, he/she|||REQUIRED|||-NONE-|||0
 A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Video is convenient , but , if teachers concern about students , so using texetbooks gives good ability for students .
-A 2 6|||R:ORTH|||convenient, but,|||REQUIRED|||-NONE-|||0
+A 2 4|||R:ORTH|||convenient,|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||students,|||REQUIRED|||-NONE-|||0
-A 14 21|||R:OTHER|||texe|||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They tend to restrict traffic in certain days , hours , increasing parking fees , etc .
 A 7 11|||R:ORTH|||days, hours,|||REQUIRED|||-NONE-|||0
@@ -641,8 +652,10 @@ A 1 2|||R:OTHER|||instance,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||exists.|||REQUIRED|||-NONE-|||0
 
 S So depending on the study it would be better oin way or the other one the thing is to choose the right one .
-A 9 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 22 24|||R:ORTH|||one.|||REQUIRED|||-NONE-|||0
+A 9 9|||M:VERB|||to go|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||in|||REQUIRED|||-NONE-|||0
+A 10 10|||M:OTHER|||a different|||REQUIRED|||-NONE-|||0
+A 14 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I am really sorry to continue like this but right now i am taking the test in a room with 5 more person other than me and we all are taking the test with the computer .
 A 11 12|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
@@ -656,6 +669,7 @@ A 8 10|||R:ORTH|||person.|||REQUIRED|||-NONE-|||0
 
 S Many people killed by car .
 A 2 2|||M:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+A 4 4|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
 
 S Global warming and green house effects had started recently .
@@ -663,7 +677,7 @@ A 6 7|||R:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||recently.|||REQUIRED|||-NONE-|||0
 
 S Examples : If the good skill people do some thing wrong ways and they got good respond like thife , robber , stolen , criminal and make problems to another people .
-A 6 6|||M:OTHER|||is good,|||REQUIRED|||-NONE-|||0
+A 6 6|||M:OTHER|||is done,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:NOUN:NUM|||things|||REQUIRED|||-NONE-|||0
 A 14 32|||R:OTHER|||get|||REQUIRED|||-NONE-|||0
 
@@ -671,8 +685,8 @@ S for example when we talk about speed they must anderstand why it is dengures i
 A 0 1|||R:ORTH|||For|||REQUIRED|||-NONE-|||0
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||speed,|||REQUIRED|||-NONE-|||0
-A 12 14|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 15 26|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 13 15|||R:OTHER|||so|||REQUIRED|||-NONE-|||0
+A 15 26|||R:OTHER|||important|||REQUIRED|||-NONE-|||0
 
 S Therefore peaple will be able to live with the automobile sosiety and the nature for the future .
 A 0 1|||R:OTHER|||Therefore,|||REQUIRED|||-NONE-|||0
@@ -681,14 +695,12 @@ A 12 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then , how about if the talkkative explains the project errounuosly ?
 A 0 2|||R:ORTH|||Then,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:NOUN|||project?|||REQUIRED|||-NONE-|||0
-A 10 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||erroun|||REQUIRED|||-NONE-|||0
 
 S One car should be used by three persons , so it is hoped will lessen the number of car during the busy hour .
 A 7 9|||R:ORTH|||persons,|||REQUIRED|||-NONE-|||0
-A 13 13|||M:DET|||that|||REQUIRED|||-NONE-|||0
-A 14 15|||R:VERB|||reduce|||REQUIRED|||-NONE-|||0
-A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:OTHER|||that it|||REQUIRED|||-NONE-|||0
+A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And they can make a products and sell it cheaper than most countries .
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
@@ -715,12 +727,12 @@ A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S therefore I brougth a car imidiatly .
 A 0 1|||R:OTHER|||Therefore,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:VERB|||have|||REQUIRED|||-NONE-|||0
-A 5 7|||R:OTHER|||in the past.|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||in my own way.|||REQUIRED|||-NONE-|||0
 
 S Although the weatherrealted factors could be considered , such as the land shape of the area .
-A 2 3|||R:SPELL|||weather-realistic|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||weather-relative|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||considered,|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The one of the reason that the fish is important is the fish can be a important bay for livestock and poultry .
 A 4 5|||R:NOUN:NUM|||reasons|||REQUIRED|||-NONE-|||0
@@ -762,12 +774,13 @@ S in one case for example the copper scroll notes merely that treasure is hidden
 A 0 1|||R:ORTH|||In|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOUN|||case,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
-A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 9 10|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 16 22|||R:OTHER|||avi|||REQUIRED|||-NONE-|||0
 
 S In this case student learn a concept and it is possible to use in other fields .
-A 2 3|||R:NOUN|||case,|||REQUIRED|||-NONE-|||0
-A 4 5|||R:VERB:SVA|||learns|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||case,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||students|||REQUIRED|||-NONE-|||0
+A 15 17|||R:ORTH|||fields.|||REQUIRED|||-NONE-|||0
 
 S This way is the cheapest way for people to have a trip .
 A 1 2|||U:NOUN||||||REQUIRED|||-NONE-|||0
@@ -778,11 +791,9 @@ A 10 11|||R:NOUN:NUM|||fish|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
 
 S Futhermore , a tour guide will also provide safety and security for the travel , since they know already the do 's and don'ts in the tour .
-A 0 2|||R:ORTH|||Futhermore,|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Moreover,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||travel,|||REQUIRED|||-NONE-|||0
-A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 22 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the other hand each academic field needs specialists in order to progress .
 A 3 4|||R:NOUN|||hand,|||REQUIRED|||-NONE-|||0
@@ -799,9 +810,7 @@ S By using new things , which is usually is un known for them and it includes ri
 A 3 5|||R:ORTH|||things,|||REQUIRED|||-NONE-|||0
 A 8 9|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||unknown|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN:NUM|||risks|||REQUIRED|||-NONE-|||0
-A 18 19|||U:PRON||||||REQUIRED|||-NONE-|||0
-A 19 20|||R:OTHER|||them.|||REQUIRED|||-NONE-|||0
+A 18 20|||R:OTHER|||them.|||REQUIRED|||-NONE-|||0
 
 S You can see that inmany books , news , newspaper , TV , computer .
 A 5 9|||R:ORTH|||books, news,|||REQUIRED|||-NONE-|||0
@@ -812,19 +821,20 @@ A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S When many people were very young , they must have mang time to learn knowlegable , They donnot have much time to enjoy life as much as posssbale .
 A 5 7|||R:ORTH|||young,|||REQUIRED|||-NONE-|||0
+A 10 11|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||knowlegable,|||REQUIRED|||-NONE-|||0
-A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 19|||R:VERB|||don|||REQUIRED|||-NONE-|||0
+A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This arguement is not only true now , it is since ages , i want to talk on a live example of Sir .
 A 1 2|||R:SPELL|||argument|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:OTHER|||ages,|||REQUIRED|||-NONE-|||0
 A 12 14|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
-A 17 24|||R:OTHER|||about|||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Last one is they have to study about disease which means that will be save .
 A 8 9|||R:NOUN|||disease,|||REQUIRED|||-NONE-|||0
-A 12 12|||M:PRON|||they|||REQUIRED|||-NONE-|||0
 A 14 15|||R:OTHER|||saved.|||REQUIRED|||-NONE-|||0
 A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
@@ -835,6 +845,8 @@ S -Learn !
 A 0 2|||R:ORTH|||-Learn!|||REQUIRED|||-NONE-|||0
 
 S There are very successful politicians that never tried somthing new .
+A 6 6|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||anything|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||new.|||REQUIRED|||-NONE-|||0
 
 S You can become smarter than the other people .
@@ -882,7 +894,8 @@ A 3 4|||R:VERB:FORM|||cause|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
 
 S You will face huge difficulties in life if you dont know at least something from every subject .
-A 16 18|||R:ORTH|||subject.|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||don't|||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Younger generation are more adaptable thus they can adapt to changing technology .
 A 11 13|||R:ORTH|||technology.|||REQUIRED|||-NONE-|||0
@@ -912,13 +925,12 @@ A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As well as the knowledge plays also important role in the life , which can be aquired by the understanding the concepts rather than learning the things .
 A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||knowledge,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PRON|||it|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||an|||REQUIRED|||-NONE-|||0
 A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||life,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:SPELL|||acquired|||REQUIRED|||-NONE-|||0
-A 18 19|||U:DET||||||REQUIRED|||-NONE-|||0
-A 20 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 26 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 28|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 
 S Most people do n't care about the environment or how consuming cars affect the ozone layer greatly .
 A 2 4|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
@@ -931,18 +943,16 @@ A 8 10|||R:ORTH|||agriculture.|||REQUIRED|||-NONE-|||0
 
 S Also they have more responsibilities than young person .
 A 0 1|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
-A 6 6|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 7 9|||R:ORTH|||person.|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||people.|||REQUIRED|||-NONE-|||0
 
 S The professor said , This can be changed to the different environments .
 A 2 4|||R:ORTH|||said,|||REQUIRED|||-NONE-|||0
-A 5 6|||R:VERB:TENSE|||could|||REQUIRED|||-NONE-|||0
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||environments.|||REQUIRED|||-NONE-|||0
 
 S This casts doubt in the reading passage 's assertion that fluoride prevents dental cavities .
 A 6 8|||R:ORTH|||passage's|||REQUIRED|||-NONE-|||0
-A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 13 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I , on the other hand , have no major responsibility other than studying .
 A 0 2|||R:ORTH|||I,|||REQUIRED|||-NONE-|||0
@@ -977,16 +987,13 @@ A 10 12|||R:ORTH|||placebo.|||REQUIRED|||-NONE-|||0
 
 S Besides , young people uaually like new-fasion thing , like ipod or mp 3 , I can see that main part of young peole ca n't live happily without music in their ear and movies at home .
 A 0 2|||R:ORTH|||Besides,|||REQUIRED|||-NONE-|||0
-A 4 5|||U:ADV||||||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN|||things,|||REQUIRED|||-NONE-|||0
 A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 10 11|||R:NOUN:INFL|||ipods|||REQUIRED|||-NONE-|||0
-A 12 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They are go on do it and do it for better .
 A 2 3|||R:VERB:FORM|||going|||REQUIRED|||-NONE-|||0
-A 4 5|||R:VERB:FORM|||doing|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:FORM|||doing|||REQUIRED|||-NONE-|||0
+A 4 4|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||better.|||REQUIRED|||-NONE-|||0
 
 S However , people do n't know there and they do n't know how to do is better or what they ca n't to do .
@@ -1005,8 +1012,9 @@ A 8 12|||R:ORTH|||fish's population.|||REQUIRED|||-NONE-|||0
 
 S some said this product is recomended for the most important doctor or something like that .
 A 0 1|||R:ORTH|||Some|||REQUIRED|||-NONE-|||0
-A 4 5|||R:VERB:TENSE|||was|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:TENSE|||say|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||recommended|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||by|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||that.|||REQUIRED|||-NONE-|||0
 
 S This creates people to pier pressure .
@@ -1022,25 +1030,23 @@ S For example , last monthe , i bought a product for skin , actully i bought the
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:SPELL|||month,|||REQUIRED|||-NONE-|||0
 A 5 7|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
-A 11 12|||R:NOUN|||skin,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||skin,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
-A 13 14|||R:SPELL|||actully,|||REQUIRED|||-NONE-|||0
-A 14 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 25|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
 
 S Newer vehicles are something could fly the sky , then we need't annoy about trafic jams .
 A 4 4|||M:DET|||that|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||sky,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||needn't|||REQUIRED|||-NONE-|||0
-A 12 13|||R:SPELL|||anno|||REQUIRED|||-NONE-|||0
-A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:TENSE|||don't|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||need|||REQUIRED|||-NONE-|||0
+A 12 17|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
 
 S This offers you a lot more possibilities and you can stay at places you like and avoid the ones you do n't like .
-A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 18|||U:DET||||||REQUIRED|||-NONE-|||0
+A 19 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But when we are in possetion of these products are we really living a dream ?
-A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||possession|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||products,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||dream?|||REQUIRED|||-NONE-|||0
 
 S the sulfur dioxide is generate by several natural processes and several human processes .
@@ -1084,7 +1090,7 @@ A 13 14|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 16 20|||R:OTHER|||others|||REQUIRED|||-NONE-|||0
 
 S I believe that the number of cars may decrease in twenty years ' time for some reasons .
-A 11 13|||R:ORTH|||years'|||REQUIRED|||-NONE-|||0
+A 11 14|||R:ORTH|||years'time|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||reasons.|||REQUIRED|||-NONE-|||0
 
 S This could help them to develop their thinking power , managing power , and good strategy making power to achieve their goals .
@@ -1114,7 +1120,8 @@ A 13 15|||R:ORTH|||job,|||REQUIRED|||-NONE-|||0
 A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It 's is very obbvious that more cars will be sold there .
-A 1 2|||U:CONTR||||||REQUIRED|||-NONE-|||0
+A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
+A 2 3|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 4 5|||R:SPELL|||obvious|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||there.|||REQUIRED|||-NONE-|||0
 
@@ -1124,7 +1131,7 @@ A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 5 6|||U:ADV||||||REQUIRED|||-NONE-|||0
 A 7 10|||R:OTHER|||than|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||before,|||REQUIRED|||-NONE-|||0
-A 16 18|||R:OTHER|||hearing.|||REQUIRED|||-NONE-|||0
+A 16 18|||R:ORTH|||hear.|||REQUIRED|||-NONE-|||0
 
 S For the older , the phone , the only funciton , in some means , is a job , a project , a imper wich master call on him with the related to the jobs .
 A 2 4|||R:ORTH|||older,|||REQUIRED|||-NONE-|||0
@@ -1135,12 +1142,12 @@ A 13 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S According to me , in order to start the carrier through the success it`s importand to have a solid base , that means knowledge and experience .
 A 2 4|||R:ORTH|||me,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:OTHER|||its|||REQUIRED|||-NONE-|||0
-A 14 15|||R:SPELL|||important|||REQUIRED|||-NONE-|||0
-A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Therefore , I support the statement that it is more important to understand ideas and concepts than it is to learn facts .
 A 0 2|||R:ORTH|||Therefore,|||REQUIRED|||-NONE-|||0
-A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 21 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Yes that 's right but there are some young people people think about the idealism of his country about their comunities in Indonesia about their friend who ca n't eat , who ca n't go to school .
 A 0 1|||R:OTHER|||Yes,|||REQUIRED|||-NONE-|||0
@@ -1156,14 +1163,13 @@ A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S However , after prescribed burning , the forests can grow up plentiful , and farmers can get works more than before .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||burning,|||REQUIRED|||-NONE-|||0
-A 10 11|||U:PART||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||plentiful,|||REQUIRED|||-NONE-|||0
-A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S maybe be doing what they already know how to do well is better than to b enneoyed with something sounds news
 A 0 1|||R:ORTH|||Maybe|||REQUIRED|||-NONE-|||0
 A 1 2|||R:VERB:FORM|||being|||REQUIRED|||-NONE-|||0
-A 16 21|||R:OTHER|||s|||REQUIRED|||-NONE-|||0
+A 16 21|||R:OTHER|||enne|||REQUIRED|||-NONE-|||0
 
 S But in general , lies do not last very long .
 A 2 4|||R:ORTH|||general,|||REQUIRED|||-NONE-|||0
@@ -1181,9 +1187,7 @@ S He actually changed the way he played in the latter part of his career when he
 A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We will continue to invent and produce more sofisticated technology based on our own comfort which will decrease our ability to perform physical activities .
-A 8 9|||R:SPELL|||sophisticated|||REQUIRED|||-NONE-|||0
-A 14 15|||R:NOUN|||comfort,|||REQUIRED|||-NONE-|||0
-A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Facts are learned by experinces .
 A 4 6|||R:ORTH|||experinces.|||REQUIRED|||-NONE-|||0
@@ -1199,13 +1203,14 @@ A 11 12|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||economics.|||REQUIRED|||-NONE-|||0
 
 S The purpose of travel is owning a lot of your time to release mind , is n't it .
-A 13 13|||M:DET|||your|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||mind,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||isn|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The bass is not only predetor for menhaden , so if people catch more basses the population of another fishes also will grow up .
+A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||menhaden,|||REQUIRED|||-NONE-|||0
-A 13 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They are today using this way as a curative measure but with increasing importance of preventive medicine , normal , healthy individuals are also attracted towards not using cars wherever possible .
 A 16 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1214,15 +1219,15 @@ S This shows that people are aware of the disadvantages of getting old &raspsquo
 A 12 33|||R:OTHER|||&rasp|||REQUIRED|||-NONE-|||0
 
 S Infact we will need a lot of place were parking all this cars , so we need a lot of project for this incrismt of cars .
-A 0 1|||R:SPELL|||Infact,|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||In fact,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN|||space|||REQUIRED|||-NONE-|||0
-A 8 9|||R:VERB:TENSE|||to|||REQUIRED|||-NONE-|||0
-A 9 10|||R:VERB:FORM|||park|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
 A 11 12|||R:DET|||these|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||cars,|||REQUIRED|||-NONE-|||0
 A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Government use that money in public use and safty .
+A 1 2|||R:VERB:SVA|||uses|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||and.|||REQUIRED|||-NONE-|||0
 A 8 10|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1261,14 +1266,14 @@ A 17 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Board knowledge on may subjects is not possiable to acqurie .
 A 2 3|||R:PREP|||of|||REQUIRED|||-NONE-|||0
-A 7 8|||R:SPELL|||possibil|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||to.|||REQUIRED|||-NONE-|||0
 A 9 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I also think that the AD is a method to feel happy the people , because you can dream ...
-A 12 12|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||people,|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S It is more exciting and memorable .
 A 5 7|||R:ORTH|||memorable.|||REQUIRED|||-NONE-|||0
@@ -1295,7 +1300,9 @@ A 13 15|||R:ORTH|||city,|||REQUIRED|||-NONE-|||0
 A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The lecturer against the authour 's insistments following reasons .
-A 4 6|||R:OTHER|||hour's|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB|||defended|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||authour's|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||reasons.|||REQUIRED|||-NONE-|||0
 
 S In addition , once he told me that he will never take risks of doing other works because he 's been working for it for 1 2 years and he is already &raspsquo; fluent &raspsquo; at it .
@@ -1321,12 +1328,11 @@ A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||much.|||REQUIRED|||-NONE-|||0
 
 S But like the lecturer suggest we could susidise the poor and this policy help to put the right prices to our natural resource and environment .
-A 0 1|||R:OTHER|||But,|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN|||lecturer,|||REQUIRED|||-NONE-|||0
 A 4 5|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB|||save|||REQUIRED|||-NONE-|||0
 A 13 14|||R:VERB:SVA|||helps|||REQUIRED|||-NONE-|||0
-A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There are cars that use gas to power them .
 A 8 10|||R:ORTH|||them.|||REQUIRED|||-NONE-|||0
@@ -1358,10 +1364,9 @@ A 2 3|||R:OTHER|||space,|||REQUIRED|||-NONE-|||0
 A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The advertisemnet says that the car has space for 1 0 people when thhe truth is that the car is just 4 people space , another example is an advertisement of a skin soap , they said that this soap is the best because they say your skin wil be as soft as a fifteen years old princess , or that your skin will be as soft as the Jennife Lopez 's skin .
-A 13 14|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||the|||REQUIRED|||-NONE-|||0
 A 15 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 41 60|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 61 74|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 41 74|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S That means people have something that is specializing in one subject could get more chance of hirring .
 A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1372,6 +1377,8 @@ A 14 16|||R:ORTH|||said.|||REQUIRED|||-NONE-|||0
 
 S He will conceder him self losing the years that he spent on colecting the money .
 A 2 3|||R:MORPH|||concede|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||self,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:SPELL|||collecting|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||money.|||REQUIRED|||-NONE-|||0
 
@@ -1420,8 +1427,8 @@ S when you be successful you will have a reasons for live .
 A 0 1|||R:ORTH|||When|||REQUIRED|||-NONE-|||0
 A 2 3|||R:MORPH|||are|||REQUIRED|||-NONE-|||0
 A 3 4|||R:OTHER|||successful,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN:NUM|||reason|||REQUIRED|||-NONE-|||0
-A 9 10|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+A 9 10|||R:PREP|||to|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||live.|||REQUIRED|||-NONE-|||0
 
 S And the important is travel without the tour guide .
@@ -1440,6 +1447,7 @@ A 6 8|||R:OTHER|||above, I|||REQUIRED|||-NONE-|||0
 A 16 75|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S and when we want got those energy , we need desport the ground and soil or oceans , because those energy were found in those palce .
+A 0 1|||R:ORTH|||And|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:FORM|||to get|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||energy,|||REQUIRED|||-NONE-|||0
 A 10 10|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
@@ -1474,7 +1482,7 @@ A 11 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S This saved valuable time , one can invest in more important activity .
 A 3 5|||R:ORTH|||time,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB:TENSE|||could|||REQUIRED|||-NONE-|||0
-A 11 13|||R:ORTH|||activity.|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||activities.|||REQUIRED|||-NONE-|||0
 
 S But , even if this student passes the course , he/she will not be a succesfull lawyer in the future about contracts .
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
@@ -1509,6 +1517,7 @@ A 9 10|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||facts.|||REQUIRED|||-NONE-|||0
 
 S From this professor agreed some ideas and dis agreed some ideas .
+A 1 2|||R:DET|||this,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||ideas.|||REQUIRED|||-NONE-|||0
 
 S But , I went to Juju island more than three times .
@@ -1522,8 +1531,9 @@ A 13 15|||R:ORTH|||interest.|||REQUIRED|||-NONE-|||0
 
 S The second one is to specialize in one specific subject , one has his own tast in studing , so let us talk about this subject
 A 9 11|||R:ORTH|||subject,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:SPELL|||tas|||REQUIRED|||-NONE-|||0
-A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||interest|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||studying,|||REQUIRED|||-NONE-|||0
+A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think that the car , twenty years from now will use electric fuel not gasoline .
 A 4 6|||R:ORTH|||car,|||REQUIRED|||-NONE-|||0
@@ -1545,6 +1555,7 @@ A 14 16|||R:ORTH|||true.|||REQUIRED|||-NONE-|||0
 
 S After the contruction in 1 9 0 8 of the first commercial car the ford T , man -kind has been subdued to the use of the car .
 A 2 3|||R:SPELL|||construction|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
 A 12 13|||R:NOUN|||car,|||REQUIRED|||-NONE-|||0
 A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -1582,18 +1593,15 @@ A 12 14|||R:ORTH|||ago,|||REQUIRED|||-NONE-|||0
 A 19 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They need the cars fore many things sathsh as trasportation , inter tanmant and bisnes .
-A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
 A 4 5|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 7 8|||R:ADJ|||such|||REQUIRED|||-NONE-|||0
 A 9 12|||R:OTHER|||transport,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||bisnes.|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Because of the requirement of men going to army , men have to sacrifise their preciouse time of youth .
 A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||army,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:VERB|||spend|||REQUIRED|||-NONE-|||0
-A 15 16|||R:SPELL|||precious|||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If scientist will do something different like if he/she can modify the form of carbohydarte like gelatinized and nongelatinized carbohydrate then incorporated in fish feed then fish may be utilize more than previous then if fish utilize more then chances of growth will be more then it may be appreciated by everyone .
 A 1 1|||M:DET|||a|||REQUIRED|||-NONE-|||0
@@ -1602,9 +1610,10 @@ A 5 6|||R:OTHER|||different,|||REQUIRED|||-NONE-|||0
 A 12 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S While turned out reaults from both experiences are same , the method and the time that brings a result is not same .
-A 1 4|||R:OTHER|||the repercussions|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||faults|||REQUIRED|||-NONE-|||0
 A 8 10|||R:OTHER|||identical,|||REQUIRED|||-NONE-|||0
-A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because you do not need to be a hero in order to try new things , you just need to want it and know that any result will be a succes in things that you want or in learning .
 A 14 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1671,8 +1680,9 @@ A 15 15|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||up.|||REQUIRED|||-NONE-|||0
 
 S in writting we are nearly unable to show the felings of people , but in the action on TV we can understand well than book .
-A 0 2|||R:OTHER|||In the world of television,|||REQUIRED|||-NONE-|||0
-A 9 26|||R:OTHER|||shamings|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||In the world of television|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||shams|||REQUIRED|||-NONE-|||0
+A 12 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These kind of fish ca n't live so long in water that contain salt .
 A 1 2|||R:NOUN:NUM|||kinds|||REQUIRED|||-NONE-|||0
@@ -1705,6 +1715,7 @@ A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||society.|||REQUIRED|||-NONE-|||0
 
 S but if they needs money for these perpose they can do a extra hardwork .
+A 0 1|||R:ORTH|||But|||REQUIRED|||-NONE-|||0
 A 3 4|||R:VERB:SVA|||need|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN|||things,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
@@ -1716,11 +1727,12 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S However , after I learned all sides happening in a company such as marketing , accounting , leadership , financial accounting , and business communication etc. .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||the things|||REQUIRED|||-NONE-|||0
-A 13 17|||R:ORTH|||marketing, accounting,|||REQUIRED|||-NONE-|||0
-A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 15|||R:ORTH|||marketing,|||REQUIRED|||-NONE-|||0
+A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 21 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S An example that confirms or supports my point is clear in the chinese cars .
-A 13 15|||R:ORTH|||cars.|||REQUIRED|||-NONE-|||0
+A 12 15|||R:ORTH|||Chinese cars.|||REQUIRED|||-NONE-|||0
 
 S Furthermore , it is way better to live on knowledge than on guess and common facts that anyone could learn through the medias .
 A 0 2|||R:ORTH|||Furthermore,|||REQUIRED|||-NONE-|||0
@@ -1754,6 +1766,7 @@ A 6 7|||R:OTHER|||will|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||countries.|||REQUIRED|||-NONE-|||0
 
 S My 1 0th exam and 1 2th exam is very good .
+A 8 9|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||good.|||REQUIRED|||-NONE-|||0
 
 S if they do thing they go for another untill they know how it woek and what is useful think of it .
@@ -1770,7 +1783,7 @@ A 19 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S we can see young people working over countries or working for others with tools like telephones or internet even if they look they spend their time just for themselves by being whole day in their room .
 A 0 1|||R:ORTH|||We|||REQUIRED|||-NONE-|||0
 A 6 7|||R:PREP|||in|||REQUIRED|||-NONE-|||0
-A 18 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 37|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 
 S Also , most of people prefer to entertain athletics rather than other arts .
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
@@ -1793,10 +1806,11 @@ A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I belive to have broad knowledge to specialize in one specific subject have outweigh than to have broad knowledge of many academic subjects .
+A 1 3|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 12 13|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 16 17|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 19 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 22 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my opinion if someone thinks one is more important than other why not to focuse on one ?
 A 2 3|||R:NOUN|||opinion,|||REQUIRED|||-NONE-|||0
@@ -1805,8 +1819,7 @@ A 14 16|||R:VERB|||focus|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And people feel more arkward when it comes to their ears that this is something going on as a current event .
-A 3 4|||R:OTHER|||more.|||REQUIRED|||-NONE-|||0
-A 4 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He would never want his business or company to be stagnant .
 A 10 12|||R:ORTH|||stagnant.|||REQUIRED|||-NONE-|||0
@@ -1822,7 +1835,8 @@ A 0 7|||R:OTHER|||The health of|||REQUIRED|||-NONE-|||0
 A 9 10|||R:OTHER|||is very harmful.|||REQUIRED|||-NONE-|||0
 
 S and i had listen " success attract success and money attract money "
-A 1 3|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
+A 1 2|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||heard|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB:SVA|||attracts|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:SVA|||attracts|||REQUIRED|||-NONE-|||0
 
@@ -1840,9 +1854,9 @@ A 5 7|||R:ORTH|||film.|||REQUIRED|||-NONE-|||0
 S After that i studied in more depth to the topics and understood the ideas and concept of the topic .
 A 1 2|||R:OTHER|||that,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
-A 7 8|||R:PREP|||about|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 15 16|||R:NOUN:NUM|||concepts|||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S When the forest is caught on fire the wood turns into ashes which is pottesium .
 A 6 7|||R:OTHER|||fire,|||REQUIRED|||-NONE-|||0
@@ -1857,12 +1871,15 @@ A 14 16|||R:ORTH|||years.|||REQUIRED|||-NONE-|||0
 
 S in the fact the matter that alot of acadmic subject can not be used seperatley .
 A 0 1|||R:ORTH|||In|||REQUIRED|||-NONE-|||0
+A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
 A 2 3|||R:OTHER|||fact,|||REQUIRED|||-NONE-|||0
-A 3 6|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 3 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||lot|||REQUIRED|||-NONE-|||0
 A 9 10|||R:NOUN:NUM|||subjects|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||cannot|||REQUIRED|||-NONE-|||0
 A 14 15|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PUNCT|||in.|||REQUIRED|||-NONE-|||0
 
 S According to the lecture , management should plan carefully when hire well-trained people or teach them how to manage the fire in a better way before fire .
 A 3 5|||R:ORTH|||lecture,|||REQUIRED|||-NONE-|||0
@@ -1885,6 +1902,7 @@ A 13 15|||R:ORTH|||things.|||REQUIRED|||-NONE-|||0
 
 S Althogh some people say that the treasures are already found .
 A 0 2|||U:NOUN|||Some|||REQUIRED|||-NONE-|||0
+A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||found.|||REQUIRED|||-NONE-|||0
 
 S As far as I am concerned I agree with this statement , however some people are not agree with my opinion .
@@ -1893,12 +1911,11 @@ A 10 12|||R:ORTH|||statement,|||REQUIRED|||-NONE-|||0
 A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Carusage in the United States is very important in every day life , aswell as in many latinamerican countries , and thirdworld countries .
-A 11 14|||R:ORTH|||life, as well|||REQUIRED|||-NONE-|||0
+A 9 14|||R:ORTH|||everyday life, as well|||REQUIRED|||-NONE-|||0
 A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , companies tend to cut thier profits for workers .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
-A 6 7|||U:ADJ||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||workers.|||REQUIRED|||-NONE-|||0
 
 S Many people are willing to buy these cars .
@@ -1920,8 +1937,7 @@ A 4 4|||M:PREP|||with|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||reasons:|||REQUIRED|||-NONE-|||0
 A 12 13|||R:MORPH|||effect|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||view,|||REQUIRED|||-NONE-|||0
-A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 19 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First of all , the population of the world is going down .
 A 2 4|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
@@ -1942,12 +1958,12 @@ A 4 6|||R:ORTH|||warming.|||REQUIRED|||-NONE-|||0
 
 S So , Ho Chi Minh city will develope
 A 0 2|||R:ORTH|||So,|||REQUIRED|||-NONE-|||0
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||develop|||REQUIRED|||-NONE-|||0
 A 8 8|||M:OTHER|||and develop.|||REQUIRED|||-NONE-|||0
 
 S Peolple like to drive different types of models and they want some thinmg extra in it .
-A 1 2|||R:SPELL|||likes|||REQUIRED|||-NONE-|||0
-A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These useful skills that I learned from reality are going to be the greatest gift for my future career , and they can not be found in the text books anyways .
 A 19 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1966,9 +1982,8 @@ A 2 2|||M:DET|||an|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||thing.|||REQUIRED|||-NONE-|||0
 
 S books some times have an old information so it will be wrong .
-A 0 1|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 1 2|||R:ORTH|||Some|||REQUIRED|||-NONE-|||0
-A 2 3|||R:NOUN|||times, books|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Some books|||REQUIRED|||-NONE-|||0
+A 2 3|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||information,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||wrong.|||REQUIRED|||-NONE-|||0
@@ -1980,14 +1995,12 @@ A 12 14|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
 
 S however , I agree that having knowledge is being useful whenever we necessary information .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||need|||REQUIRED|||-NONE-|||0
+A 12 12|||M:VERB|||need|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||information.|||REQUIRED|||-NONE-|||0
 
 S But when teacher ask me did I understand it , I said yes .
 A 2 2|||M:DET|||my|||REQUIRED|||-NONE-|||0
 A 3 4|||R:VERB:TENSE|||asked|||REQUIRED|||-NONE-|||0
-A 5 6|||R:OTHER|||if|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:TENSE|||understood|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||it,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||yes.|||REQUIRED|||-NONE-|||0
 
@@ -2005,9 +2018,9 @@ A 0 2|||R:ORTH|||Next,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||advertisements.|||REQUIRED|||-NONE-|||0
 
 S Successful People are explain any oher mater and discuss any other problem .
-A 3 4|||R:VERB:FORM|||explaining|||REQUIRED|||-NONE-|||0
-A 5 7|||R:OTHER|||problem|||REQUIRED|||-NONE-|||0
-A 8 9|||R:VERB:FORM|||discussing|||REQUIRED|||-NONE-|||0
+A 1 2|||R:ORTH|||people|||REQUIRED|||-NONE-|||0
+A 3 3|||M:OTHER|||able to|||REQUIRED|||-NONE-|||0
+A 6 7|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||problem.|||REQUIRED|||-NONE-|||0
 
 S But it dengerous , because some driver make trobull with other driver and they when some driver crash their car then streets are busy .
@@ -2026,8 +2039,9 @@ A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Also , the professor indicates prescribed fire should be carful when we use prescribed fire solution .
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||that|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||carousel|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If they cannot pay the high prices any more , people have to change into a bus or a train .
 A 8 10|||R:ORTH|||more,|||REQUIRED|||-NONE-|||0
@@ -2049,7 +2063,7 @@ S The age , in my view , sometimes is a barrier to do somethings in life .
 A 1 3|||R:ORTH|||age,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||view,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:VERB:FORM|||doing|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||things|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:NUM|||something|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S In simple words they say they lost their appeal .
@@ -2071,15 +2085,14 @@ A 0 2|||R:ORTH|||Then,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||them.|||REQUIRED|||-NONE-|||0
 
 S Critics of this policy focus in three poins ; first , Yellowstone fires scorched a large area of land therefore a lot of plant species were lost .
-A 5 6|||R:PREP|||on|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOUN|||areas|||REQUIRED|||-NONE-|||0
-A 9 11|||R:ORTH|||first,|||REQUIRED|||-NONE-|||0
-A 14 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 11|||R:ORTH|||poins; first,|||REQUIRED|||-NONE-|||0
+A 13 28|||R:OTHER|||scor|||REQUIRED|||-NONE-|||0
 
 S In my past experiences , there are some lecture which is completely baed on facts , and the chance for me to apply them is just rare .
 A 3 5|||R:ORTH|||experiences,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN:NUM|||lectures|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||by|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||facts,|||REQUIRED|||-NONE-|||0
 A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -2116,8 +2129,10 @@ A 4 6|||R:OTHER|||living.|||REQUIRED|||-NONE-|||0
 S I the same other people see many tims on TV rich people are intrested in politica , sports new technologies and also in spaise .
 A 3 3|||M:PREP|||as|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN|||people|||REQUIRED|||-NONE-|||0
+A 13 14|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 15 16|||R:SPELL|||politics,|||REQUIRED|||-NONE-|||0
-A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As a result , studies in britain have shown that fluoride increases the activity can lead to more bone density and therefore less bone fractures among the elderly .
 A 2 4|||R:ORTH|||result,|||REQUIRED|||-NONE-|||0
@@ -2147,14 +2162,13 @@ A 13 15|||R:ORTH|||much,|||REQUIRED|||-NONE-|||0
 A 19 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When you understand the concepts and ideas is up to you to prove them , to see if they are really what you have been told , i think this is the main reason why students prefere facts rather than just understanding ideas and concepts .
-A 6 7|||R:NOUN|||ideas,|||REQUIRED|||-NONE-|||0
 A 7 7|||M:PRON|||it|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||them,|||REQUIRED|||-NONE-|||0
 A 17 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S for example , if you are attempting to study arts and scienses and to get equalifications in both , you are extraordinary creation .
 A 0 3|||R:ORTH|||For example,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:NOUN|||sci-fi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||sciencies|||REQUIRED|||-NONE-|||0
 A 14 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Therefore , as long as it is a country where I can understand their language , I will travel alone .
@@ -2176,11 +2190,12 @@ S Because they sent out 2 0 % of the whole carbon emission .
 A 11 13|||R:ORTH|||emission.|||REQUIRED|||-NONE-|||0
 
 S Try to combine the process of My opinion is so easy to understand one thing ( process , as i mean ) than to remember many divided facts or dates .
-A 16 18|||R:ORTH|||process,|||REQUIRED|||-NONE-|||0
-A 19 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||opinion.|||REQUIRED|||-NONE-|||0
+A 8 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is also take risks raher than only doing .
 A 3 4|||R:VERB:FORM|||taking|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||risks,|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||rather|||REQUIRED|||-NONE-|||0
 A 9 10|||R:OTHER|||it.|||REQUIRED|||-NONE-|||0
 
@@ -2197,10 +2212,9 @@ S Not being with a guide gives you the liberty to visit the places you want to v
 A 18 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Usually in the advertisements a presentable face is used they try to present some modals , nice babies , known faces as sports men , only to let the product looks better than it was .
-A 0 1|||R:OTHER|||Usually,|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN|||advertisements,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||used,|||REQUIRED|||-NONE-|||0
-A 13 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Not that bungee jumping is something that every young person wants to do but even if he wanted to do it he probably would n't be able to .
 A 12 13|||R:OTHER|||do,|||REQUIRED|||-NONE-|||0
@@ -2222,6 +2236,7 @@ A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S and then , makers of cars need to develop the systems for safe almost completely .
 A 1 3|||R:ORTH|||then,|||REQUIRED|||-NONE-|||0
+A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 A 12 13|||R:NOUN:NUM|||safes|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||completely.|||REQUIRED|||-NONE-|||0
 
@@ -2231,9 +2246,8 @@ A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
 A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Now a days , there are many people who think they are the most important thing and they only have to work for themselves .
-A 0 1|||R:OTHER|||Now,|||REQUIRED|||-NONE-|||0
-A 1 4|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 21 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 2 4|||R:ORTH|||days,|||REQUIRED|||-NONE-|||0
+A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S in general , there are many peples in a book .
 A 0 3|||R:ORTH|||In general,|||REQUIRED|||-NONE-|||0
@@ -2250,8 +2264,8 @@ A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The second critic of this method is that the costumer lose all critical reflex and that he is not in guard .
 A 10 11|||R:VERB:SVA|||loses|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN:NUM|||reflexes|||REQUIRED|||-NONE-|||0
-A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As a result , it will be easier for you to learn many things .
 A 2 4|||R:ORTH|||result,|||REQUIRED|||-NONE-|||0
@@ -2278,8 +2292,8 @@ S So the importance of communities in sosiety decreased .
 A 7 9|||R:ORTH|||decreased.|||REQUIRED|||-NONE-|||0
 
 S but found that successful people use the people money and use there idea for a way to success .
-A 12 12|||M:DET|||an|||REQUIRED|||-NONE-|||0
-A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
+A 17 19|||R:ORTH|||success.|||REQUIRED|||-NONE-|||0
 
 S In my case , when I did a job interview , the employer ask me question about commensence like society , policy , art , and so on .
 A 2 4|||R:ORTH|||case,|||REQUIRED|||-NONE-|||0
@@ -2293,7 +2307,7 @@ S At some time they have to face the failure 's and lot of strugles .
 A 2 3|||R:NOUN|||time,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:NOUN:POSS|||failures|||REQUIRED|||-NONE-|||0
 A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 13 14|||R:SPELL|||strug|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:INFL|||strugle|||REQUIRED|||-NONE-|||0
 A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Because it transmit the hebitats from Eastern Europe to different places in the world .
@@ -2309,9 +2323,9 @@ A 0 2|||U:DET|||Another|||REQUIRED|||-NONE-|||0
 A 4 4|||M:PREP|||that|||REQUIRED|||-NONE-|||0
 A 9 9|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||exotic|||REQUIRED|||-NONE-|||0
-A 12 13|||R:SPELL|||luxer|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||luxury|||REQUIRED|||-NONE-|||0
 A 13 14|||R:OTHER|||cars in|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 17|||R:ORTH|||industries.|||REQUIRED|||-NONE-|||0
 
 S Now the market is occupied by lots of cars with varying comforts .
 A 11 13|||R:ORTH|||comforts.|||REQUIRED|||-NONE-|||0
@@ -2328,7 +2342,7 @@ S So , some people use car only by move somewher .
 A 0 2|||R:ORTH|||So,|||REQUIRED|||-NONE-|||0
 A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB:FORM|||moving|||REQUIRED|||-NONE-|||0
-A 9 11|||R:OTHER|||someway.|||REQUIRED|||-NONE-|||0
+A 9 11|||R:OTHER|||someplace.|||REQUIRED|||-NONE-|||0
 
 S They have to think twice before performing even routine activities of life .
 A 11 13|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
@@ -2357,7 +2371,7 @@ S Also its been on all the sections because we use the head phones it makes alot
 A 0 1|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
 A 1 2|||R:PRON|||it|||REQUIRED|||-NONE-|||0
 A 2 2|||M:VERB:TENSE|||has|||REQUIRED|||-NONE-|||0
-A 11 13|||R:NOUN|||headphones,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||phones,|||REQUIRED|||-NONE-|||0
 A 15 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They are clean and big and so on .
@@ -2380,6 +2394,8 @@ A 5 5|||M:PRON|||I|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||English.|||REQUIRED|||-NONE-|||0
 
 S Buses should be reserved for spots where there is no possibility to set up tramway routes .
+A 11 12|||R:PART|||of|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||setting|||REQUIRED|||-NONE-|||0
 A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S I think that it is not always fair because not all the students work in the same way and with the same responsibility .
@@ -2434,15 +2450,15 @@ A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Second differance between the encylopedia is that there a lot of viruses and hackers in internet and one of the hackers can easily change the informations about any kind of topic .
 A 0 1|||R:OTHER|||Second,|||REQUIRED|||-NONE-|||0
 A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 1 2|||R:SPELL|||difference|||REQUIRED|||-NONE-|||0
 A 8 8|||M:VERB|||are|||REQUIRED|||-NONE-|||0
-A 12 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 30 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If i want to win a case in court in - for example , a case where technical questions are to be considered- it is not enough to just know about the law .
 A 1 2|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
 A 9 10|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
-A 16 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Second , if there is any problem with the goods .
 A 0 2|||R:ORTH|||Second,|||REQUIRED|||-NONE-|||0
@@ -2471,7 +2487,7 @@ A 8 10|||R:ORTH|||harder,|||REQUIRED|||-NONE-|||0
 A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S One reason is that endangered animals is breaking nature .
-A 6 7|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 6 8|||R:VERB:TENSE|||break|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||nature.|||REQUIRED|||-NONE-|||0
 
 S so i think having selfconfdence is more important than having knowledge .
@@ -2481,6 +2497,7 @@ A 10 12|||R:ORTH|||knowledge.|||REQUIRED|||-NONE-|||0
 
 S A younger person however will need to time to define his or her wants in life .
 A 6 7|||U:PART||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||needs|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S The work should be good , and not just bundle of meaningless .
@@ -2503,19 +2520,16 @@ S First , advertissment make me to buy some thing unplanly .
 A 0 2|||R:ORTH|||First,|||REQUIRED|||-NONE-|||0
 A 3 4|||R:VERB:SVA|||makes|||REQUIRED|||-NONE-|||0
 A 5 6|||U:VERB:FORM||||||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN:NUM|||things|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||unplanly.|||REQUIRED|||-NONE-|||0
 
 S There are two major reasons : it is profit to socialization and mental health .
 A 6 8|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 9 10|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||health.|||REQUIRED|||-NONE-|||0
 
 S For the these reasons , I have to take high score on TOEFL .
 A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||reasons,|||REQUIRED|||-NONE-|||0
-A 8 9|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 9 11|||R:WO|||score high|||REQUIRED|||-NONE-|||0
+A 9 9|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||TOEFL.|||REQUIRED|||-NONE-|||0
 
 S I believe , this number is increasing and will continue to increase as generations of educated people pass on their wisdom to their children .
@@ -2539,7 +2553,7 @@ S they just creat impression such well that people are drag to buy it .
 A 0 1|||R:ORTH|||They|||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||create|||REQUIRED|||-NONE-|||0
 A 3 3|||M:DET|||an|||REQUIRED|||-NONE-|||0
-A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 5 6|||U:ADV||||||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:FORM|||dragging|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
@@ -2551,14 +2565,14 @@ S Exactly like master of none and Jack of all .
 A 8 10|||R:ORTH|||all.|||REQUIRED|||-NONE-|||0
 
 S The economy would benefit because this would enable it to have a worldwide compete with the car manufactures .
-A 13 14|||R:OTHER|||competitive|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||competition|||REQUIRED|||-NONE-|||0
 A 17 18|||R:MORPH|||manufacturers|||REQUIRED|||-NONE-|||0
 A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S He and I are good pal but we do n't want to get a lower score than each other .
 A 5 6|||R:OTHER|||friends,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:CONTR|||not|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is composed by not only senior but also University students .
 A 3 4|||U:PREP||||||REQUIRED|||-NONE-|||0
@@ -2570,8 +2584,9 @@ A 5 7|||R:OTHER|||long-term|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||process.|||REQUIRED|||-NONE-|||0
 
 S And if the knowledge is in all the area 's then it gives you an added advatage to you knowledge level .
-A 8 9|||R:NOUN|||areas,|||REQUIRED|||-NONE-|||0
-A 9 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||areas,|||REQUIRED|||-NONE-|||0
+A 9 10|||U:CONTR||||||REQUIRED|||-NONE-|||0
 A 16 17|||R:SPELL|||advantage|||REQUIRED|||-NONE-|||0
 A 18 19|||R:PRON|||your|||REQUIRED|||-NONE-|||0
 A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -2604,10 +2619,10 @@ A 8 8|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
 A 11 25|||R:OTHER|||person,|||REQUIRED|||-NONE-|||0
 
 S On the other hand , sientist agree that the predators are beneficial to control the population tof the menhaden .
-A 3 4|||R:OTHER|||hand,|||REQUIRED|||-NONE-|||0
-A 4 5|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 3 5|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN:INFL|||sientists|||REQUIRED|||-NONE-|||0
+A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Do we consider her as a smart girl ?
 A 7 9|||R:ORTH|||girl?|||REQUIRED|||-NONE-|||0
@@ -2622,7 +2637,9 @@ A 4 6|||R:ORTH|||end.|||REQUIRED|||-NONE-|||0
 
 S Who we mach them togather .
 A 2 3|||R:MORPH|||mache|||REQUIRED|||-NONE-|||0
-A 4 6|||R:ORTH|||to gather.|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PART|||to|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||gather?|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S They explain the specific points useing the examples about dinosaurs 's behabiar and physical face .
 A 5 6|||R:VERB:INFL|||using|||REQUIRED|||-NONE-|||0
@@ -2633,10 +2650,11 @@ A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S the lecture mentions about Mongol court recods of the time .
 A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
-A 6 7|||R:SPELL|||records|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||time.|||REQUIRED|||-NONE-|||0
 
 S It is harmful for many others animals as well as it pollutes the water sources .
+A 10 11|||U:PRON||||||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||sources.|||REQUIRED|||-NONE-|||0
 
 S first , theacher is make a right way give to us , so every teacher is make a confidence to students .
@@ -2644,10 +2662,9 @@ A 0 1|||R:OTHER|||First,|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||teacher|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:FORM|||making|||REQUIRED|||-NONE-|||0
-A 5 6|||R:DET|||the|||REQUIRED|||-NONE-|||0
-A 8 10|||R:WO|||to give|||REQUIRED|||-NONE-|||0
+A 8 8|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||us,|||REQUIRED|||-NONE-|||0
-A 16 22|||R:OTHER|||making|||REQUIRED|||-NONE-|||0
+A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We do n't usually study these subject very deaply .
 A 1 3|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
@@ -2671,11 +2688,12 @@ A 9 11|||R:ORTH|||Belgrano,|||REQUIRED|||-NONE-|||0
 A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First reason , students are very critism and always have many ideas to develop her opinion .
-A 1 3|||R:ORTH|||reason,|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||of all,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:ADJ|||critiquistic|||REQUIRED|||-NONE-|||0
-A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They may go to the house whitch the elderly person lives , and help to eat food and walk .
+A 6 7|||R:VERB|||to help|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||lives,|||REQUIRED|||-NONE-|||0
 A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -2683,16 +2701,12 @@ S There are a lot of big streets in my town .
 A 9 11|||R:ORTH|||town.|||REQUIRED|||-NONE-|||0
 
 S the you ng passes the diseases to a couple of people here the young still enjoying life
-A 0 3|||R:ORTH|||The young|||REQUIRED|||-NONE-|||0
-A 3 9|||R:OTHER|||people still|||REQUIRED|||-NONE-|||0
-A 9 10|||R:OTHER|||enjoy|||REQUIRED|||-NONE-|||0
-A 10 11|||R:NOUN|||life|||REQUIRED|||-NONE-|||0
-A 12 14|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||life.|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Then|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||here,|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It would be a really wasteful idean .
-A 6 7|||R:SPELL|||idea.|||REQUIRED|||-NONE-|||0
-A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||idean.|||REQUIRED|||-NONE-|||0
 
 S For example , they can read again if they want , and back to the page that they can not understand or they are impressed .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
@@ -2715,17 +2729,23 @@ S whlie you will be help each other of work together after gratuation from unive
 A 0 1|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 1 2|||R:ORTH|||You|||REQUIRED|||-NONE-|||0
 A 3 4|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 7 8|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||working|||REQUIRED|||-NONE-|||0
 A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 12|||R:SPELL|||graduation|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||university.|||REQUIRED|||-NONE-|||0
 
 S he usually bring a book , and ask something to some one , he wants to understand the bood
+A 0 1|||R:ORTH|||He|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:SVA|||brings|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||book,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:SVA|||asks|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||one,|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Operation room is not a bookmaker office or lottery house .
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:ORTH|||Room|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOUN|||bookmaker's|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||house.|||REQUIRED|||-NONE-|||0
 
@@ -2814,8 +2834,9 @@ A 14 16|||R:ORTH|||difficult.|||REQUIRED|||-NONE-|||0
 
 S In this case the advertisement totaly make a impact in that baby .
 A 2 3|||R:NOUN|||case,|||REQUIRED|||-NONE-|||0
-A 5 7|||R:OTHER|||totalises|||REQUIRED|||-NONE-|||0
-A 8 8|||M:ADJ|||positive|||REQUIRED|||-NONE-|||0
+A 5 6|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:SVA|||makes|||REQUIRED|||-NONE-|||0
+A 8 8|||M:ADJ|||huge|||REQUIRED|||-NONE-|||0
 A 9 10|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||baby.|||REQUIRED|||-NONE-|||0
 
@@ -2827,10 +2848,6 @@ A 0 2|||R:ORTH|||Lastly,|||REQUIRED|||-NONE-|||0
 A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When a talk about reaserch I mean ask people that had the product like friends , family or go to forums on the Internet .
-A 1 3|||R:OTHER|||talking|||REQUIRED|||-NONE-|||0
-A 4 5|||R:SPELL|||reaserch,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:FORM|||asking|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||product,|||REQUIRED|||-NONE-|||0
 A 14 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As it is important to see your work in the context of the whole car , he now still benefits from his broadly chosen majors in college .
@@ -2857,7 +2874,6 @@ A 11 13|||R:ORTH|||places.|||REQUIRED|||-NONE-|||0
 
 S Really successful people gained their fortune by doing somethig new , something that no one else has ever done before , that means that nobody knew how to do it well that was their risk .
 A 8 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 16 17|||R:VERB:TENSE|||had|||REQUIRED|||-NONE-|||0
 A 19 21|||R:ORTH|||before,|||REQUIRED|||-NONE-|||0
 A 21 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 32 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -2887,7 +2903,8 @@ A 9 11|||R:ORTH|||developed.|||REQUIRED|||-NONE-|||0
 S For example , when I was freshman at Meiji University in Japan , my classmetes and I traveled for China .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||Japan,|||REQUIRED|||-NONE-|||0
-A 16 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||classmates|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Some people dislike traveling in groups , having to follow strict time schedules , and following rules .
 A 5 7|||R:ORTH|||groups,|||REQUIRED|||-NONE-|||0
@@ -2934,7 +2951,6 @@ A 1 2|||R:MORPH|||economic|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||best.|||REQUIRED|||-NONE-|||0
 
 S He poinetd out that climate plays a role in the erosion of materials .
-A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||materials.|||REQUIRED|||-NONE-|||0
 
 S If they are a family who likes to go places , they would prefer a car against other vehicles .
@@ -2951,13 +2967,14 @@ A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 33 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S an 7unsuspection user cannto tell the entruy has vees tampered with .
-A 0 2|||R:OTHER|||An 7-unsuspection|||REQUIRED|||-NONE-|||0
+A 0 1|||R:ORTH|||An|||REQUIRED|||-NONE-|||0
 A 8 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is prevented if a broad choice is given .
 A 8 10|||R:ORTH|||given.|||REQUIRED|||-NONE-|||0
 
 S Usually i do n't want just myself in an unknown place .
+A 0 1|||R:OTHER|||Usually,|||REQUIRED|||-NONE-|||0
 A 1 4|||R:ORTH|||I don't|||REQUIRED|||-NONE-|||0
 A 5 5|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||place.|||REQUIRED|||-NONE-|||0
@@ -2998,9 +3015,9 @@ A 9 11|||R:ORTH|||product.|||REQUIRED|||-NONE-|||0
 
 S successful therapist need to know that one treatment can help one person but for another could be not approprite .
 A 0 1|||R:ORTH|||Successful|||REQUIRED|||-NONE-|||0
-A 2 3|||R:MORPH|||needs|||REQUIRED|||-NONE-|||0
-A 16 18|||R:WO|||not be|||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN:NUM|||therapists|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PRON|||it|||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In today 's world whe have just developed the first aspect .
 A 1 3|||R:ORTH|||today's|||REQUIRED|||-NONE-|||0
@@ -3051,8 +3068,8 @@ S there are many people like me , then fashion market will become develop .
 A 0 1|||R:ORTH|||There|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||me,|||REQUIRED|||-NONE-|||0
 A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 11 13|||R:VERB|||become.|||REQUIRED|||-NONE-|||0
-A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||more|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||popular.|||REQUIRED|||-NONE-|||0
 
 S The student must be capable of understanding ideas and concepts , and at the same time , knowing the way how they must be developed .
 A 9 11|||R:ORTH|||concepts,|||REQUIRED|||-NONE-|||0
@@ -3069,8 +3086,8 @@ A 0 2|||R:ORTH|||Second,|||REQUIRED|||-NONE-|||0
 A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The companies want to show there product as the best one in the competitive market and in this race they generally mislead the consumer .
-A 5 6|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
-A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First of all , the lecture thinks that take the gas tax to reduce the number of gas consumers is not good for economics .
 A 2 4|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
@@ -3087,7 +3104,6 @@ A 12 14|||R:ORTH|||times.|||REQUIRED|||-NONE-|||0
 
 S but as we are young our body generates the new cell .
 A 0 1|||R:ORTH|||But|||REQUIRED|||-NONE-|||0
-A 4 5|||R:OTHER|||young,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||cell.|||REQUIRED|||-NONE-|||0
 
 S It is a brillant idea , and you know that you are really good working with small boys and girls , but you have to risk your work , your salary , and with this almost your life for an idea that may or may not work .
@@ -3096,8 +3112,9 @@ A 4 6|||R:ORTH|||idea,|||REQUIRED|||-NONE-|||0
 A 18 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It 's modren life now .
-A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 2 3|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||It's|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 2 3|||R:ADJ|||new|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||now.|||REQUIRED|||-NONE-|||0
 
 S Brifly , sharing the cost of vecation trip is very good advantege for travel .
@@ -3116,9 +3133,8 @@ A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S For exemple , you were working like broadcaster but in the office and city where you are working .
 A 1 2|||R:SPELL|||example,|||REQUIRED|||-NONE-|||0
 A 2 3|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 4 6|||R:VERB:TENSE|||worked|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She know just that what teacher has told her but no more .
 A 1 2|||R:VERB:SVA|||knows|||REQUIRED|||-NONE-|||0
@@ -3127,7 +3143,6 @@ A 8 9|||R:OTHER|||her,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||more.|||REQUIRED|||-NONE-|||0
 
 S When I have been to Europe by using this , I can save lots of money .
-A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||this,|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||money.|||REQUIRED|||-NONE-|||0
 
@@ -3157,7 +3172,6 @@ A 13 14|||R:SPELL|||more|||REQUIRED|||-NONE-|||0
 A 15 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But this is not the situation for the old people .
-A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
 
 S This might contribute to a decreasing number of cars especially in developed countries like we found them in Europe for example .
@@ -3181,8 +3195,8 @@ A 22 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I was so mad at the tour so since then I like to travel by myself or without tour .
 A 6 7|||R:NOUN|||tour,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||have always wanted|||REQUIRED|||-NONE-|||0
-A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
+A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S You can benefit from this knowledge in many situations .
 A 8 10|||R:ORTH|||situations.|||REQUIRED|||-NONE-|||0
@@ -3191,17 +3205,16 @@ S But they are not examples for the whole &raspsquo; &raspsquo; young people com
 A 9 15|||R:OTHER|||&|||REQUIRED|||-NONE-|||0
 
 S and Goverments will not provide a good public transportation system for a many years later .
-A 10 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||later.|||REQUIRED|||-NONE-|||0
 
 S People are not dependent of other people or timescedules of for example trains , trams and buses .
 A 4 5|||R:PREP|||on|||REQUIRED|||-NONE-|||0
-A 7 8|||R:OTHER|||or,|||REQUIRED|||-NONE-|||0
-A 8 10|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||times|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||of,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
-A 12 12|||M:PREP|||on|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||trains,|||REQUIRED|||-NONE-|||0
-A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S 1 7-5 0 people survey to requre all class and selective class .
 A 11 13|||R:ORTH|||class.|||REQUIRED|||-NONE-|||0
@@ -3217,7 +3230,7 @@ A 8 10|||R:OTHER|||high-risk|||REQUIRED|||-NONE-|||0
 A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S we cant stay on the internet for long time .
-A 0 1|||R:ORTH|||We|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||We can't|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||time.|||REQUIRED|||-NONE-|||0
 
@@ -3227,13 +3240,13 @@ A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S And people can not ready to pay the taxes .
 A 2 4|||R:ORTH|||cannot|||REQUIRED|||-NONE-|||0
+A 4 6|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||taxes.|||REQUIRED|||-NONE-|||0
 
 S Further more by these evidence u will agree
 A 0 2|||R:OTHER|||Furthermore,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:OTHER|||evidence,|||REQUIRED|||-NONE-|||0
-A 5 6|||R:OTHER|||we|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB|||agree.|||REQUIRED|||-NONE-|||0
+A 8 8|||M:OTHER|||to agree.|||REQUIRED|||-NONE-|||0
 
 S we gone to the Pink 's hot dog .
 A 0 1|||R:ORTH|||We|||REQUIRED|||-NONE-|||0
@@ -3261,10 +3274,10 @@ A 16 18|||R:ORTH|||summer.|||REQUIRED|||-NONE-|||0
 
 S by this you can learn gain the knowlegde .
 A 0 1|||R:ORTH|||By|||REQUIRED|||-NONE-|||0
-A 5 6|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 6 7|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB|||know|||REQUIRED|||-NONE-|||0
-A 8 9|||R:OTHER|||the.|||REQUIRED|||-NONE-|||0
+A 5 5|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||knowledge.|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S People are not and shouldnt be robots .
 A 4 5|||R:SPELL|||shouldn't|||REQUIRED|||-NONE-|||0
@@ -3282,8 +3295,8 @@ A 7 9|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S My friends is the celebrate the pary .
 A 2 3|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
-A 4 5|||R:MORPH|||celebrated|||REQUIRED|||-NONE-|||0
-A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
+A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||celebrating|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||pary.|||REQUIRED|||-NONE-|||0
 
 S I was upset and depressed .
@@ -3296,8 +3309,9 @@ A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Thus , most of the habitant in the rural ereas are the old ones .
 A 0 2|||R:ORTH|||Thus,|||REQUIRED|||-NONE-|||0
-A 5 6|||R:NOUN|||inhabitants|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||people|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||areas|||REQUIRED|||-NONE-|||0
+A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||ones.|||REQUIRED|||-NONE-|||0
 
 S This is very possitive for the company and probably he will get a better postion .
@@ -3325,8 +3339,7 @@ A 5 7|||R:ORTH|||other.|||REQUIRED|||-NONE-|||0
 
 S First , the hunter is the most dengres things in this world for the bird .
 A 0 2|||R:ORTH|||First,|||REQUIRED|||-NONE-|||0
-A 6 7|||R:OTHER|||most.|||REQUIRED|||-NONE-|||0
-A 7 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 16|||R:ORTH|||bird.|||REQUIRED|||-NONE-|||0
 
 S Hence , in twenty years , the need for man to go out and get what he wants will be out of question .
 A 0 2|||R:ORTH|||Hence,|||REQUIRED|||-NONE-|||0
@@ -3347,7 +3360,7 @@ A 13 15|||R:ORTH|||failure.|||REQUIRED|||-NONE-|||0
 S The reason these problem occurs is also becayse of the exam .
 A 3 4|||R:NOUN:NUM|||problems|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:SVA|||occur|||REQUIRED|||-NONE-|||0
-A 7 8|||R:SPELL|||because|||REQUIRED|||-NONE-|||0
+A 7 9|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||exam.|||REQUIRED|||-NONE-|||0
 
 S what would be its environmental impact ?
@@ -3355,7 +3368,6 @@ A 0 1|||R:ORTH|||What|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||impact?|||REQUIRED|||-NONE-|||0
 
 S This point affect the environment of the world in case of wasting the energy .
-A 1 2|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 2 3|||R:VERB:SVA|||affects|||REQUIRED|||-NONE-|||0
 A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||energy.|||REQUIRED|||-NONE-|||0
@@ -3376,13 +3388,11 @@ A 7 9|||R:ORTH|||you.|||REQUIRED|||-NONE-|||0
 S When older people think like that it 's make big problem with yong people .
 A 6 8|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
-A 11 12|||R:PREP|||for|||REQUIRED|||-NONE-|||0
-A 12 13|||R:ADJ|||many|||REQUIRED|||-NONE-|||0
-A 13 15|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Many scientists searched the area , but they ca n't find particles .
 A 4 6|||R:ORTH|||area,|||REQUIRED|||-NONE-|||0
-A 8 10|||R:OTHER|||couldn't|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||didn't|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||particles.|||REQUIRED|||-NONE-|||0
 
 S The question : which is more important ; making students to understand ideas and concepts or to learn facts , can be answered based on the level of learning which the student is undertaking .
@@ -3400,17 +3410,17 @@ A 11 13|||R:ORTH|||companies.|||REQUIRED|||-NONE-|||0
 
 S The so delicious , golden fries seen on television , might actually be pale , potato stumps , fried to almost perfection in very very very old oil .
 A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||television,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||pale,|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||stumps,|||REQUIRED|||-NONE-|||0
-A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Therefore the government in America should decide to raise the gasoline tax is proposed .
 A 0 1|||R:OTHER|||Therefore,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||proposed.|||REQUIRED|||-NONE-|||0
 
 S It will eat insects or animals that will did damage to places so that it can avoid loses to repair things .
-A 8 9|||R:VERB|||cause|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||do|||REQUIRED|||-NONE-|||0
 A 17 20|||R:VERB|||losing|||REQUIRED|||-NONE-|||0
 A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -3424,10 +3434,9 @@ A 1 2|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||job.|||REQUIRED|||-NONE-|||0
 
 S But about my self im gonna have it to becouse my brother alwys talks about it and i agree with that broad knowledge .
-A 3 4|||R:NOUN|||self,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:OTHER|||I am|||REQUIRED|||-NONE-|||0
-A 12 13|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||alwy|||REQUIRED|||-NONE-|||0
+A 13 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And does n't matter if teh person who takes the riks , has like result all the things he or she has in mind , the important is that they made all the thing and they prove taht tahy can do a los of things in their lives , always thinking in good results for theyselves and for the whole world .
 A 1 3|||R:ORTH|||doesn't|||REQUIRED|||-NONE-|||0
@@ -3454,6 +3463,7 @@ A 12 14|||R:ORTH|||France.|||REQUIRED|||-NONE-|||0
 
 S For example it happens to me when I studied the concept of inflaction .
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:TENSE|||happened|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||inflaction.|||REQUIRED|||-NONE-|||0
 
 S It would lead to tremendous air and noise population .
@@ -3490,13 +3500,13 @@ A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S for example , there may be eldelery travelers which may cause a slow movements due to their unability to walk fast .
 A 0 3|||R:ORTH|||For example,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||elderly|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||travelers,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
-A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is evidence , the company that made some products had to pay lots of money to the broadcasting breaus .
 A 2 4|||R:ORTH|||evidence,|||REQUIRED|||-NONE-|||0
-A 18 19|||R:MORPH|||broadcast|||REQUIRED|||-NONE-|||0
-A 19 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Many people surrounding you admire you of your multi-knowledgement , and try to be familiar with you .
 A 6 7|||R:PREP|||for|||REQUIRED|||-NONE-|||0
@@ -3522,8 +3532,9 @@ S The new things bring the brainstorm which other people cannot get .
 A 10 12|||R:ORTH|||get.|||REQUIRED|||-NONE-|||0
 
 S The government would like to reduce the population with this fishing limits .
-A 8 9|||R:OTHER|||by reducing|||REQUIRED|||-NONE-|||0
-A 11 12|||R:NOUN|||limit.|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||limiting|||REQUIRED|||-NONE-|||0
+A 10 12|||R:NOUN|||fishing.|||REQUIRED|||-NONE-|||0
 A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Like disking would stop an advancing fire .
@@ -3534,8 +3545,7 @@ A 6 8|||R:ORTH|||fire.|||REQUIRED|||-NONE-|||0
 S I would spend as much time as I want , if I like the visiting place .
 A 8 10|||R:ORTH|||want,|||REQUIRED|||-NONE-|||0
 A 14 15|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 16 16|||M:VERB:TENSE|||to|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||visit.|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||I visit.|||REQUIRED|||-NONE-|||0
 
 S So if you want me to choose right now , I will choose ordinary milk instead of that special kind .
 A 8 10|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
@@ -3560,8 +3570,6 @@ A 12 14|||R:ORTH|||expensive,|||REQUIRED|||-NONE-|||0
 A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S But not moving and always keeping to old things cannot improve a persons life .
-A 6 7|||R:PART|||up|||REQUIRED|||-NONE-|||0
-A 9 10|||R:VERB|||can|||REQUIRED|||-NONE-|||0
 A 12 15|||R:OTHER|||person's life.|||REQUIRED|||-NONE-|||0
 
 S Local communities have the main role of protecting children if such children are their own children or not .
@@ -3573,7 +3581,8 @@ A 16 18|||R:ORTH|||information,|||REQUIRED|||-NONE-|||0
 A 18 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S How they found their work place or foods , so they had no space for their communities in their mind .
-A 7 9|||R:ORTH|||foods,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||food,|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 19 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S His success belongs to his new try .
@@ -3589,16 +3598,16 @@ A 6 7|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||is.|||REQUIRED|||-NONE-|||0
 
 S There is many way for this another examples bottele of juise if its tast bad they make thier shape wonderful like making it colourful .
-A 1 2|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||a lot of|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN:NUM|||ways|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOUN:NUM|||example|||REQUIRED|||-NONE-|||0
 A 8 9|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 10 11|||R:SPELL|||juise,|||REQUIRED|||-NONE-|||0
-A 13 25|||R:OTHER|||t|||REQUIRED|||-NONE-|||0
+A 13 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is because they do not think the new thing to promote or make the people feel very good .
+A 7 7|||M:PREP|||of|||REQUIRED|||-NONE-|||0
 A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
-A 18 20|||R:ORTH|||good.|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Other tourists would teach you some tips for the travel with thier experience .
 A 11 12|||R:DET|||your|||REQUIRED|||-NONE-|||0
@@ -3612,6 +3621,7 @@ A 11 12|||R:SPELL|||possibility|||REQUIRED|||-NONE-|||0
 A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Sceene of violence can affect on them .
+A 0 1|||R:OTHER|||The level|||REQUIRED|||-NONE-|||0
 A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||them.|||REQUIRED|||-NONE-|||0
 
