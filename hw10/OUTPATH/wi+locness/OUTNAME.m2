@@ -1,9 +1,8 @@
 S It 's difficult answer at the question " what are you going to do in the future ? " if the only one who has to know it is in two minds .
 A 0 1|||R:OTHER|||It's|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
-A 4 5|||R:PREP|||to|||REQUIRED|||-NONE-|||0
-A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 21 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 30 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When I was younger I used to say that I wanted to be a teacher , a saleswoman and even a butcher .. I do n't know why .
 A 14 16|||R:ORTH|||teacher,|||REQUIRED|||-NONE-|||0
@@ -15,7 +14,6 @@ A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S It 's difficult because I 'll have to study hard and a lot , but I think that if you like a subject , you 'll study it easier .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 4 6|||R:ORTH|||I'll|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||lot,|||REQUIRED|||-NONE-|||0
 A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -34,15 +32,12 @@ A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I consider that is more convenient to drive a car because you carry on more things in your own car than travelling by car .
 A 2 4|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
-A 16 17|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Also , you 'll meet friendly people who usually ask to you something to be friends and change your telephone number .
-A 0 4|||R:ORTH|||Also, you'll|||REQUIRED|||-NONE-|||0
+A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 18 19|||U:DET||||||REQUIRED|||-NONE-|||0
-A 19 21|||R:NOUN|||things|||REQUIRED|||-NONE-|||0
-A 21 22|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my experience when I did n't have a car I used to use the bus to go to the school and go back to my house .
 A 2 3|||R:NOUN|||experience,|||REQUIRED|||-NONE-|||0
@@ -54,7 +49,6 @@ A 20 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S In my opinion , the car is n't necessary when you have crashed in the street , in that moment you realized the importance of a public transport .
 A 2 4|||R:ORTH|||opinion,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||isn't|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOUN|||street.|||REQUIRED|||-NONE-|||0
 A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In India we have various types of Public transport , like Cycle , Bike , Car , Train & Flight .
@@ -89,8 +83,7 @@ A 0 2|||R:ORTH|||Since,|||REQUIRED|||-NONE-|||0
 A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In addition to it , we can also take a comfortable short nap on the back seat and wake up fresh .
-A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
-A 4 5|||R:OTHER|||that,|||REQUIRED|||-NONE-|||0
+A 3 5|||R:ORTH|||it,|||REQUIRED|||-NONE-|||0
 A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Due to the above mentioned reasons , I am going to conclude that travelling by car is much more convenient .
@@ -144,7 +137,6 @@ S when I was young I like plays with the ball in the playground and my friend an
 A 0 1|||R:ORTH|||When|||REQUIRED|||-NONE-|||0
 A 3 4|||R:OTHER|||young,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB:FORM|||playing|||REQUIRED|||-NONE-|||0
-A 10 11|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Dear Jo ,
@@ -156,6 +148,7 @@ A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the one hand , in my country there are a lot of place to travel .
 A 3 5|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOUN:NUM|||places|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||travel.|||REQUIRED|||-NONE-|||0
 
@@ -175,8 +168,8 @@ A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S On the other hand , in my country there are a few job because the economy is very bad .
 A 3 5|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||jobs,|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN:NUM|||jobs|||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But , if you want I look for a job from you .
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
@@ -274,7 +267,6 @@ A 16 17|||R:NOUN:NUM|||worm|||REQUIRED|||-NONE-|||0
 A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In some strategic points of the building we have special trashcans to separate the garbage in organic , paper and cardboard , cans and pet bottles and they also made talks and presentations about the earth problems like global warming , contamination , etc .
-A 3 4|||R:NOUN|||areas|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||building,|||REQUIRED|||-NONE-|||0
 A 15 45|||R:OTHER|||from|||REQUIRED|||-NONE-|||0
 
@@ -289,18 +281,17 @@ A 13 15|||R:ORTH|||community.|||REQUIRED|||-NONE-|||0
 
 S Good morning everyone , today I want to share about is my favorite sport .
 A 2 4|||R:ORTH|||everyone,|||REQUIRED|||-NONE-|||0
-A 9 11|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||sport.|||REQUIRED|||-NONE-|||0
 
 S My favorite sport is football , why I choose it?Well , football is a international sport , people around the world will love it so much!Example like Barclay Premier League , Liga Premier , Fifa World Cup and so on .
 A 4 6|||R:ORTH|||football,|||REQUIRED|||-NONE-|||0
 A 7 7|||M:VERB:TENSE|||do|||REQUIRED|||-NONE-|||0
-A 9 11|||R:ORTH|||it? Well,|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||it?Well,|||REQUIRED|||-NONE-|||0
 A 15 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I believe that 's all will delighted us .
 A 2 4|||R:ORTH|||that's|||REQUIRED|||-NONE-|||0
-A 5 5|||M:DET|||that|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||us.|||REQUIRED|||-NONE-|||0
 
 S By the way , my favorite football team is Manchester United , they are brilliant , they have an amazing football players , and they are awesome .
@@ -417,7 +408,7 @@ A 14 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I can not imagine if there is no bus or MRT , how long I will take for school .
 A 10 12|||R:ORTH|||MRT,|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Car is convenient for human , but it brings damage for human also .
 A 0 1|||M:DET|||The car|||REQUIRED|||-NONE-|||0
@@ -471,9 +462,8 @@ A 4 6|||R:ORTH|||come.|||REQUIRED|||-NONE-|||0
 
 S Every day lots of people are travelling abroad but , what 's the best way to do an international travel ?
 A 1 2|||R:NOUN|||day,|||REQUIRED|||-NONE-|||0
-A 5 7|||R:VERB:TENSE|||travel|||REQUIRED|||-NONE-|||0
 A 8 12|||R:ORTH|||but, what's|||REQUIRED|||-NONE-|||0
-A 17 21|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The most important option to travel is , by far , the plane .
 A 6 8|||R:ORTH|||is,|||REQUIRED|||-NONE-|||0
@@ -482,10 +472,9 @@ A 12 14|||R:ORTH|||plane.|||REQUIRED|||-NONE-|||0
 
 S But , even when it 's true that it 's the faster option , you must be very carefuly at time to get off a plane .
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
-A 3 5|||R:OTHER|||if|||REQUIRED|||-NONE-|||0
-A 5 6|||R:OTHER|||it's|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
-A 12 15|||R:OTHER|||option, you'|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||option,|||REQUIRED|||-NONE-|||0
 A 15 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If you are looking for confort and relax , obviously , you have to take a boat .
@@ -498,19 +487,14 @@ A 12 14|||R:ORTH|||trip.|||REQUIRED|||-NONE-|||0
 
 S Although , the better option , is pick out a train .
 A 0 2|||R:ORTH|||Although,|||REQUIRED|||-NONE-|||0
-A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:FORM|||picking|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||option,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||train.|||REQUIRED|||-NONE-|||0
 
 S There is n't comparation on watching the changes in the landscape through a window , enjoying the way that you are doing and , the best part , the cheapest way to get away some days and take the routine off some days .
 A 1 3|||R:ORTH|||isn't|||REQUIRED|||-NONE-|||0
 A 3 3|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 3 4|||R:SPELL|||comparison|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PREP|||between|||REQUIRED|||-NONE-|||0
-A 12 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 29 40|||R:OTHER|||lens|||REQUIRED|||-NONE-|||0
-A 40 41|||R:PREP|||of|||REQUIRED|||-NONE-|||0
-A 41 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Anyway , no matter how you go , no matter where you go .
 A 0 2|||R:ORTH|||Anyway,|||REQUIRED|||-NONE-|||0
@@ -545,8 +529,7 @@ A 15 17|||R:ORTH|||ourselves.|||REQUIRED|||-NONE-|||0
 S More importantly , the parents give our lives and they touch us knowledge and skills or abilities to live in this world .
 A 1 3|||R:ORTH|||importantly,|||REQUIRED|||-NONE-|||0
 A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
-A 12 12|||M:PREP|||with|||REQUIRED|||-NONE-|||0
-A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In this case , the families played important roles in daily lives .
 A 2 4|||R:ORTH|||case,|||REQUIRED|||-NONE-|||0
@@ -572,23 +555,20 @@ A 19 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If difficulties was told to the families , the ideas would come up to your families and communicate with you about how to solve this situation .
 A 2 3|||R:VERB:SVA|||were|||REQUIRED|||-NONE-|||0
-A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||families,|||REQUIRED|||-NONE-|||0
-A 19 27|||R:OTHER|||them|||REQUIRED|||-NONE-|||0
+A 19 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All in all , in this case , the families are the most important friends in our lives .
 A 2 4|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||case,|||REQUIRED|||-NONE-|||0
-A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
 A 17 19|||R:ORTH|||lives.|||REQUIRED|||-NONE-|||0
 
 S The Computing Technology has been advancing very much this last years , making the old computers almost useless , getting better and making the difference between old and new computers grow even more with every new discoverement .
-A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN|||year,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 13 14|||U:DET||||||REQUIRED|||-NONE-|||0
-A 17 18|||R:ADJ|||useless.|||REQUIRED|||-NONE-|||0
-A 18 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 19|||R:ORTH|||useless,|||REQUIRED|||-NONE-|||0
+A 19 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As we can notice , old and new computers are vastly different , starting from the size of the computers , old computers were much bigger than new computers .
 A 3 5|||R:ORTH|||notice,|||REQUIRED|||-NONE-|||0
@@ -598,8 +578,8 @@ A 18 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Old computers were used to occupy one entire room , now , they only have the size of a box , even the size of a book .
 A 2 3|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 8 12|||R:ORTH|||room, now,|||REQUIRED|||-NONE-|||0
-A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 25 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S You can have a portable computer now , and take it with you to every place you visit .
 A 6 8|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
@@ -612,26 +592,24 @@ A 19 77|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S One of the greatest achievements of new computing , is the internet , where you can connect to other computers , download stuff , etc . via Ethernet cable or Wireless Connection ( Wi - Fi ) .
 A 7 9|||R:ORTH|||computing,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||internet,|||REQUIRED|||-NONE-|||0
-A 18 38|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 17 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Get rekt m8
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S I went to the abandon house and started to think the best way to make his life miserable i passed the next 2 weeks looking for ideas to make him sufer .
 A 4 5|||R:VERB:FORM|||abandoned|||REQUIRED|||-NONE-|||0
-A 10 10|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||miserable.|||REQUIRED|||-NONE-|||0
 A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As i did n't found nothing , i went to the place he live at and started to look for some information about his life and found people who he care about so as i continued to go to his houes i notice he will alays go to tehe same house so i decidec to follow him to the house and i foun out he was dating a girl she might be his girlfrien so i finally gota an idea , i would drive him crazy just as he did with me , that way she will think he had problems on his mind and left him , but son i thougt about it again and realized that if i did that she will try to help him and they will be more united , so i decided to drive them both crazy almost at the border of death , jus as he did with me !
-A 1 2|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
 A 3 4|||R:CONTR|||not|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:FORM|||find|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||anything,|||REQUIRED|||-NONE-|||0
 A 6 8|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
 A 13 14|||R:VERB:TENSE|||lived|||REQUIRED|||-NONE-|||0
 A 14 15|||R:PART|||in|||REQUIRED|||-NONE-|||0
-A 17 138|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 139 157|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 157|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But wait a minute am i really so angry to make this ?
 A 5 6|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
@@ -648,10 +626,8 @@ A 12 73|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But i was so mad at him and so ansiouns to make his life imposible , and soon my fear of death and my anger for all of the sufering i had been throug became stronger and bigger , i had made a desition i was goingo to do it , if he dedicated 4 years of his life tourtoring me and not wanting me to be happy i would the time is nesesary for him to have a miserable life and i wo nt stop until i had acomplished my goald
 A 1 2|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
-A 9 10|||R:ADJ|||eager|||REQUIRED|||-NONE-|||0
 A 12 57|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 58 80|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 80 81|||R:NOUN|||life.|||REQUIRED|||-NONE-|||0
 A 81 92|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I 'm not agree with this idea completely .
@@ -662,11 +638,10 @@ S On the one hand travel by car are really much more convenient as give the chan
 A 3 4|||R:OTHER|||hand,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:FORM|||travelling|||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||convenient,|||REQUIRED|||-NONE-|||0
 A 13 13|||M:PRON|||it|||REQUIRED|||-NONE-|||0
 A 13 14|||R:VERB:SVA|||gives|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 18 22|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PRON|||you|||REQUIRED|||-NONE-|||0
+A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the other hand huge traffic jams are a big issue for travelling by car .
 A 3 4|||R:OTHER|||hand,|||REQUIRED|||-NONE-|||0
@@ -692,9 +667,7 @@ A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S My favourite clubs are Benfica and Real Madrid , where Ronaldo plays , for me he is the Best Player in the world , that is why Ronaldo won the Gold ball of 2014 .
 A 7 9|||R:ORTH|||Madrid,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||plays,|||REQUIRED|||-NONE-|||0
-A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 30 32|||R:NOUN|||example.|||REQUIRED|||-NONE-|||0
-A 32 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I play football in a Portuguese club called valenciano and we won a lot of games this season .
 A 13 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -772,13 +745,11 @@ S I am also a hard worker .
 A 5 7|||R:ORTH|||worker.|||REQUIRED|||-NONE-|||0
 
 S I have passion for this job .
-A 2 2|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||job.|||REQUIRED|||-NONE-|||0
 
 S If you think me is the right person you want , please give me a responese , Thanks .
 A 9 11|||R:ORTH|||want,|||REQUIRED|||-NONE-|||0
-A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
-A 15 16|||R:SPELL|||respones.|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||respones|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S public transportation has been more used by people and over the years it is kind of becoming cheaper and also more safe but some people prefer cars to extent do we agree with and what is our reasons for that that is what are we going to demonstrate in this essay
@@ -796,9 +767,7 @@ A 18 79|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S nowadays all facilities of travelling are more convenient from cars to buses even trains and planes .some people prefer cars because the do like crowded places or because the find it sometimes cheaper but from another point of view public transportation is very cheap and even faster but when it comes to traveling a lot of people prefer riding their own cars to feel the real experience and to enjoy more by chilling out from crowded places
 A 0 1|||R:OTHER|||Nowadays,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:OTHER|||convenient,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOUN|||buses,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOUN:NUM|||plane|||REQUIRED|||-NONE-|||0
 A 16 77|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S to summaries it is different from some oneis opinion to another i predict that public transportation will be improved and people will use it more and more that by the end cars will disappear and will will no longer be used
@@ -899,8 +868,7 @@ S Everybody has his favourite sport .
 A 4 6|||R:ORTH|||sport.|||REQUIRED|||-NONE-|||0
 
 S My favourite sport is football game .
-A 4 5|||R:OTHER|||football.|||REQUIRED|||-NONE-|||0
-A 5 7|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 5 7|||R:ORTH|||game.|||REQUIRED|||-NONE-|||0
 
 S On our school or villiage football stadium i spend a lot of time every day .
 A 0 1|||R:PREP|||In|||REQUIRED|||-NONE-|||0
@@ -917,8 +885,6 @@ A 6 8|||R:ORTH|||classmates.|||REQUIRED|||-NONE-|||0
 S Before training i ran 1 - 2 kilometres and my legs get a power and my body gets an energy .
 A 1 2|||R:NOUN|||training,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:ORTH|||I|||REQUIRED|||-NONE-|||0
-A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||power.|||REQUIRED|||-NONE-|||0
 A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Our team has a hard - working coach and he gives professional advice to us , how to improve football skills .
@@ -984,7 +950,8 @@ A 7 12|||R:ORTH|||e-mail yesterday.|||REQUIRED|||-NONE-|||0
 S You regret that you were n't there with me . I 'll try dicribe everything precisely , becouse I know that you very
 A 4 6|||R:ORTH|||weren't|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||me.|||REQUIRED|||-NONE-|||0
-A 10 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 22|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||dicri|||REQUIRED|||-NONE-|||0
 
 S Dear Paul ,
 A 1 3|||R:ORTH|||Paul,|||REQUIRED|||-NONE-|||0
@@ -1076,7 +1043,7 @@ A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
 A 2 4|||R:ORTH|||Taiwan,|||REQUIRED|||-NONE-|||0
 A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 13 14|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||older,|||REQUIRED|||-NONE-|||0
+A 17 19|||R:ORTH|||old,|||REQUIRED|||-NONE-|||0
 A 22 43|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Back to the topic , I do n't know well any of member of in my family , I do n't trust them , honestly .
@@ -1104,14 +1071,13 @@ A 9 11|||R:ORTH|||there.|||REQUIRED|||-NONE-|||0
 
 S That 's why I order all of you to go there and feel the pleasure and have a try their own food .
 A 0 2|||R:ORTH|||That's|||REQUIRED|||-NONE-|||0
-A 17 23|||R:OTHER|||fun|||REQUIRED|||-NONE-|||0
+A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S You can also bought a lot of gifts like key chains , statue , or what else memories to be made before returning to Malaysia .
 A 3 4|||R:VERB:FORM|||buy|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||chains,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:NOUN|||statues,|||REQUIRED|||-NONE-|||0
 A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||anything|||REQUIRED|||-NONE-|||0
 A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I did not have to go to NewZealand but believe me it is very beautiful place .
@@ -1147,7 +1113,7 @@ S Around the city , you can find many places where the people throw frigo , kitc
 A 2 4|||R:ORTH|||city,|||REQUIRED|||-NONE-|||0
 A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
 A 13 17|||R:ORTH|||frigo, kitchen,|||REQUIRED|||-NONE-|||0
-A 17 26|||R:OTHER|||etc.|||REQUIRED|||-NONE-|||0
+A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What a pity !
 A 2 4|||R:ORTH|||pity!|||REQUIRED|||-NONE-|||0
@@ -1197,7 +1163,6 @@ A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 18 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In there moment , I thought that my best friends was my parents and sister .
-A 0 1|||R:PREP|||At|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
 A 2 4|||R:ORTH|||moment,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:SVA|||were|||REQUIRED|||-NONE-|||0
@@ -1353,27 +1318,26 @@ A 2 3|||R:VERB:SVA|||has|||REQUIRED|||-NONE-|||0
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||people's|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||lives|||REQUIRED|||-NONE-|||0
-A 9 10|||R:ADJ|||much.|||REQUIRED|||-NONE-|||0
-A 10 83|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||fact,|||REQUIRED|||-NONE-|||0
+A 11 57|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 58 83|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although the fact that personal vehicle like car now is popular , in the future , the stance of public transport is still very crucial .
 A 4 4|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 8 10|||R:WO|||is now|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||popular,|||REQUIRED|||-NONE-|||0
 A 15 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Nowaday , people use fossil fuel as the most important source of energy for travelling , manufacturing , this source of energy does n't always maintain at the constant level , but someday it will be run out .
 A 0 1|||R:NOUN|||Today,|||REQUIRED|||-NONE-|||0
 A 1 2|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 5 6|||R:NOUN:NUM|||fuels|||REQUIRED|||-NONE-|||0
 A 14 18|||R:ORTH|||travelling, manufacturing,|||REQUIRED|||-NONE-|||0
-A 18 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People must find ways to use other energy sources like nuclear electricity , wind power , public transportation such as electric metro use this kind of energy .
 A 11 13|||R:ORTH|||electricity,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||power,|||REQUIRED|||-NONE-|||0
-A 17 28|||R:OTHER|||transport.|||REQUIRED|||-NONE-|||0
+A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As a result , governments will invest more in researching the usage of these new types of energy , travelling using public transport will become much cheaper than personal car .
 A 2 4|||R:ORTH|||result,|||REQUIRED|||-NONE-|||0
@@ -1417,9 +1381,7 @@ S In conclusion , investments on developing public transport will be increased c
 A 1 3|||R:ORTH|||conclusion,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||considerably,|||REQUIRED|||-NONE-|||0
-A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 28 31|||R:OTHER|||increased|||REQUIRED|||-NONE-|||0
-A 31 32|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Hello Alex , how are you .
 A 1 3|||R:ORTH|||Alex,|||REQUIRED|||-NONE-|||0
@@ -1492,10 +1454,9 @@ A 16 18|||R:ORTH|||clothes.|||REQUIRED|||-NONE-|||0
 A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Sometimes we are going to the party 's in the city , I am dancing in the party with my friends .
-A 5 6|||R:DET|||a|||REQUIRED|||-NONE-|||0
-A 7 8|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||party's|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||city,|||REQUIRED|||-NONE-|||0
-A 17 22|||R:OTHER|||city.|||REQUIRED|||-NONE-|||0
+A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They listen to the music and can we are singing .
 A 8 11|||R:OTHER|||sing?|||REQUIRED|||-NONE-|||0
@@ -1524,8 +1485,6 @@ A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 S He prefer study in your home .
 A 1 2|||R:VERB:SVA|||prefers|||REQUIRED|||-NONE-|||0
 A 2 3|||R:VERB:FORM|||studying|||REQUIRED|||-NONE-|||0
-A 3 4|||R:PREP|||at|||REQUIRED|||-NONE-|||0
-A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||home.|||REQUIRED|||-NONE-|||0
 
 S Hello Something .
@@ -1577,10 +1536,7 @@ A 4 6|||R:OTHER|||running.|||REQUIRED|||-NONE-|||0
 S I like to running fast so fast in fact that it feel me as if I run on air and the feet do not hardly touch the ground between the strides .
 A 3 4|||R:VERB:FORM|||run|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB:SVA|||feels|||REQUIRED|||-NONE-|||0
-A 12 13|||U:PRON||||||REQUIRED|||-NONE-|||0
-A 13 15|||R:PREP|||like|||REQUIRED|||-NONE-|||0
-A 17 20|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
-A 21 32|||R:OTHER|||same way|||REQUIRED|||-NONE-|||0
+A 17 32|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
 
 S My favourite place to run is in the forest but I like to run sportive too .
 A 8 9|||R:OTHER|||forest,|||REQUIRED|||-NONE-|||0
@@ -1593,10 +1549,8 @@ A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S The bestest advice I can giving to someone who is starting the running is to starting slowly and not to try to run too fast but then to eventually build up the running week by week so that every week you are running a little more further and a little more faster and then after 20 years you will be an Olympic champion maybe .
 A 1 2|||R:SPELL|||best|||REQUIRED|||-NONE-|||0
 A 5 6|||R:VERB:FORM|||give|||REQUIRED|||-NONE-|||0
-A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
 A 15 16|||R:VERB:FORM|||start|||REQUIRED|||-NONE-|||0
-A 19 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 28 65|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 65|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my opinion , television can be educational . Whether you are watching the news or a show about World War One .
 A 2 4|||R:ORTH|||opinion,|||REQUIRED|||-NONE-|||0
@@ -1657,15 +1611,13 @@ A 8 10|||R:ORTH|||children's|||REQUIRED|||-NONE-|||0
 A 15 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It also notes educational programmes make a decision on what citizens should know in the future and what knowledge our next generations are required to possess .
-A 3 3|||M:PREP|||that|||REQUIRED|||-NONE-|||0
-A 8 9|||R:PREP|||about|||REQUIRED|||-NONE-|||0
-A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Apart from eduational contents , there are so many foul contents , business advertisements and fake information on TV that citizens wo n't be able to tell right from wrong .
 A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||contents,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||contents,|||REQUIRED|||-NONE-|||0
-A 13 31|||R:OTHER|||contents|||REQUIRED|||-NONE-|||0
+A 13 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , I believe the educational programmes on TV still plays a vital role in educating both adults and young children .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -1692,13 +1644,12 @@ A 33 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Also , It 's perfect for our class because there is a lot of space so we can sit all together at the same table .
 A 0 4|||R:ORTH|||Also, it's|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||space,|||REQUIRED|||-NONE-|||0
 A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S the owner is a very kind person and I 'm sure who he makes us a convenience price .
 A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 15 19|||R:OTHER|||laugh|||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S No future for public transport ?
 A 4 6|||R:ORTH|||transport?|||REQUIRED|||-NONE-|||0
@@ -1806,9 +1757,8 @@ A 13 14|||R:PREP|||from|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
 
 S Instead in the small cities , it ca n't be good in the same way , because for the transport companies it 's not convenient invest money , because fewer people would use it .
-A 0 1|||R:OTHER|||Instead,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||cities,|||REQUIRED|||-NONE-|||0
-A 7 9|||R:OTHER|||doesn't|||REQUIRED|||-NONE-|||0
+A 6 9|||R:OTHER|||itn't|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||way,|||REQUIRED|||-NONE-|||0
 A 16 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 29 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1832,8 +1782,7 @@ A 14 16|||R:ORTH|||Tom.|||REQUIRED|||-NONE-|||0
 S Tom was so sad because Becky did n't to talk with him so Tom went on a trip with Huck and disappeared for weeks .
 A 6 8|||R:ORTH|||didn't|||REQUIRED|||-NONE-|||0
 A 8 9|||U:VERB:FORM||||||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||him,|||REQUIRED|||-NONE-|||0
-A 16 25|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When Tom saw his house he sneak into his house and saw he aunt Polly crying for him .
 A 6 7|||R:VERB:TENSE|||sneaked|||REQUIRED|||-NONE-|||0
@@ -1852,8 +1801,7 @@ A 15 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 28 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So they went to the misterious house and when they were inside they heard voices so Tom and Huck hide and they saw that Injuin Joe was the one that was talking .
-A 14 15|||R:OTHER|||voices,|||REQUIRED|||-NONE-|||0
-A 16 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S the two boys heard that he was planing to steal some money and kill people so the boys start their adventure on stoping Injuin Joe ...
 A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
@@ -1898,9 +1846,7 @@ A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S so he went back to Sarah 's house and clean all the bathroom , but Sarah already knew that he left the bathroom like this so before Michael entered to the bathroon she said : " I know what you leave there " and Michael went running to the bathroom .
 A 0 1|||R:ORTH|||So|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||Sarah's|||REQUIRED|||-NONE-|||0
-A 9 10|||R:VERB:TENSE|||cleaned|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||bathroom,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOUN|||Sarah'|||REQUIRED|||-NONE-|||0
 A 16 51|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Hi Julie ,
@@ -1913,7 +1859,7 @@ S My school has a unique reputation for their friendliness and the quality of ed
 A 13 15|||R:ORTH|||education.|||REQUIRED|||-NONE-|||0
 
 S I like my maths teacher very much because her teaching style is very realistic and simple to understanad .
-A 17 19|||R:OTHER|||follow|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||under|||REQUIRED|||-NONE-|||0
 
 S Good Morning :
 A 1 3|||R:ORTH|||Morning:|||REQUIRED|||-NONE-|||0
@@ -1940,7 +1886,7 @@ A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Swim is a relaxing exercise for me and normally there are n't many people in the pool , but sometimes there are children and I do n't like so much because they like disturbing me but sometimes it is amusing too .
 A 10 12|||R:ORTH|||aren't|||REQUIRED|||-NONE-|||0
-A 16 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I would recommended to people who not know swim to learn , because I am pretty sure that it like it and later they can stop swim .
 A 2 3|||R:VERB:FORM|||recommend|||REQUIRED|||-NONE-|||0
@@ -1967,7 +1913,7 @@ A 1 3|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 3 4|||R:VERB|||dancing,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||problems,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:MORPH|||stupid|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||companions.|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||companions,|||REQUIRED|||-NONE-|||0
 A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But this is another theme for speaking .
@@ -2002,7 +1948,7 @@ A 12 14|||R:ORTH|||classes.|||REQUIRED|||-NONE-|||0
 S You do n't matter if you go to sleep late , or do n't sleep ...
 A 1 3|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||late,|||REQUIRED|||-NONE-|||0
-A 12 16|||R:OTHER|||don't.|||REQUIRED|||-NONE-|||0
+A 13 16|||R:OTHER|||n|||REQUIRED|||-NONE-|||0
 
 S That 's a joke , you must sleep .
 A 0 2|||R:ORTH|||That's|||REQUIRED|||-NONE-|||0
@@ -2056,7 +2002,7 @@ A 12 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S My mom and my dad , they are a goog guys .
 A 4 6|||R:ORTH|||dad,|||REQUIRED|||-NONE-|||0
-A 10 12|||R:OTHER|||guy.|||REQUIRED|||-NONE-|||0
+A 10 12|||R:ORTH|||guys.|||REQUIRED|||-NONE-|||0
 
 S Actually i prefer pass my time alone , i am working in other town so i stay away from my family .
 A 0 1|||R:OTHER|||Actually,|||REQUIRED|||-NONE-|||0
@@ -2068,7 +2014,7 @@ A 13 14|||R:OTHER|||towns,|||REQUIRED|||-NONE-|||0
 A 15 22|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
 
 S Hi mrs .
-A 1 3|||R:ORTH|||Mrs.|||REQUIRED|||-NONE-|||0
+A 1 3|||R:ORTH|||mrs.|||REQUIRED|||-NONE-|||0
 
 S Kate Ashby ,
 A 1 3|||R:ORTH|||Ashby,|||REQUIRED|||-NONE-|||0
@@ -2115,8 +2061,9 @@ A 19 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The temperature will have become crazy by global warming , so some people will have died because the natural disasters will be more aggressive .
 A 8 10|||R:ORTH|||warming,|||REQUIRED|||-NONE-|||0
-A 17 18|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
-A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 18|||U:DET||||||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOUN:NUM|||disaster|||REQUIRED|||-NONE-|||0
+A 20 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Technology will have advanced and maybe the cars will be flying by streets and computers will have totally changed .
 A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
@@ -2180,7 +2127,6 @@ S 1- make me fit and healthy
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S 2- classy game no friction between players
-A 0 2|||R:ORTH|||2-classy|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PREP|||with|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||players.|||REQUIRED|||-NONE-|||0
 
@@ -2236,13 +2182,11 @@ A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What we belief as Muslims that , we have created by one who do n't have other with him the one who create our father ( Adam ) and created from him ( Eve ) and they were in the Paradise and instructed to not eat from the tree but the Satan deceive them so they brought to this life and generations came from them and had sent the prophet and messengers ( Moses , Jesus , Mohamed , others .. who they worship the same one ) with Miracles and evidence of the truth , to guide the people to know who who will follow the truth which will guide to the Paradise and who follow other paths which it will guide to the hell . so because of that we are here to do the test in this short life .
 A 2 3|||R:MORPH|||believe|||REQUIRED|||-NONE-|||0
-A 5 5|||M:VERB|||is|||REQUIRED|||-NONE-|||0
 A 6 7|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:OTHER|||doesn't|||REQUIRED|||-NONE-|||0
 A 16 17|||R:DET|||another|||REQUIRED|||-NONE-|||0
-A 18 86|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 87 143|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 32 143|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Transportation is the heart of any city whether it is public or private .
 A 6 7|||R:OTHER|||city,|||REQUIRED|||-NONE-|||0
@@ -2259,15 +2203,15 @@ A 5 6|||R:NOUN|||day,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||people|||REQUIRED|||-NONE-|||0
 A 11 11|||M:DET|||their|||REQUIRED|||-NONE-|||0
 A 12 13|||R:NOUN|||vehicles,|||REQUIRED|||-NONE-|||0
-A 15 18|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||more|||REQUIRED|||-NONE-|||0
+A 15 20|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
 
 S firstly . i agree with given statement that there would be tough time for public transportation in near future.because people wamnts privacy as well as freedom which is quite impossible in public transportation .
 A 0 1|||R:OTHER|||Firstly,|||REQUIRED|||-NONE-|||0
 A 1 3|||U:PUNCT|||I|||REQUIRED|||-NONE-|||0
 A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 14 34|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 14 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 32 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S secondly these mode of transportation covers
 A 0 1|||R:OTHER|||Secondly,|||REQUIRED|||-NONE-|||0
@@ -2406,7 +2350,7 @@ A 14 16|||R:ORTH|||routine.|||REQUIRED|||-NONE-|||0
 
 S In my opinion , it 's very difficult to fnd this advantage with others sports .
 A 2 6|||R:ORTH|||opinion, it's|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||sports.|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Apart from that , Karate it 's not just a sport , is also a discipline , it teach you respect , balance even culture .
 A 2 4|||R:ORTH|||that,|||REQUIRED|||-NONE-|||0
@@ -2470,13 +2414,12 @@ A 14 16|||R:ORTH|||competition.|||REQUIRED|||-NONE-|||0
 S he took the money the second day , he finished the registration and started in writing the story after long time spending in writing and did good job he went to give his story to the international student magazine office , he found out there are a notice on the door say that the competition has canceled , he came back vey sad and told me what happened .Michael closed the door and knew at that moment he had a mistake .
 A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 14 15|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 19 19|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 21 22|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 24 82|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 26 82|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Travelling by car is n't so much more convenient unless it is so much more comfortable , but actually we do n't think about the contamination in our planet .
 A 3 5|||R:ORTH|||isn't|||REQUIRED|||-NONE-|||0
-A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Travelling by bus is very stressful because the people push me or I ca n't sit down because there are n't any chair for me .
 A 13 15|||R:ORTH|||can't|||REQUIRED|||-NONE-|||0
@@ -2490,7 +2433,6 @@ A 20 24|||R:OTHER|||has|||REQUIRED|||-NONE-|||0
 A 24 27|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 
 S Other transport public is the taxi like car , it is so more comfortable too but it is more expensive than bus or train .
-A 1 3|||R:WO|||public transport|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOUN|||taxi,|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||car,|||REQUIRED|||-NONE-|||0
@@ -2559,8 +2501,7 @@ A 10 12|||R:ORTH|||her.|||REQUIRED|||-NONE-|||0
 S In my opinion the police should stop the Vandalisme .
 A 2 3|||R:NOUN|||opinion,|||REQUIRED|||-NONE-|||0
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
-A 8 9|||R:SPELL|||Vandalism.|||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||Vandalisme.|||REQUIRED|||-NONE-|||0
 
 S If it have police all around the city nobody will dare to do a graffiti or to write something or to draw .
 A 2 3|||R:VERB:SVA|||has|||REQUIRED|||-NONE-|||0
@@ -2643,7 +2584,7 @@ S This year holiday would be really helpful for relaxation and gettin new power 
 A 1 2|||R:OTHER|||year,|||REQUIRED|||-NONE-|||0
 A 2 2|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 10 11|||R:DET|||a|||REQUIRED|||-NONE-|||0
-A 14 17|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S One year is not long period .
 A 4 4|||M:DET|||a|||REQUIRED|||-NONE-|||0
@@ -2654,7 +2595,9 @@ A 7 9|||R:ORTH|||obvious.|||REQUIRED|||-NONE-|||0
 
 S I live in San Miguel Almoloyan , this is a village in the municipality of Almoloya de Juarez in the State of Mexico , the care of the environment is very important and in my village they take different actions in the care of this .
 A 5 7|||R:ORTH|||Almoloyan,|||REQUIRED|||-NONE-|||0
-A 13 46|||R:OTHER|||city|||REQUIRED|||-NONE-|||0
+A 10 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 36 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 42 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People collects trash of their house and await the trash truck that carried the trash to a landfill located outside the village .
 A 1 2|||R:VERB:SVA|||collect|||REQUIRED|||-NONE-|||0
@@ -2685,7 +2628,7 @@ S Secondly , I do n't live in Cork , so it would be grateful if you could send m
 A 0 2|||R:ORTH|||Secondly,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||Cork,|||REQUIRED|||-NONE-|||0
-A 14 29|||R:OTHER|||to be|||REQUIRED|||-NONE-|||0
+A 14 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And also , can you give me an idea of how much it would be cost every different options ? .
 A 1 3|||R:ORTH|||also,|||REQUIRED|||-NONE-|||0
@@ -2737,7 +2680,6 @@ A 2 3|||R:ORTH|||museum|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||handed.|||REQUIRED|||-NONE-|||0
 
 S I am beleving that there is no future for the public transpot , using trains is mor convient and low expenses also to decrease the carpon gases which affecting the ozone , people should be aware about the effect of using the public transpotation on the econmics and enviroment , goverements shall encarge the people to use the other ways for transport , this subject shall be issuesd in all media to learn and encrage the people to use he wrigth way for transpot .
-A 2 3|||R:VERB|||stating|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||transpot,|||REQUIRED|||-NONE-|||0
 A 15 85|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -2784,7 +2726,7 @@ A 2 4|||R:ORTH|||day,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||and,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||way,|||REQUIRED|||-NONE-|||0
-A 16 19|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The name of waterfall was Chorrituelo .
 A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
@@ -2855,12 +2797,8 @@ A 0 1|||R:ORTH|||It|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||eye.|||REQUIRED|||-NONE-|||0
 
 S English do help us read English original works , but Chinese helps us learn a true China .
-A 1 2|||R:VERB|||is|||REQUIRED|||-NONE-|||0
-A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 3 4|||R:OTHER|||most|||REQUIRED|||-NONE-|||0
-A 4 7|||R:OTHER|||important language|||REQUIRED|||-NONE-|||0
-A 7 12|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
-A 13 13|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 1 3|||R:VERB:TENSE|||helps|||REQUIRED|||-NONE-|||0
+A 7 9|||R:ORTH|||works,|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||China.|||REQUIRED|||-NONE-|||0
 
 S Only by characters Chinese literature can send off its brilliance .
@@ -2888,11 +2826,9 @@ S It is small but comfortable and famous for his big burguers .
 A 10 12|||R:ORTH|||burguers.|||REQUIRED|||-NONE-|||0
 
 S Woolypools is a speciallist of meal , it 's a meal restaurant .
-A 3 4|||R:SPELL|||special|||REQUIRED|||-NONE-|||0
-A 4 5|||R:OTHER|||place for|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 5 9|||R:ORTH|||meal, it's|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||special|||REQUIRED|||-NONE-|||0
-A 11 13|||R:OTHER|||place|||REQUIRED|||-NONE-|||0
+A 10 13|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my opinion the restaurant can be better , respect to meat , but it is perfect to have dinner with your friends .
 A 2 3|||R:NOUN|||opinion,|||REQUIRED|||-NONE-|||0
@@ -2906,7 +2842,7 @@ S I have expects to be more famous , better and biggest .
 A 1 2|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 2 3|||R:MORPH|||expect|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||famous,|||REQUIRED|||-NONE-|||0
-A 10 12|||R:OTHER|||bigger.|||REQUIRED|||-NONE-|||0
+A 10 12|||R:ORTH|||biggest.|||REQUIRED|||-NONE-|||0
 
 S The problem of the restaurant is the place , it is far from the people and cities , and the space , that is very small for lots of people .
 A 7 9|||R:ORTH|||place,|||REQUIRED|||-NONE-|||0
@@ -2933,15 +2869,12 @@ A 7 8|||U:PRON||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||ever.|||REQUIRED|||-NONE-|||0
 
 S In my town we create a small organization for more healthy environment , beauty touch and to be attractive . the citizens in the town must participate in this , the citizen will take the responsibility for specific day to clean the town and put the rubbish into correct place and clean tree and plant more of it .
-A 9 9|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||environment,|||REQUIRED|||-NONE-|||0
 A 14 15|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 16 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 40 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I 'm agree with the opinion that the famous people , such as politicians and film stars deserve to have a private life without journalists following them all the time .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 2 3|||R:VERB:FORM|||agreeing|||REQUIRED|||-NONE-|||0
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||people,|||REQUIRED|||-NONE-|||0
 A 16 17|||R:OTHER|||stars,|||REQUIRED|||-NONE-|||0
@@ -3064,13 +2997,12 @@ A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It was a dark night it was raining until a big active volcano explosion buried them into the underground .
 A 5 5|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||explosion.|||REQUIRED|||-NONE-|||0
 A 14 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All of them tried to find a way out ! , but no one ca n't find one ... They started to get panicked !
 A 8 11|||R:ORTH|||out!,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:OTHER|||could|||REQUIRED|||-NONE-|||0
-A 17 25|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People just started to evacuated rapidly until it began a big earthquake ...
 A 4 5|||R:VERB:FORM|||evacuate|||REQUIRED|||-NONE-|||0
@@ -3086,7 +3018,7 @@ S Until the dawn all of them go out , so they sacred until they find a refuge .
 A 2 3|||R:OTHER|||dawn,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||out,|||REQUIRED|||-NONE-|||0
 A 11 11|||M:VERB|||are|||REQUIRED|||-NONE-|||0
-A 15 18|||R:OTHER|||their|||REQUIRED|||-NONE-|||0
+A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Everyone wanted to witness the queen , but no one find something .
 A 5 7|||R:ORTH|||queen,|||REQUIRED|||-NONE-|||0
@@ -3095,9 +3027,7 @@ A 11 13|||R:ORTH|||something.|||REQUIRED|||-NONE-|||0
 
 S Like they were very religious ants they prey for her sacred ancestors so they can help them in the big deal .
 A 5 6|||R:OTHER|||ants,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:PREP|||to|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||ancestors,|||REQUIRED|||-NONE-|||0
-A 12 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Something that they don know was that the whole thing was a movie !
 A 3 4|||R:OTHER|||don't|||REQUIRED|||-NONE-|||0
@@ -3123,12 +3053,10 @@ A 7 9|||R:ORTH|||all...|||REQUIRED|||-NONE-|||0
 S The next day when they were about to start filming they ere non ants there so they search for them , but they ca n't find them ...
 A 9 10|||R:OTHER|||filming,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB|||eret|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||non-|||REQUIRED|||-NONE-|||0
 A 13 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In that moment the ants and Penny attack them in their backs , making them to leave the place .
 A 2 3|||R:OTHER|||moment,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||backs,|||REQUIRED|||-NONE-|||0
 A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -3225,15 +3153,13 @@ A 16 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Additionally , people now continues destroyed more agricultures and forest in order to satisfy all their need , which will distory the ecosystem diversity and biodiversity especially the endangered species .
 A 0 2|||R:ORTH|||Additionally,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:VERB:FORM|||continue to destroy|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOUN:INFL|||agriculture|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||needs.|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOUN:NUM|||needs|||REQUIRED|||-NONE-|||0
 A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S According to the problems above mentioned , various approaches that governmentshould be adopted to deal with this problem.first of all , reducing building constructure from now on , planting more trees instead .
 A 5 7|||R:ORTH|||mentioned,|||REQUIRED|||-NONE-|||0
-A 10 10|||M:NOUN|||government|||REQUIRED|||-NONE-|||0
-A 10 13|||R:VERB:TENSE|||should adopt|||REQUIRED|||-NONE-|||0
-A 17 33|||R:OTHER|||problem should|||REQUIRED|||-NONE-|||0
+A 10 11|||R:ORTH|||government should|||REQUIRED|||-NONE-|||0
+A 17 33|||R:OTHER|||problem|||REQUIRED|||-NONE-|||0
 
 S Sustainadle development should be awaness to all human and start to porteat the environment and preserve the animals .
 A 4 5|||R:OTHER|||a priority|||REQUIRED|||-NONE-|||0
@@ -3258,8 +3184,7 @@ S I have been studying English since I was child and I never speak and learn so 
 A 8 8|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 11|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
 A 12 13|||R:VERB:FORM|||spoken|||REQUIRED|||-NONE-|||0
-A 14 15|||R:VERB:FORM|||learnt|||REQUIRED|||-NONE-|||0
-A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I have taken that decision because I was tired to try to learn English and I did not have the level that I want , so when I heard about that ooportunity I said yes .
 A 9 10|||R:PART|||of|||REQUIRED|||-NONE-|||0
@@ -3272,17 +3197,16 @@ A 7 8|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||transport,|||REQUIRED|||-NONE-|||0
 A 14 15|||R:VERB:SVA|||produces|||REQUIRED|||-NONE-|||0
-A 15 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 27 28|||R:NOUN|||lot|||REQUIRED|||-NONE-|||0
-A 28 29|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 16 18|||R:ORTH|||pollution,|||REQUIRED|||-NONE-|||0
+A 18 29|||R:OTHER|||but|||REQUIRED|||-NONE-|||0
 
 S It can carry many people without problems .
 A 6 8|||R:ORTH|||problems.|||REQUIRED|||-NONE-|||0
 
 S Nowadays in the cities developed there are many possibilities for public transport , like bus , train , subway , tram etc.these options it 's more economical than the car , the problem of the car is that normally the car is occupied for a person , when the car is prepared for to carry four or five people .
 A 11 13|||R:ORTH|||transport,|||REQUIRED|||-NONE-|||0
-A 14 18|||R:ORTH|||bus, train,|||REQUIRED|||-NONE-|||0
-A 18 60|||R:OTHER|||train|||REQUIRED|||-NONE-|||0
+A 14 16|||R:ORTH|||bus,|||REQUIRED|||-NONE-|||0
+A 17 60|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S this situation to create many pollution for environment so we have more conscience for the planet health
 A 0 1|||R:ORTH|||This|||REQUIRED|||-NONE-|||0
@@ -3298,10 +3222,9 @@ A 15 17|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First reason ; the grammar that the learners , teachers or institutes teach , is like the Spanish Languaje , my native Languaje .
-A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||learners,|||REQUIRED|||-NONE-|||0
 A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 17 24|||R:OTHER|||one that|||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S That I want to say , is very difficult to understand the conjuntion of the verb 's in Spanish Languaje , just Imaging you the same but not in your native lenguaje .
 A 4 5|||R:OTHER|||say,|||REQUIRED|||-NONE-|||0
@@ -3313,7 +3236,6 @@ S Second reason . in the English syntaxis , the structure for construction parag
 A 1 3|||R:ORTH|||reason.|||REQUIRED|||-NONE-|||0
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||syntaxis,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN:NUM|||paragraphs|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||sentences,|||REQUIRED|||-NONE-|||0
 A 16 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -3343,8 +3265,7 @@ S In 1993 , Indian cricket team won his first world cup and that 's change the d
 A 1 2|||R:OTHER|||1993,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||that's|||REQUIRED|||-NONE-|||0
-A 14 15|||R:VERB:FORM|||changing|||REQUIRED|||-NONE-|||0
-A 16 31|||R:OTHER|||world|||REQUIRED|||-NONE-|||0
+A 16 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I love this game because my favourite sport man belong to this game .
 A 7 9|||R:ORTH|||sportman|||REQUIRED|||-NONE-|||0
@@ -3364,7 +3285,7 @@ S His stance , Style , shots , running between the wicket , everything which is 
 A 1 7|||R:ORTH|||stance, Style, shots,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN|||wickets,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 15 26|||R:OTHER|||important|||REQUIRED|||-NONE-|||0
+A 14 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Not only me but also every Indian always follow Sachin for cricket .
 A 2 3|||R:OTHER|||me,|||REQUIRED|||-NONE-|||0
@@ -3397,7 +3318,7 @@ A 3 4|||R:VERB:SVA|||wants|||REQUIRED|||-NONE-|||0
 A 6 6|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||bowler,|||REQUIRED|||-NONE-|||0
 A 10 14|||R:ORTH|||running, action,|||REQUIRED|||-NONE-|||0
-A 14 41|||R:OTHER|||running|||REQUIRED|||-NONE-|||0
+A 14 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Also watch videos of some best player like Sachin , Rahul , Sir Don breadman , Hayden , Wasim Akaram , Brett Lee etc .
 A 0 1|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
@@ -3466,9 +3387,9 @@ A 7 9|||R:ORTH|||city,|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||here.|||REQUIRED|||-NONE-|||0
 
 S I can recommed you to my uncle 's company to do a job .
-A 2 3|||R:SPELL|||recommit|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||recommise|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||uncle's|||REQUIRED|||-NONE-|||0
-A 12 14|||R:ORTH|||job.|||REQUIRED|||-NONE-|||0
+A 12 14|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because it is difficult to get a job here if you are foreign and haven't finished college .
 A 14 15|||R:OTHER|||haven'|||REQUIRED|||-NONE-|||0
@@ -3637,9 +3558,6 @@ A 15 23|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 S To sum it up I still consider having their own car is way more safe and convinient .
 A 2 3|||U:PRON||||||REQUIRED|||-NONE-|||0
 A 3 4|||R:OTHER|||up,|||REQUIRED|||-NONE-|||0
-A 13 14|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 14 15|||R:ADJ:FORM|||safer|||REQUIRED|||-NONE-|||0
-A 16 16|||M:ADV|||more|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Public future unless they have project to at least lessen the time of travel and prioritize the safety of their passenger .
@@ -3770,8 +3688,6 @@ S And what about trains ?
 A 3 5|||R:ORTH|||trains?|||REQUIRED|||-NONE-|||0
 
 S I saw tv about train in Japan - that is the future of public transport .
-A 2 3|||R:ORTH|||TV|||REQUIRED|||-NONE-|||0
-A 4 5|||R:NOUN:NUM|||trains|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||transport.|||REQUIRED|||-NONE-|||0
 
 S I want to see blue sky and not stream of cars like it was in the film " The Fifth Element "
@@ -3844,7 +3760,6 @@ A 10 12|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||player.|||REQUIRED|||-NONE-|||0
 
 S We used to organise competitions and tournaments with others school .
-A 8 9|||R:MORPH|||other|||REQUIRED|||-NONE-|||0
 A 9 10|||R:NOUN|||schools.|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
@@ -3876,8 +3791,7 @@ A 10 12|||R:ORTH|||themes.|||REQUIRED|||-NONE-|||0
 
 S It is well known that many Art curators and Artists believes that Contemporary Art is not a good source of art , since there are many artists that only create based in their easy ideas of an aesthetic image or a philosophical idea , but most of the times this is unintelligible .
 A 10 11|||R:VERB:SVA|||believe|||REQUIRED|||-NONE-|||0
-A 16 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 48 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Luckily the most expensive art still being the old , like Picasso or Freud .
 A 0 1|||R:OTHER|||Luckily,|||REQUIRED|||-NONE-|||0
@@ -3917,8 +3831,7 @@ A 4 6|||R:ORTH|||MTR.|||REQUIRED|||-NONE-|||0
 
 S I arrived the sports ground at 7:40 a.m. This year I 've join the 100-metre race .
 A 2 2|||M:PREP|||at|||REQUIRED|||-NONE-|||0
-A 11 13|||R:VERB|||was|||REQUIRED|||-NONE-|||0
-A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the first day before the sports day begin , we have the opening ceremony .
 A 8 9|||R:OTHER|||begins,|||REQUIRED|||-NONE-|||0
@@ -4027,11 +3940,8 @@ A 8 10|||R:ORTH|||correct.|||REQUIRED|||-NONE-|||0
 S We should used of public transport because at the present there are a lot of cars in the world that pollute and unfortunately we are harming the environment and the world .
 A 2 3|||R:VERB:FORM|||use|||REQUIRED|||-NONE-|||0
 A 3 4|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 6 7|||R:OTHER|||because,|||REQUIRED|||-NONE-|||0
 A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
-A 9 10|||R:NOUN|||present,|||REQUIRED|||-NONE-|||0
-A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 30 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is the best that all people go to the place walking o running on the other hand it is more healthy .
 A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -4113,7 +4023,6 @@ A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S The tiger was the mom names Amanda of 25 years old , the herders kill her parents , because the herders were poor and do n't have enough food to survive , so they kill them .
 A 10 12|||R:ORTH|||old,|||REQUIRED|||-NONE-|||0
 A 12 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 21|||R:NOUN|||herders.|||REQUIRED|||-NONE-|||0
 A 21 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The tiger 's boyfriend was a lion names John of 27 years old , his dad die because in a conflict with other animals , he got an infection .
@@ -4136,8 +4045,7 @@ A 3 4|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||other.|||REQUIRED|||-NONE-|||0
 
 S The first one names Amanda junior like her mom but she is a cheetah .She have 9 years old she loves to run and she is the fastest of the family and have a lot of spots .
-A 8 9|||R:SPELL|||mom,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||cheet|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||cheeta|||REQUIRED|||-NONE-|||0
 A 14 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She is of the ones that trend to make something enforcing .
@@ -4242,7 +4150,7 @@ S Hey my name is Joe and i 'm 21 years old and i'l think i'l would compliment th
 A 0 1|||R:OTHER|||Hey,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
-A 14 42|||R:OTHER|||I'm|||REQUIRED|||-NONE-|||0
+A 14 42|||R:OTHER|||I'|||REQUIRED|||-NONE-|||0
 
 S My current job is to be a nurse at the local hospital and i'l can do everything as a doctor can .
 A 13 14|||R:OTHER|||I|||REQUIRED|||-NONE-|||0
@@ -4336,7 +4244,6 @@ A 10 11|||R:VERB|||became|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||true.|||REQUIRED|||-NONE-|||0
 
 S I had my first snowboardlesson und I loved it .
-A 5 6|||R:SPELL|||and|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
 S I took every free minute to drive snowboard .
@@ -4419,7 +4326,7 @@ A 15 17|||R:ORTH|||place.|||REQUIRED|||-NONE-|||0
 
 S The problem is the last thing she remember is that she has been sleeping and then suddenly woke up when the window opened with the wind .
 A 7 8|||R:VERB:SVA|||remembers|||REQUIRED|||-NONE-|||0
-A 17 27|||R:OTHER|||suddenly|||REQUIRED|||-NONE-|||0
+A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She fell sleep again , didn't she ?
 A 2 3|||R:ADJ|||asleep|||REQUIRED|||-NONE-|||0
@@ -4454,8 +4361,9 @@ A 9 11|||R:ORTH|||everywhere.|||REQUIRED|||-NONE-|||0
 S In case of transportation technology , in this twenty first century we have various option like Plan that can fly with the cloud , train that fast and big enough that carry hundreds of people and travel hundreds of mile an hour and boat that much bigger and faster than ancient time .
 A 4 6|||R:ORTH|||technology,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:OTHER|||twenty-first|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||options,|||REQUIRED|||-NONE-|||0
-A 17 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN:NUM|||options|||REQUIRED|||-NONE-|||0
+A 17 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 45 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although compared to ancient time we are lucky enough that we have all these option .
 A 4 5|||R:NOUN|||times,|||REQUIRED|||-NONE-|||0
@@ -4525,10 +4433,8 @@ A 13 15|||R:ORTH|||university,|||REQUIRED|||-NONE-|||0
 A 18 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The young people want to discover the world and travelling to reach places which would be unreachable otherwise
-A 0 2|||U:DET|||Young|||REQUIRED|||-NONE-|||0
 A 9 10|||R:MORPH|||travel|||REQUIRED|||-NONE-|||0
 A 11 12|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 16 17|||R:ADJ|||unreachable.|||REQUIRED|||-NONE-|||0
 A 17 18|||U:ADV||||||REQUIRED|||-NONE-|||0
 
 S I had a wonderful day yesterday because I was in the beach all the afternoon .
@@ -4548,7 +4454,7 @@ A 8 10|||R:ORTH|||beach.|||REQUIRED|||-NONE-|||0
 
 S The water was very cold and I could n't swim , then I played football in the sand of the beach .
 A 7 11|||R:ORTH|||couldn't swim,|||REQUIRED|||-NONE-|||0
-A 17 22|||R:OTHER|||morning|||REQUIRED|||-NONE-|||0
+A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I took the sun a very long time and then I go to a cafe and and I drank a refreshment .
 A 11 12|||R:VERB:TENSE|||went|||REQUIRED|||-NONE-|||0
@@ -4579,7 +4485,7 @@ S yes , i agree , if you planed the travelling for a long distation and for a lo
 A 0 5|||R:ORTH|||Yes, I agree,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:MORPH|||plan|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DET|||your|||REQUIRED|||-NONE-|||0
-A 9 15|||R:OTHER|||travel|||REQUIRED|||-NONE-|||0
+A 10 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 18 19|||R:NOUN|||time,|||REQUIRED|||-NONE-|||0
 A 21 60|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -4636,7 +4542,6 @@ A 5 7|||R:ORTH|||places.|||REQUIRED|||-NONE-|||0
 
 S increasing the number of tries and plants and punish the person who cuts them .
 A 0 1|||R:ORTH|||Increasing|||REQUIRED|||-NONE-|||0
-A 4 5|||R:NOUN|||attempts|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB:FORM|||punishing|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||them.|||REQUIRED|||-NONE-|||0
 
@@ -4689,10 +4594,8 @@ S You should try practice its so funny , but I advertise you , is not easy at fi
 A 3 4|||R:VERB|||to make|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PRON|||it|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||funny,|||REQUIRED|||-NONE-|||0
-A 11 11|||M:NOUN|||you,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:PRON|||it|||REQUIRED|||-NONE-|||0
-A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||you,|||REQUIRED|||-NONE-|||0
+A 18 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In weekdays , I get off from my bed at 7 in the morning to go to my work which startst at 9 AM .
 A 0 1|||R:PREP|||On|||REQUIRED|||-NONE-|||0
@@ -4703,7 +4606,6 @@ S I often go to sleep around 12 AM .
 A 7 9|||R:ORTH|||AM.|||REQUIRED|||-NONE-|||0
 
 S I usually play videos games if I do not have any homework to do .
-A 3 4|||R:NOUN:NUM|||video|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||do.|||REQUIRED|||-NONE-|||0
 
 S I am not a big fan of sports so I do not play any .
@@ -4716,7 +4618,6 @@ A 8 10|||R:ORTH|||myself.|||REQUIRED|||-NONE-|||0
 
 S Michael wake up at the morning and he read the newspaper .
 A 1 2|||R:VERB:SVA|||wakes|||REQUIRED|||-NONE-|||0
-A 3 4|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB:TENSE|||reads|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||newspaper.|||REQUIRED|||-NONE-|||0
 
@@ -4751,7 +4652,7 @@ A 0 2|||R:ORTH|||Finally,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||office.|||REQUIRED|||-NONE-|||0
 
 S Michael sent the story but Michael closed the door and knew at that moment he had made a mistake , he did n't put his name and address .
-A 17 29|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Yes , i think TV can entertain and educate , because there are many comedy .
 A 0 1|||R:OTHER|||Yes,|||REQUIRED|||-NONE-|||0
@@ -4837,13 +4738,12 @@ S Dear Paul !
 A 1 3|||R:ORTH|||Paul!|||REQUIRED|||-NONE-|||0
 
 S I haven't written you for ages but I was very busy because of the exams at the University .
-A 5 6|||R:NOUN|||ages,|||REQUIRED|||-NONE-|||0
-A 13 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What about you?What 's new in Brazil?As you know , my friend John asked me to help him with the organization at the concert , which was performed last month .
-A 2 4|||R:ORTH|||you? What's|||REQUIRED|||-NONE-|||0
-A 6 31|||R:OTHER|||Brazil?|||REQUIRED|||-NONE-|||0
+A 2 4|||R:ORTH|||you?What's|||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||know,|||REQUIRED|||-NONE-|||0
+A 12 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So I was there something like staff .
 A 6 8|||R:ORTH|||staff.|||REQUIRED|||-NONE-|||0
@@ -4872,7 +4772,6 @@ A 3 5|||R:ORTH|||envious...|||REQUIRED|||-NONE-|||0
 A 7 12|||R:OTHER|||it!|||REQUIRED|||-NONE-|||0
 
 S Next time I would like to do something similar and you should try it as well . You will earn nice money and you have cultural experience .
-A 1 2|||R:NOUN|||time,|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||well.|||REQUIRED|||-NONE-|||0
 A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -4906,7 +4805,7 @@ A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 S On one hand , it 's true that one programme or series which we see , has a lot of mentions to products or services .
 A 2 6|||R:ORTH|||hand, it's|||REQUIRED|||-NONE-|||0
 A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There can be people tired of so much advertising contents but this is completely necessary .
 A 9 10|||R:OTHER|||content,|||REQUIRED|||-NONE-|||0
@@ -4956,11 +4855,10 @@ A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S During summer I love to go to the beach and having sunbathing with my friends other than getting fun with them playing volleyball or run inside the water of the sea !
 A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 10 11|||R:VERB:FORM|||have|||REQUIRED|||-NONE-|||0
 A 14 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think those activities are very regenerating and they make you forget about all the warmness of summer .
-A 15 19|||R:OTHER|||warmth.|||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Furthermore you can sleep more than the other days of the year and this make you feel relaxed .
 A 0 1|||R:OTHER|||Furthermore,|||REQUIRED|||-NONE-|||0
@@ -4984,9 +4882,7 @@ A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S I 'm eighteen years old and I 'm doing a languages translation degree at university at the moment , that 's why I need to work in order to pay my fee .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
-A 11 13|||R:NOUN|||translation.|||REQUIRED|||-NONE-|||0
-A 13 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I have some experience working with children from all ages , besides I do n't mind hard work and I learn quickly .
 A 7 8|||R:PREP|||of|||REQUIRED|||-NONE-|||0
@@ -4998,7 +4894,6 @@ S Also I 've just got my FCE certificate this year but it would help me a lot if
 A 0 1|||R:OTHER|||Also,|||REQUIRED|||-NONE-|||0
 A 1 3|||R:ORTH|||I've|||REQUIRED|||-NONE-|||0
 A 9 10|||R:OTHER|||year,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:VERB|||help.|||REQUIRED|||-NONE-|||0
 A 14 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I consider myself really active , sociable , well - organized and above all patient , therefore I think I 'm suitable for this job as I can adapt myself easily at any kind of situation or environment , especially working overseas plus it would be a nice experience because I would meet new people and a different culture .
@@ -5227,10 +5122,7 @@ A 9 11|||R:ORTH|||sporty,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
 
 S ·Others ideas to have fun
-A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
-A 1 2|||R:NOUN:NUM|||idea|||REQUIRED|||-NONE-|||0
-A 2 2|||M:OTHER|||of having fun is|||REQUIRED|||-NONE-|||0
-A 4 5|||R:NOUN|||fun.|||REQUIRED|||-NONE-|||0
+A 0 1|||R:ADJ|||Alse|||REQUIRED|||-NONE-|||0
 
 S In Castelldefels , there are other activities less popular , but cheaper , for instance : free zumba masterclass , yoga beach , running ... as sports activities , and as social activities there are library group , theatre ...
 A 1 3|||R:ORTH|||Castelldefels,|||REQUIRED|||-NONE-|||0
@@ -5279,7 +5171,6 @@ S Well , the airport is located just outside Reus , it 's small but it has a lot
 A 0 2|||R:ORTH|||Well,|||REQUIRED|||-NONE-|||0
 A 8 12|||R:ORTH|||Reus, it's|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||small,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||it'|||REQUIRED|||-NONE-|||0
 A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S You have to take a bus because it is more economical than take a taxi .
@@ -5314,7 +5205,7 @@ A 4 6|||R:ORTH|||visit.|||REQUIRED|||-NONE-|||0
 S I 'd like to visit museums , monuments and going to clubbing with you .
 A 5 7|||R:ORTH|||museums,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:FORM|||go|||REQUIRED|||-NONE-|||0
-A 13 15|||R:OTHER|||friends|||REQUIRED|||-NONE-|||0
+A 13 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I 'm looking forward to hearing from you soon .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
@@ -5379,12 +5270,12 @@ S Guillermo Sedillo Tórrez
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Nowadays there are many people that are learning foreign language , for me is a good thing that more people learn this , but is it worth learning a foreign language ?
-A 0 1|||R:OTHER|||Nowadays,|||REQUIRED|||-NONE-|||0
 A 8 8|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||language,|||REQUIRED|||-NONE-|||0
 A 13 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 24 26|||R:WO|||it is|||REQUIRED|||-NONE-|||0
-A 26 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 26 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 29 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Firstly , there are more multinational companies that need people to speak other languages , so that means that the people who know to speak foreign language have more opportunities to get a job in important companies , or will have more chances of being promoted .
 A 0 2|||R:ORTH|||Firstly,|||REQUIRED|||-NONE-|||0
@@ -5487,18 +5378,16 @@ S Julio Camarillo
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S The aim of this report is to evaluate both bad effects and good effects from the users'opinions in the Active Leisure Club in the last time .
-A 10 11|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 19 22|||R:NOUN|||users' opinions.|||REQUIRED|||-NONE-|||0
-A 22 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 22|||R:NOUN|||users'|||REQUIRED|||-NONE-|||0
+A 22 27|||R:OTHER|||opinions|||REQUIRED|||-NONE-|||0
 
 S First , people in this area have actually found a suitable place to enjoy their time through a wide range of activities , games which are held creatively and effectively and have been suitable for different ages .
 A 0 2|||R:ORTH|||First,|||REQUIRED|||-NONE-|||0
-A 17 38|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 17 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Besides , it has enough modern facilities to serve the users in the peak hours and the guiders are everywhere and ready give a help .
 A 0 2|||R:ORTH|||Besides,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:PREP|||during|||REQUIRED|||-NONE-|||0
 A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
 A 17 18|||R:MORPH|||guides|||REQUIRED|||-NONE-|||0
 A 19 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -5510,8 +5399,8 @@ A 8 8|||M:OTHER|||is the fact that we are not able to do|||REQUIRED|||-NONE-|||0
 S With the purpose to actract more peole to join in the club , besises its good points , I will highly recommend that they should arrange the time suitably and avoi they hold the acivities to avoid the problems
 A 3 4|||R:PART|||of|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB|||arranging|||REQUIRED|||-NONE-|||0
-A 11 13|||R:ORTH|||club,|||REQUIRED|||-NONE-|||0
-A 13 39|||R:OTHER|||be able|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||club,,|||REQUIRED|||-NONE-|||0
+A 12 39|||R:OTHER|||be|||REQUIRED|||-NONE-|||0
 
 S Given is a diagram introducing the procedures of making bank notes .
 A 10 12|||R:ORTH|||notes.|||REQUIRED|||-NONE-|||0
@@ -5532,13 +5421,11 @@ S The third section is to print the prepared bank notes .
 A 9 11|||R:ORTH|||notes.|||REQUIRED|||-NONE-|||0
 
 S Usually there will be 50 ban notes per sheet .
-A 0 1|||R:OTHER|||Usually,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||sheet.|||REQUIRED|||-NONE-|||0
 
 S The colour will print on the both sides and every notes has their unique ink also the images will be slightly raised .
 A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN:NUM|||note|||REQUIRED|||-NONE-|||0
-A 12 13|||R:DET|||its|||REQUIRED|||-NONE-|||0
 A 14 15|||R:NOUN|||ink,|||REQUIRED|||-NONE-|||0
 A 15 16|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
 A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -5645,16 +5532,13 @@ S However it 's possible that we do n't find enough people with that profile so 
 A 0 1|||R:OTHER|||However,|||REQUIRED|||-NONE-|||0
 A 1 3|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
-A 13 14|||R:OTHER|||profile,|||REQUIRED|||-NONE-|||0
 A 15 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Is it possible to do the meeting this week ?
-A 4 5|||R:VERB|||hold|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||week?|||REQUIRED|||-NONE-|||0
 
 S When and where do you prefer ? ( Remember that I work from 8 a.m to 6 p.m ) I suggest we can do the meeting at your office , so you do n't have to move to another place .
 A 5 7|||R:ORTH|||prefer?|||REQUIRED|||-NONE-|||0
-A 14 15|||R:NOUN|||a.m.|||REQUIRED|||-NONE-|||0
 A 15 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Finally I need you to prepare some profiles that you think the staff of New Cloud Generation should have , and please tell me if you find another different request than I tell you before in that e - mail .
@@ -5666,7 +5550,7 @@ A 0 2|||R:ORTH|||Please,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||possible.|||REQUIRED|||-NONE-|||0
 
 S Íñigo Ojeda .
-A 0 1|||R:SPELL|||Igo|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||igo|||REQUIRED|||-NONE-|||0
 A 1 3|||R:ORTH|||Ojeda.|||REQUIRED|||-NONE-|||0
 
 S Dear Paul ,
@@ -5684,11 +5568,10 @@ A 12 14|||R:ORTH|||much.|||REQUIRED|||-NONE-|||0
 
 S You probably wo n't believe me but I met all members of Dżem band , I talked to them and we had lunch together , they 're very nice men . Because of helping them I had the best place during the concert and I have their authographs on the newest record . I did n't have many duties and none of them were unpleasant .
 A 2 4|||R:ORTH|||won't|||REQUIRED|||-NONE-|||0
-A 5 6|||R:OTHER|||me,|||REQUIRED|||-NONE-|||0
 A 10 10|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 11 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 33 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 50 66|||R:OTHER|||Dems.|||REQUIRED|||-NONE-|||0
+A 50 66|||R:OTHER|||Dem|||REQUIRED|||-NONE-|||0
 
 S In general I had only one duty that is checking quest list , above that I had to help in cleaning area after the concert .
 A 1 2|||R:OTHER|||general,|||REQUIRED|||-NONE-|||0
@@ -5705,8 +5588,6 @@ S Working for them was a real pleasure .
 A 6 8|||R:ORTH|||pleasure.|||REQUIRED|||-NONE-|||0
 
 S I suppose we 'll see each other soon and I 'll be capable of talking to you about this experience .
-A 2 4|||R:ORTH|||we'll|||REQUIRED|||-NONE-|||0
-A 9 11|||R:ORTH|||I'll|||REQUIRED|||-NONE-|||0
 A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Love ,
@@ -5760,8 +5641,7 @@ A 11 13|||R:ORTH|||course.|||REQUIRED|||-NONE-|||0
 S However , in my opinion there should have been at least one native teacher in the teacher 's team .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOUN|||opinion,|||REQUIRED|||-NONE-|||0
-A 16 18|||R:OTHER|||teacher.|||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This way we had been able to hear a native speaker and I think it would have been worth practising .
 A 3 5|||R:VERB:TENSE|||were|||REQUIRED|||-NONE-|||0
@@ -5797,7 +5677,7 @@ A 17 19|||R:ORTH|||characters.|||REQUIRED|||-NONE-|||0
 S In addition , I think that the settings are very reallistic and the actors had a great performance .
 A 1 3|||R:ORTH|||addition,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||realistic|||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||time|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Therefore , I recommend that drama genre lovers watch Babel as its message will move you .
 A 0 2|||R:ORTH|||Therefore,|||REQUIRED|||-NONE-|||0
@@ -5993,8 +5873,6 @@ A 16 18|||R:ORTH|||time,|||REQUIRED|||-NONE-|||0
 A 19 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Imagine this picture : the first class of this semester , students are yawning and do not pay attention on the teacher ; while the teacher ask for the answer , students can not answer because they totally can not remember what they have studied in last semester .
-A 2 3|||R:NOUN|||picture:|||REQUIRED|||-NONE-|||0
-A 3 4|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||semester,|||REQUIRED|||-NONE-|||0
 A 15 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -6013,8 +5891,7 @@ A 12 14|||R:ORTH|||paragraphs.|||REQUIRED|||-NONE-|||0
 S To begin with , there is a general consensus , students will forget the knowledge they have learned after a long break time .
 A 2 4|||R:ORTH|||with,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||consensus,|||REQUIRED|||-NONE-|||0
-A 16 18|||R:VERB|||have.|||REQUIRED|||-NONE-|||0
-A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For example , on history class , history teacher have to repeat teaching the history of North America before he start to teach the history of South America in the beginning of the semester .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
@@ -6031,7 +5908,7 @@ A 7 9|||R:ORTH|||efficient.|||REQUIRED|||-NONE-|||0
 S Next to go would be , students get used to relax by having no study and homework in the long vacation .
 A 4 6|||R:ORTH|||be,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:FORM|||relaxing|||REQUIRED|||-NONE-|||0
-A 17 22|||R:OTHER|||on campus|||REQUIRED|||-NONE-|||0
+A 17 22|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
 
 S For example , when the semester start , students can not get away from the sunshine , beach , and travelling .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
@@ -6069,7 +5946,6 @@ A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||soccer.|||REQUIRED|||-NONE-|||0
 
 S I enjoy this sport since I was a child , I always remember when my father and my brother teach me to play it .
-A 1 2|||R:VERB:TENSE|||have enjoyed|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN|||child.|||REQUIRED|||-NONE-|||0
 A 9 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -6130,7 +6006,6 @@ A 3 3|||M:PRON|||you|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||sport.|||REQUIRED|||-NONE-|||0
 
 S On my vacation I went to New York .
-A 2 3|||R:NOUN|||vacation,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||York.|||REQUIRED|||-NONE-|||0
 
 S I also went to the amazing Niagara Falls .
@@ -6140,7 +6015,6 @@ S Something that made me happy was to see my family .
 A 9 11|||R:ORTH|||family.|||REQUIRED|||-NONE-|||0
 
 S On september 12th,2014 I went to New York city .
-A 2 3|||R:OTHER|||12th,2014,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||City.|||REQUIRED|||-NONE-|||0
 
 S In the fly I was very happy because I received a lot of food .
@@ -6181,7 +6055,6 @@ A 3 4|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||place.|||REQUIRED|||-NONE-|||0
 
 S It does not have too much to do but there were the falls .
-A 7 8|||R:OTHER|||do,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||falls.|||REQUIRED|||-NONE-|||0
 
 S I was amazed of how huge were the falls .
@@ -6227,7 +6100,6 @@ A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Most universities provide cheap accommodations such as , shared rooms and dormitories to their students to lower the living costs , where most students have low income .
 A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 17 18|||R:DET|||their|||REQUIRED|||-NONE-|||0
 A 19 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Other students who may have family financial support prefer to hire an apartments to live independently
@@ -6252,14 +6124,11 @@ A 14 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Many years ago , I shared a friend in a room for few months during a course outside my country , these days where I worst during my life , he was dirty , speaking loudly all time and did not share the budget of eating . living alone will grant me the freedom to live by the way that I choose and still friendly with all the others without exceed the privacy of my friends . this matter will not achieved when living in shared rooms .
 A 2 4|||R:ORTH|||ago,|||REQUIRED|||-NONE-|||0
-A 12 12|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 14 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 27 88|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 88|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S they annoying me
 A 0 1|||R:ORTH|||They|||REQUIRED|||-NONE-|||0
 A 1 2|||R:MORPH|||annoyed|||REQUIRED|||-NONE-|||0
-A 2 3|||R:OTHER|||me.|||REQUIRED|||-NONE-|||0
 
 S Although The federal government which is decided as a role of USA has many benefits according to reading passage , the lecturer believes that there is no perfect government .
 A 1 2|||R:ORTH|||the|||REQUIRED|||-NONE-|||0
@@ -6299,10 +6168,8 @@ S In conclusion , federal government which give freedom and powerful , cause man
 A 1 2|||R:NOUN|||conclusion,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB:SVA|||gives|||REQUIRED|||-NONE-|||0
-A 9 10|||R:MORPH|||power|||REQUIRED|||-NONE-|||0
-A 10 11|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 9 11|||R:OTHER|||power,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB:SVA|||causes|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||problems,|||REQUIRED|||-NONE-|||0
 A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Travelling to a different country can be both exciting and frustrating at the same time .
@@ -6314,19 +6181,17 @@ A 14 16|||R:ORTH|||moments.|||REQUIRED|||-NONE-|||0
 
 S In order to enjoy travelling to Mexico I would give two important advice ; first try to get alone with travel companion and enjoy Mexican food instead to critic about spicy savor .
 A 6 7|||R:NOUN|||Mexico,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||advice:|||REQUIRED|||-NONE-|||0
-A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 18 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 28 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People say that in every voyage the people suffer to different moments of the trip : arrived , get away to the frustration of an unknown place , get alone with your trip companion , success as a traveler and arrived home triumphal .
-A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
 A 9 10|||R:PREP|||from|||REQUIRED|||-NONE-|||0
 A 14 18|||R:ORTH|||trip: arrived,|||REQUIRED|||-NONE-|||0
-A 19 44|||R:OTHER|||there|||REQUIRED|||-NONE-|||0
+A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 29 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In order to enjoy a trip to Mexico I suggest that the traveler find a manner to get alone with his or her companion .
 A 7 8|||R:NOUN|||Mexico,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:VERB:SVA|||finds|||REQUIRED|||-NONE-|||0
 A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This minimal chance would make a big difference when you visit other city .
@@ -6368,9 +6233,8 @@ A 15 17|||U:PUNCT|||try|||REQUIRED|||-NONE-|||0
 A 20 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S After the Internet was invented and revealed first time in August 29th 1969 , Social Media Site ( SMS ) is the next most significant innovation that has partly replaced for face to face communication .
-A 7 7|||M:OTHER|||for the|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||1969,|||REQUIRED|||-NONE-|||0
-A 16 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S SMS such as Facebook send out 700.000 messages , and 170.000 Tweets are publicized on Twitter each 60 seconds .
 A 7 9|||R:ORTH|||messages,|||REQUIRED|||-NONE-|||0
@@ -6486,16 +6350,12 @@ A 16 18|||R:ORTH|||person.|||REQUIRED|||-NONE-|||0
 S For example , after the premier of The Hunger Game was released , a fan posted an onset racist tweet that saying that they were unhappy because one of the main actresses was performed by Black person ( Rauch and Schanz , 2013 ) .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||released,|||REQUIRED|||-NONE-|||0
-A 17 20|||R:NOUN|||advertisement|||REQUIRED|||-NONE-|||0
-A 20 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because of the accessible information through SMS , it has led to many problems involve with cycle - bullying , cycle - badgering , cycle - stalking behaviour ( Krishna , as cited in Williams & Merten , 2008 ) .
 A 6 8|||R:ORTH|||SMS,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOUN|||problems,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:OTHER|||including|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 21 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 24 25|||R:NOUN:NUM|||cycles|||REQUIRED|||-NONE-|||0
+A 14 24|||R:OTHER|||including|||REQUIRED|||-NONE-|||0
 A 25 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For example , Krishna et al.(2013 ) reports a case of continuous disturbing a woman from a man called Mr .
@@ -6541,7 +6401,6 @@ A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In conclusion , the benefits from using Facebook and Twitter is that people can communicate and being connected to their friends frequently .
 A 1 3|||R:ORTH|||conclusion,|||REQUIRED|||-NONE-|||0
-A 5 6|||R:PREP|||of|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 16 17|||R:VERB:FORM|||be|||REQUIRED|||-NONE-|||0
 A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -6592,16 +6451,14 @@ A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Both skills are required in today 's world and are necessary to be developed in the education system at the same level .
 A 5 7|||R:ORTH|||today's|||REQUIRED|||-NONE-|||0
-A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
-A 16 18|||R:NOUN|||education.|||REQUIRED|||-NONE-|||0
-A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The reasons
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Recent studies show that in the last twenty years more than 3,000 photographs are taken per person in the world , especially in the latest generations lifes(teenagers and kids ) .
-A 13 14|||R:VERB:TENSE|||have been|||REQUIRED|||-NONE-|||0
-A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 23 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This increase is related with the overwhelming development of technologies in computers , cameras , cellphones , etc .
 A 4 5|||R:PREP|||to|||REQUIRED|||-NONE-|||0
@@ -6653,7 +6510,7 @@ A 9 11|||R:ORTH|||October.|||REQUIRED|||-NONE-|||0
 
 S A lot of people are happy , because they can sleep ( for ) one hour more .
 A 5 7|||R:ORTH|||happy,|||REQUIRED|||-NONE-|||0
-A 11 14|||R:ORTH|||(for)|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||for)|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||more.|||REQUIRED|||-NONE-|||0
 
 S Hockey as a life style
@@ -6684,8 +6541,7 @@ A 9 10|||R:SPELL|||requirements?|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Then you know hockey is the aswner .
-A 5 6|||R:OTHER|||the.|||REQUIRED|||-NONE-|||0
-A 6 8|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||aswner.|||REQUIRED|||-NONE-|||0
 
 S hockey is a sport I have played for many years and it turned out to be my favorite .
 A 0 1|||R:ORTH|||Hockey|||REQUIRED|||-NONE-|||0
@@ -6880,18 +6736,14 @@ A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Egyptians called their country ' Black Land ' to mark it off of the red soil of desert .
 A 4 9|||R:ORTH|||country'Black Land'|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||soil.|||REQUIRED|||-NONE-|||0
 A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Nowadays , deep and wide valley of the Nile became the most important transport line for Egypt .
 A 0 1|||R:OTHER|||Nowadays,|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
-A 8 9|||R:MORPH|||Nil|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Through the centuries people have been exploring the nature of the Nile .
-A 2 3|||R:OTHER|||centuries,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||Nile.|||REQUIRED|||-NONE-|||0
 
 S The ancient Egyptians divided the year for three seasons compared to dry or wet period .
@@ -6900,8 +6752,9 @@ A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They knew when it will be the ' Green Nile ' or ' Red Nile ' to stock up with clean water .
 A 4 5|||R:VERB:TENSE|||would|||REQUIRED|||-NONE-|||0
-A 7 14|||R:ORTH|||'Green Nile' or'Red|||REQUIRED|||-NONE-|||0
-A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 6 14|||R:ORTH|||the'Green Nile'or'Red|||REQUIRED|||-NONE-|||0
+A 14 16|||R:OTHER|||Ni|||REQUIRED|||-NONE-|||0
+A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But such high level of development of Egyptian civilization has the negative side as well as positive .
 A 2 2|||M:DET|||a|||REQUIRED|||-NONE-|||0
@@ -6946,8 +6799,7 @@ A 15 17|||R:ORTH|||year.|||REQUIRED|||-NONE-|||0
 
 S It was built in 79 A.C. by Tito , who was the Roman emperor .
 A 7 9|||R:ORTH|||Tito,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:ORTH|||Emperor|||REQUIRED|||-NONE-|||0
-A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 13 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It was used for shows with animals or humans , who were killed without pity .
 A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -6973,8 +6825,7 @@ A 7 9|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
 S It 's our strength and every time I go beyond I realize how many people succeeded in building it .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 15 15|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S That 's why it is important : it makes us understand to never give up and follow our dreams .
 A 0 2|||R:ORTH|||That's|||REQUIRED|||-NONE-|||0
@@ -7020,11 +6871,9 @@ A 0 1|||R:OTHER|||Similarly,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||disadvantages.|||REQUIRED|||-NONE-|||0
 
 S Everybody can not afford a travel through car as it is costly , but to discuss the benefits , one can enjoy high privacy during travel and is convenient
-A 4 5|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
 A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 11 13|||R:OTHER|||expensive,|||REQUIRED|||-NONE-|||0
-A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 26 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||costly,|||REQUIRED|||-NONE-|||0
+A 15 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S and sophisticated and can travel faster .
 A 5 7|||R:ORTH|||faster.|||REQUIRED|||-NONE-|||0
@@ -7043,7 +6892,6 @@ A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 S However , during the rush hour , there are always have such a ruin person who has no public awareness at all .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||hour,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
 A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -7121,7 +6969,7 @@ A 10 12|||R:ORTH|||skills.|||REQUIRED|||-NONE-|||0
 
 S News , current events and historical programming can help make young people more aware of other cultures and people .
 A 0 2|||R:ORTH|||News,|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||cultures|||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Documentaries can help develop critical thinking about society and the world .
 A 10 12|||R:ORTH|||world.|||REQUIRED|||-NONE-|||0
@@ -7153,14 +7001,12 @@ A 14 16|||R:ORTH|||bank,|||REQUIRED|||-NONE-|||0
 A 19 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I follow the relationship with customers from acquisition to the advise until the realization of contracts , building and maintaining relationships after - sales in the aim of customer satisfaction
-A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 10 11|||R:MORPH|||advice|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||contracts,|||REQUIRED|||-NONE-|||0
-A 18 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I also worked with large and small teams in back - offices , managed many administrative activities related to mortages , personal loans , contability and investments too .
-A 12 13|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||activities.|||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||offices,|||REQUIRED|||-NONE-|||0
 A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I worked for several years to the acquisition of new customers , to provide them with a complete service , from the account to insurance products , investment products , personal loans , revolving credit , and cross - selling products .
@@ -7234,8 +7080,7 @@ A 6 8|||R:ORTH|||Googlemobile.|||REQUIRED|||-NONE-|||0
 
 S Maybe , robots will be able to drive more smart then people .
 A 0 2|||R:ORTH|||Maybe,|||REQUIRED|||-NONE-|||0
-A 8 9|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 9 10|||R:MORPH|||smarter|||REQUIRED|||-NONE-|||0
+A 9 10|||R:ADJ:FORM|||smarter|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||than|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||people.|||REQUIRED|||-NONE-|||0
 
@@ -7255,8 +7100,6 @@ A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||independence.|||REQUIRED|||-NONE-|||0
 
 S But another of people think that it is not so bad idea , because they will be able to drink in spite of the fact , that they are drivers at the moment .
-A 2 4|||R:OTHER|||person|||REQUIRED|||-NONE-|||0
-A 4 5|||R:VERB:SVA|||thinks|||REQUIRED|||-NONE-|||0
 A 9 9|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||idea,|||REQUIRED|||-NONE-|||0
 A 17 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -7320,7 +7163,7 @@ A 14 16|||R:ORTH|||world.|||REQUIRED|||-NONE-|||0
 S From newspapers , magazines , even foreign medium , we can easily figure out that our environment is changing severely .
 A 1 5|||R:ORTH|||newspapers, magazines,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:OTHER|||media,|||REQUIRED|||-NONE-|||0
-A 18 21|||R:OTHER|||safe|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Many scientists infer that people 's lives will change dramatically in the next 50 years because of humans ' greedy .
 A 4 6|||R:ORTH|||people's|||REQUIRED|||-NONE-|||0
@@ -7350,8 +7193,7 @@ A 10 12|||R:ORTH|||is.|||REQUIRED|||-NONE-|||0
 S If people around the world could n't put more emphasis on our living places , we must have a dark and hopeless future .
 A 5 7|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||places,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:VERB:TENSE|||would|||REQUIRED|||-NONE-|||0
-A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Due to the climate change , the weather is so hot that people could even have a water shortage .
 A 4 6|||R:ORTH|||change,|||REQUIRED|||-NONE-|||0
@@ -7475,7 +7317,6 @@ A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In holidays , people can away from daily problems and also can take more time with their friends and family .
 A 1 3|||R:ORTH|||holidays,|||REQUIRED|||-NONE-|||0
-A 10 12|||R:WO|||can also|||REQUIRED|||-NONE-|||0
 A 19 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In this respect , many people prefer to go natural places with their families in order to forget about bad situations on their lives .
@@ -7581,7 +7422,6 @@ A 4 6|||R:ORTH|||weather.|||REQUIRED|||-NONE-|||0
 
 S Getting wet when it rains , having to do a lot of effort to cycle into a strong wind , freezing weather or having to keep drinking when hot weather .
 A 4 6|||R:ORTH|||rains,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:VERB|||make|||REQUIRED|||-NONE-|||0
 A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my point of view , Cycling contributes to improve community spirit and it is possible to look for solutions to face the disadvantages of this activity .
@@ -7629,13 +7469,11 @@ A 12 14|||R:ORTH|||car.|||REQUIRED|||-NONE-|||0
 S As we all know , the more public transport passengers use , the less car exhausts are emitted per person .
 A 3 5|||R:ORTH|||know,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||use,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||are.|||REQUIRED|||-NONE-|||0
 A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Recently , several studies have shown evidences that there is a strong relation between car exhausts and lung cancers .
 A 0 2|||R:ORTH|||Recently,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN:NUM|||evidence|||REQUIRED|||-NONE-|||0
-A 12 13|||R:MORPH|||relationship|||REQUIRED|||-NONE-|||0
 A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In other words , public transport plays an important role in protecting human beings from suffering of diseases and saving life .
@@ -7649,7 +7487,7 @@ A 6 8|||R:ORTH|||spaces.|||REQUIRED|||-NONE-|||0
 
 S As more and more people choose to live in cities , nowadays our cities become larger and more crowded .
 A 9 11|||R:ORTH|||cities,|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||complex|||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Correspondingly , the space for each person becomes more limited than before .
 A 0 2|||R:ORTH|||Correspondingly,|||REQUIRED|||-NONE-|||0
@@ -7678,7 +7516,6 @@ A 12 14|||R:ORTH|||friend,|||REQUIRED|||-NONE-|||0
 A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Though there are many advantages for public transport , it does not mean that public transport is the best choice for every situation .
-A 0 1|||R:PREP|||Although|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||transport,|||REQUIRED|||-NONE-|||0
 A 19 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -7722,7 +7559,6 @@ A 8 12|||R:ORTH|||English, French,|||REQUIRED|||-NONE-|||0
 A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think a great disadvantage is the price of the course .
-A 7 8|||R:NOUN|||price,|||REQUIRED|||-NONE-|||0
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||course.|||REQUIRED|||-NONE-|||0
 
@@ -7762,8 +7598,7 @@ A 10 12|||R:ORTH|||address.|||REQUIRED|||-NONE-|||0
 
 S I hope you considerate me for the job , rodrigo
 A 3 4|||R:MORPH|||consider|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOUN|||job,|||REQUIRED|||-NONE-|||0
-A 8 10|||U:PUNCT|||Rodrigo|||REQUIRED|||-NONE-|||0
+A 7 9|||R:ORTH|||job,|||REQUIRED|||-NONE-|||0
 
 S Today , I went to my Winnie 's home with Adriana in the afternoon .
 A 0 2|||R:ORTH|||Today,|||REQUIRED|||-NONE-|||0
@@ -7923,7 +7758,6 @@ A 12 13|||R:NOUN:NUM|||strokes|||REQUIRED|||-NONE-|||0
 A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Swimming as a sport is very useful in wieght reduction if you are obese and need to reduce your wieght , it is also the best sport for the asthmatic patients because it strengthens the chest muscles and decreases the vulnerability of those patients to respiratory infections .
-A 8 9|||R:SPELL|||weight|||REQUIRED|||-NONE-|||0
 A 14 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If you will start to learn swimming , choose a place that has an experienced coach , and try to be part of a group of your age .
@@ -7958,7 +7792,6 @@ S For example they know everything about each helper 's jobs but on the same tim
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||helper's|||REQUIRED|||-NONE-|||0
 A 11 12|||R:PREP|||at|||REQUIRED|||-NONE-|||0
-A 14 15|||R:NOUN|||time,|||REQUIRED|||-NONE-|||0
 A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I want explain to you some interesting part from my experience .
@@ -8071,9 +7904,8 @@ A 18 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S But , technology is hre for best or worst , and we have to learn to deal with it the best we can .
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
 A 4 5|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||worst,|||REQUIRED|||-NONE-|||0
-A 19 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If I could change one thing in my life , I would like to change my house .
 A 8 10|||R:ORTH|||life,|||REQUIRED|||-NONE-|||0
@@ -8090,7 +7922,7 @@ S If I had this house , I would decorat it in modern stayl .
 A 4 6|||R:ORTH|||house,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:SPELL|||decorate|||REQUIRED|||-NONE-|||0
 A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
-A 12 14|||R:OTHER|||place.|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||stayl.|||REQUIRED|||-NONE-|||0
 
 S I would build there fitness gym , wardrobe -room , swimming pool .
 A 3 4|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
@@ -8098,7 +7930,7 @@ A 5 6|||R:NOUN|||gym,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||-room,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
-A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 13|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If I had such house , I would like to equip a barbecue area in my garden .
 A 4 4|||M:DET|||a|||REQUIRED|||-NONE-|||0
@@ -8117,7 +7949,6 @@ A 6 8|||R:ORTH|||sport,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||answer.|||REQUIRED|||-NONE-|||0
 
 S Though I am a beginner of it , I think it 's interesting since it requires a lot of skills to be a master of it , which sounds very challenging .
-A 0 1|||R:PREP|||Although|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||it,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 16 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -8393,9 +8224,9 @@ A 11 13|||R:ORTH|||eat.|||REQUIRED|||-NONE-|||0
 
 S Actually , students eat a lot fast food while they are studying at university , because they do n't have time to do food , for these reasons I think that the best restaurant is somowhere when they do home - made food , and a good idea is for mains course : baked potatoes , steamed vegetables and for dessert apple cake .
 A 0 2|||R:ORTH|||Actually,|||REQUIRED|||-NONE-|||0
-A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||university,|||REQUIRED|||-NONE-|||0
-A 16 64|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 38 64|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the other hand , we are studying architecture maybe we should choose a special restaurant , I like a charming and comfortable restaurant with a lot of windows , with a white chair , table and wall , more or less a relaxing environment but the atmosphere is very important for dinner and I think that we must vote this , because we will have a good night or not depending the type of atmosphere we choose .
 A 3 5|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
@@ -8552,8 +8383,7 @@ A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 S And finally , I think it 's very important that you can easily take your book with you and start reading anytime you want .
 A 1 3|||R:ORTH|||finally,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
-A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the other hand , if you like being in company the best way for you is movies .
 A 3 5|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
@@ -8723,18 +8553,18 @@ A 3 5|||R:ORTH|||Ashby,|||REQUIRED|||-NONE-|||0
 
 S My name is Andrea Cocci , I 'm sixteen , and I saw the advertisement of the weekend work in your cafe , and I 'm interested to work with you .
 A 4 10|||R:ORTH|||Cocci, I'm sixteen,|||REQUIRED|||-NONE-|||0
-A 14 32|||R:OTHER|||movie.|||REQUIRED|||-NONE-|||0
+A 13 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I ' m the perfect choice for this work , in fact , I 'm interested in different kinds of food because I am Italian , and for us food is everything .
 A 0 3|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||work,|||REQUIRED|||-NONE-|||0
-A 11 15|||R:ORTH|||fact, I'm|||REQUIRED|||-NONE-|||0
-A 15 33|||R:OTHER|||the perfect choice|||REQUIRED|||-NONE-|||0
+A 11 13|||R:ORTH|||fact,|||REQUIRED|||-NONE-|||0
+A 13 33|||R:OTHER|||I'|||REQUIRED|||-NONE-|||0
 
 S In Italy , I attend school for waiter and cook , and sometimes I cook lasagna , pasta , pizza and many other specialties of my country , and I was assumed in many famous restaurant .
 A 1 3|||R:ORTH|||Italy,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||cook,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||lasagna.|||REQUIRED|||-NONE-|||0
 A 16 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I"m also good at dealing with people , in fact since when I was younger , I have done the animator at the summer camp of Alpignano , the city where I lived , and I spent a lot of time with children and adults .
@@ -8747,10 +8577,9 @@ S I also worked for many theater companies and I am so good and kind when I talk
 A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S At the end , I 'm also prepared to work long hours , when I worked with my aunt in his cafe , I worked from eight a.m. and I lasted at 9 p.m. , it was difficult but I did it all days .
-A 0 1|||R:PREP|||In|||REQUIRED|||-NONE-|||0
 A 2 6|||R:ORTH|||end, I'm|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||hours,|||REQUIRED|||-NONE-|||0
-A 17 45|||R:OTHER|||them|||REQUIRED|||-NONE-|||0
+A 17 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I look forward to hearing from you soon ,
 A 7 9|||R:ORTH|||soon,|||REQUIRED|||-NONE-|||0
@@ -8774,8 +8603,7 @@ A 11 12|||R:NOUN:NUM|||view|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||process.|||REQUIRED|||-NONE-|||0
 
 S Talking with English native speakers is always a good thing because you will be able to judge how well or badly you are doing .
-A 9 10|||R:NOUN|||thing,|||REQUIRED|||-NONE-|||0
-A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Besides , it can be funny and enjoyable if you plan it properly .
 A 0 2|||R:ORTH|||Besides,|||REQUIRED|||-NONE-|||0
@@ -8789,9 +8617,8 @@ A 40 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S From my point of view I think the advantages overcome the disadvantages especially if you have some money saved for it .
 A 4 5|||R:NOUN|||view,|||REQUIRED|||-NONE-|||0
-A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOUN|||disadvantages,|||REQUIRED|||-NONE-|||0
-A 15 22|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But if you do not , there is always a solution which is using the Internet to learn everything you need .
 A 4 6|||R:ORTH|||not,|||REQUIRED|||-NONE-|||0
@@ -8806,8 +8633,8 @@ A 0 2|||R:ORTH|||Football,|||REQUIRED|||-NONE-|||0
 
 S When I was little I had tried a lot of sports , Handball , Swimming , Tennis , but my favourite sport is not one of those , it is a sport that I have never imagine : Football .
 A 3 4|||R:OTHER|||little,|||REQUIRED|||-NONE-|||0
-A 10 16|||R:ORTH|||sports, Handball, Swimming,|||REQUIRED|||-NONE-|||0
-A 16 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 14|||R:ORTH|||sports, Handball,|||REQUIRED|||-NONE-|||0
+A 15 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All my life I thought that football was a sport which was for men , not for girls , but once I tried it , I loved it .
 A 13 15|||R:ORTH|||men,|||REQUIRED|||-NONE-|||0
@@ -8937,8 +8764,7 @@ A 3 4|||R:VERB:FORM|||to be|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||jealous.|||REQUIRED|||-NONE-|||0
 
 S Notice any kind of failures .
-A 4 5|||R:NOUN|||failure.|||REQUIRED|||-NONE-|||0
-A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||failures.|||REQUIRED|||-NONE-|||0
 
 S It seems to me that journalist might be absolutely toxic and they have defective infulence on society which assess celebrites through the prism of journalistic documentary .
 A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -8950,12 +8776,11 @@ A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||money.|||REQUIRED|||-NONE-|||0
 
 S The value of their talent , abilities are counted in amonut of tabloids scandals .
-A 5 6|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||talent,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN|||abilities,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||the tab|||REQUIRED|||-NONE-|||0
-A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 12 14|||R:NOUN|||tab.|||REQUIRED|||-NONE-|||0
-A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 10 10|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||tab|||REQUIRED|||-NONE-|||0
 
 S Summing up , all over the world , are living famous people who do n't bring into the limelight their life .
 A 1 3|||R:ORTH|||up,|||REQUIRED|||-NONE-|||0
@@ -8963,7 +8788,7 @@ A 6 8|||R:ORTH|||world,|||REQUIRED|||-NONE-|||0
 A 9 10|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 22|||R:OTHER|||own|||REQUIRED|||-NONE-|||0
+A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It has ever been very useful for a long time ago , nevertheless nowadays , there are some people who ask if the public transport was suppressed , and society would save a lot of money .
 A 2 3|||U:ADV||||||REQUIRED|||-NONE-|||0
@@ -8974,8 +8799,7 @@ A 19 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S However , people should think about the large advantages , such as : people save money ; it is very comfortable and good for the environment .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||advantages,|||REQUIRED|||-NONE-|||0
-A 11 13|||R:ORTH|||as:|||REQUIRED|||-NONE-|||0
-A 15 18|||R:OTHER|||money; it'|||REQUIRED|||-NONE-|||0
+A 15 17|||R:ORTH|||money;|||REQUIRED|||-NONE-|||0
 A 18 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Firstly , the main reason is the cost because the people who do not have a car they need to travel or commute to another place and a car is very expensive .
@@ -9002,7 +8826,6 @@ S If you use the public transport , you can be less contaminating than before be
 A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||transport,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB|||polluting|||REQUIRED|||-NONE-|||0
-A 13 14|||R:OTHER|||before,|||REQUIRED|||-NONE-|||0
 A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Finally , the last reason is the comfort because you have a car ; it is so difficult to find a car park in the centre of the city .
@@ -9038,7 +8861,6 @@ A 10 12|||R:ORTH|||months.|||REQUIRED|||-NONE-|||0
 S Take an example of mobile technology , your latest handset , with latest configurations becomes outdated within few months after buying it .
 A 5 7|||R:ORTH|||technology,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||handset,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||outdated.|||REQUIRED|||-NONE-|||0
 A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S 50 years is a very long time and people lives will definitely change in such a long period .
@@ -9051,16 +8873,11 @@ A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Last 50 years science and technology took great leaps , internet , mobiles made us more connected .
 A 2 3|||R:NOUN|||years,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||leaps,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 10 12|||R:ORTH|||internet,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:MORPH|||mobile|||REQUIRED|||-NONE-|||0
-A 13 13|||M:NOUN|||phones|||REQUIRED|||-NONE-|||0
+A 8 12|||R:ORTH|||leaps, internet,|||REQUIRED|||-NONE-|||0
 A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Today , we have all the information at finger - tips .
 A 0 2|||R:ORTH|||Today,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||hand|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||tips.|||REQUIRED|||-NONE-|||0
 
 S Today , we do n't need to worry about getting lost at new place , Google maps are always there to help .
@@ -9108,10 +8925,7 @@ A 13 15|||R:ORTH|||leaders.|||REQUIRED|||-NONE-|||0
 S If these challenges are not addressed in coming years , imagining better lives for people in 50 years hence is rather difficult .
 A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||years,|||REQUIRED|||-NONE-|||0
-A 10 11|||R:VERB:FORM|||imagine|||REQUIRED|||-NONE-|||0
-A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 21|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 21 23|||R:OTHER|||world|||REQUIRED|||-NONE-|||0
+A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We need to remember technology is just a tool , in right hand it would be boon for us , in wrong hands it has power to destroy the world as we see it today .
 A 4 4|||M:PREP|||that|||REQUIRED|||-NONE-|||0
@@ -9150,7 +8964,7 @@ A 0 1|||R:PRON|||I'm|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 A 2 4|||R:ORTH|||motivated,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
-A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I 've worked as social trainer and as educators since I was 16 .
 A 0 2|||R:ORTH|||I've|||REQUIRED|||-NONE-|||0
@@ -9167,7 +8981,6 @@ A 16 17|||R:SPELL|||activities.|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S I had a very great memories of these experiences and I would really like to live them again .
-A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
 A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S If you are interested , please have a look at my CV .
@@ -9191,7 +9004,6 @@ S I need that device near me because I have three children and I want to know ho
 A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The same about my parents ; they are old and sometimes they call me for talk about their healht .
-A 14 15|||R:PART|||to|||REQUIRED|||-NONE-|||0
 A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Concerning video - games , I agree with scientits that they thought its help children 's brain to develop , but is important controller them because there are a lot violent games .
@@ -9371,7 +9183,7 @@ S It was too much for him .
 A 5 7|||R:ORTH|||him.|||REQUIRED|||-NONE-|||0
 
 S He thought it 's easier to walk away and avoid this conversation with her .
-A 3 4|||R:VERB:TENSE|||would be|||REQUIRED|||-NONE-|||0
+A 2 4|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||her.|||REQUIRED|||-NONE-|||0
 
 S He tried to understand what 's going on with him .
@@ -9408,8 +9220,7 @@ S He could n't handle the feeling , when she tried to touch him , to kiss and hu
 A 1 3|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
 A 6 7|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||him,|||REQUIRED|||-NONE-|||0
-A 16 16|||M:PRON|||him|||REQUIRED|||-NONE-|||0
-A 17 20|||R:OTHER|||she|||REQUIRED|||-NONE-|||0
+A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He knew that she loves him as much as he loves her , but everything was just too wrong on this moment .
 A 4 5|||R:VERB:TENSE|||loved|||REQUIRED|||-NONE-|||0
@@ -9427,12 +9238,10 @@ S She could n't understand what 's going on , because it was just three weeks ag
 A 1 3|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||what's|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||on,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||ago.|||REQUIRED|||-NONE-|||0
-A 16 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And now , he just avoids her and he is not happy about the news .
 A 1 3|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:PREP|||with|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||news.|||REQUIRED|||-NONE-|||0
 
 S It was a big mess .
@@ -9499,10 +9308,7 @@ A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Moreover , I think before any kind of sports that we should do some exercises that is because we need to relax our bodies first . If we do not do it that we will get dangerous while we are doing any sports .
 A 0 2|||R:ORTH|||Moreover,|||REQUIRED|||-NONE-|||0
-A 3 4|||R:VERB|||think,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||sports,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||exercises,|||REQUIRED|||-NONE-|||0
-A 15 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In conclusion , my opinion is I do not like to do any sports but we need to choose one kind of sport in our life and almost all people need to do it , as we could not stay at home or working all the time .
 A 1 3|||R:ORTH|||conclusion,|||REQUIRED|||-NONE-|||0
@@ -9538,8 +9344,6 @@ A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Finally , the town has also improved the management and treatment of waste system with the active cooperation of most of the citizenship who is really concerned about the recycling of waste need .
 A 0 2|||R:ORTH|||Finally,|||REQUIRED|||-NONE-|||0
 A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
-A 17 18|||R:NOUN|||cooperation.|||REQUIRED|||-NONE-|||0
 A 18 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In fact , around 90% of Caceres inhabitants are said to sort and recycle their rubbish taking it out to the yellow , green and blue containers in every street .
@@ -9548,9 +9352,8 @@ A 7 8|||R:NOUN|||residents|||REQUIRED|||-NONE-|||0
 A 16 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And that is the negative point , these dumpsters are too visible in town and it would be advisable to change the ones we have for underground ones .
-A 5 6|||R:OTHER|||point:|||REQUIRED|||-NONE-|||0
-A 6 7|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 5 7|||R:ORTH|||point,|||REQUIRED|||-NONE-|||0
+A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I woke up today and I just remember that I was doing a presentation about landscapes , and the ones that do it will reward a bonus point but anyways this is n't important information .
 A 16 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -9571,8 +9374,7 @@ A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think the reason why I did n't know about the explosion is because this part where I live is a very poor area and it 's not that beautiful so you ca n't distinguish were does the explosion hit .
 A 6 8|||R:ORTH|||didn't|||REQUIRED|||-NONE-|||0
-A 14 14|||M:PREP|||of|||REQUIRED|||-NONE-|||0
-A 17 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Finally in some days I found some neighbors with some food , I was starving to death so I ate a lot .
 A 0 1|||R:OTHER|||Finally,|||REQUIRED|||-NONE-|||0
@@ -9605,8 +9407,7 @@ A 9 10|||R:VERB:TENSE|||had|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||hump.|||REQUIRED|||-NONE-|||0
 
 S I stomp him and when he turned around it was a woman from the group .
-A 8 9|||R:PRON|||he|||REQUIRED|||-NONE-|||0
-A 13 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We were talking about this when a dog just came near ; it was adorable just when he converted into a big weird creature .
 A 10 12|||R:ORTH|||near;|||REQUIRED|||-NONE-|||0
@@ -9614,8 +9415,8 @@ A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He bit my leg and it hurt a lot , we tried to alert the others but it was too late , it was the group or us .
 A 8 10|||R:ORTH|||lot,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||others,|||REQUIRED|||-NONE-|||0
-A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 23 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We saw that beast eating our friends and the food .
 A 9 11|||R:ORTH|||food.|||REQUIRED|||-NONE-|||0
@@ -9626,8 +9427,7 @@ A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
 A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But if I had the opportunity to reverse the trend of how am I going I would not do it because I have to face all of this .
-A 12 14|||R:WO|||I am|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||going,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB|||going,|||REQUIRED|||-NONE-|||0
 A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S DOING EXCERCISE IS GOOD FOR YOURE HEALTH
@@ -9651,7 +9451,6 @@ A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There 's a lot of benefits that come in hand with doing excercise like reducing or take control of you re weight , it helps you with heart disease , problems with you re body , and also you can make a lot of friends while doing any exercise .
 A 1 2|||R:CONTR|||are|||REQUIRED|||-NONE-|||0
-A 12 13|||R:SPELL|||excercise,|||REQUIRED|||-NONE-|||0
 A 14 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Now days there 's a lot of different types of exercising , you can practice any sport , like soccer , basketball , baseball , or you can simply go to the GYM or practise Crossfit or something like that .
@@ -9659,7 +9458,6 @@ A 0 1|||R:OTHER|||Now,|||REQUIRED|||-NONE-|||0
 A 1 2|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 3 4|||R:CONTR|||are|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||exercising,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||sport.|||REQUIRED|||-NONE-|||0
 A 17 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Soccer it 's a great sport where you can make a lot of friends , you can stay fit , but you also need some skills because it 's not easy to controll the ball and dribble you 're rivals on the field .
@@ -9676,16 +9474,12 @@ A 6 8|||R:ORTH|||won't|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
 S Is there any future to public transport , for travelling by car is much more convenient ?
-A 6 7|||R:OTHER|||transport,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:OTHER|||because|||REQUIRED|||-NONE-|||0
-A 8 9|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||transport,|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||convenient?|||REQUIRED|||-NONE-|||0
 
 S Many disagree about the public transport whom are to be disappearing , though we still have to deal with different opinions about increasing in travelling .
-A 9 10|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||disappear,|||REQUIRED|||-NONE-|||0
-A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 19 26|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+A 10 12|||R:ORTH|||disappearing,|||REQUIRED|||-NONE-|||0
+A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This composition will explain the two different opinions .
 A 7 9|||R:ORTH|||opinions.|||REQUIRED|||-NONE-|||0
@@ -9709,7 +9503,7 @@ A 15 38|||R:OTHER|||),|||REQUIRED|||-NONE-|||0
 S There 's not as many people around you ... I prefer the car because you can listen to music as well . »
 A 1 2|||R:CONTR|||are|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||you...|||REQUIRED|||-NONE-|||0
-A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although they are many positive points about private cars , they are also negative ones .
 A 1 2|||R:PRON|||there|||REQUIRED|||-NONE-|||0
@@ -9722,8 +9516,8 @@ A 3 4|||R:VERB:SVA|||increase|||REQUIRED|||-NONE-|||0
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||pollution,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||congestion,|||REQUIRED|||-NONE-|||0
-A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 29 31|||R:ORTH|||expensive.|||REQUIRED|||-NONE-|||0
+A 16 18|||R:ORTH|||expensive.|||REQUIRED|||-NONE-|||0
+A 19 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then just owning a car and looking after your car , insurance , tax , etc .
 A 9 15|||R:ORTH|||car, insurance, tax,|||REQUIRED|||-NONE-|||0
@@ -9741,7 +9535,7 @@ A 8 10|||R:ORTH|||boy.|||REQUIRED|||-NONE-|||0
 
 S Now , secondly , travelling by public transport is cheaper ( we do n't pay any fees on public transport , but also , it is safer ,
 A 0 4|||R:ORTH|||Now, secondly,|||REQUIRED|||-NONE-|||0
-A 10 14|||R:ORTH|||(we don't|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S According to The Saigon Times , there are a lot of traffic accidents which occurred to private cars .
@@ -9802,9 +9596,7 @@ A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For example , if some woman you are acquainted wearing inappropriate clothes not fitting in the occasion .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
-A 6 8|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PREP|||with|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||occasion,|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S People usually tend not telling her the truth since it could make her feelings .
@@ -9823,19 +9615,17 @@ A 12 14|||R:ORTH|||mood.|||REQUIRED|||-NONE-|||0
 
 S The other point is when it comes to personal matters , people usually intend to keep it private since most of the time it is strange and inappropriate to talk oneself too much to people at work or even people that one just got acquainted .
 A 9 11|||R:ORTH|||matters,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:PRON|||them|||REQUIRED|||-NONE-|||0
 A 17 18|||R:OTHER|||private,|||REQUIRED|||-NONE-|||0
 A 18 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If there are questions about things one do not want other people to know , they might say a little white lie which usually does not matter too much .
 A 7 8|||R:VERB:SVA|||does|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||know,|||REQUIRED|||-NONE-|||0
-A 18 30|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 18 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If I was having a day off to go to a doctor , I would prefer other people from asking details about it by say that I just had some errands to run .
-A 2 4|||R:VERB:TENSE|||had|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||doctor,|||REQUIRED|||-NONE-|||0
-A 18 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These are the two opinions of mine on telling the truth or not .
 A 12 14|||R:ORTH|||not.|||REQUIRED|||-NONE-|||0
@@ -9859,7 +9649,7 @@ A 10 12|||R:ORTH|||headmaster.|||REQUIRED|||-NONE-|||0
 
 S I could n't understood why we needed to meet the headmaster just because Michael had closed the door .
 A 1 4|||R:OTHER|||couldn't understand|||REQUIRED|||-NONE-|||0
-A 15 19|||R:OTHER|||had had|||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The door was n't broke into pieces or fell down .
 A 2 4|||R:ORTH|||wasn't|||REQUIRED|||-NONE-|||0
@@ -9870,10 +9660,9 @@ S My curiosity had put me into a big trouble .
 A 8 10|||R:ORTH|||trouble.|||REQUIRED|||-NONE-|||0
 
 S I asked the headmaster in a polite way and hopefully he can gave me the answer I wanted .
-A 8 9|||R:OTHER|||and,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:OTHER|||hopefully,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB:TENSE|||could|||REQUIRED|||-NONE-|||0
-A 12 19|||R:OTHER|||give|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||give|||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , things do n't happened like what I hoped .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -9883,7 +9672,6 @@ A 9 11|||R:ORTH|||hoped.|||REQUIRED|||-NONE-|||0
 
 S I ended getting expelled from the school because teacher and the classmates suspected Michael and I steal our classmate - Sally 's wallet .
 A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
-A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
 A 16 17|||R:VERB:TENSE|||stole|||REQUIRED|||-NONE-|||0
 A 18 20|||R:OTHER|||class|||REQUIRED|||-NONE-|||0
 A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -9891,12 +9679,11 @@ A 22 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I could n't imagine the teacher and friends also pointed at us firmly and without given any chance for us to speak out .
 A 1 3|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
-A 15 24|||R:OTHER|||them.|||REQUIRED|||-NONE-|||0
+A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I finally realised that everything was a trap and we 're the unlucky and innocent ones as we fell into the trap .
 A 9 11|||R:ORTH|||we're|||REQUIRED|||-NONE-|||0
-A 13 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We wiped off our tears , and waved our hands when we left the school .
 A 4 6|||R:ORTH|||tears,|||REQUIRED|||-NONE-|||0
@@ -9907,8 +9694,8 @@ S Although , one day later the headmaster found out the truth through CCTV , but
 A 0 2|||R:ORTH|||Although,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:OTHER|||later,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||CCTV,|||REQUIRED|||-NONE-|||0
-A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 31 47|||R:OTHER|||were|||REQUIRED|||-NONE-|||0
+A 15 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 35 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is because the teacher has a biased mindset .
 A 8 10|||R:ORTH|||mindset.|||REQUIRED|||-NONE-|||0
@@ -9929,7 +9716,6 @@ S Also , I have a good relation with little kids , I use to look after my nieces
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:MORPH|||relationship|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||kids,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:VERB:TENSE|||used|||REQUIRED|||-NONE-|||0
 A 17 18|||R:NOUN:NUM|||niece|||REQUIRED|||-NONE-|||0
 A 18 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -9951,15 +9737,12 @@ A 16 17|||R:PREP|||to|||REQUIRED|||-NONE-|||0
 A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S I think that if I watch and learn how to do it I would learn very fast and can dominate it .
-A 5 6|||R:VERB:TENSE|||watched|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB:TENSE|||learnt|||REQUIRED|||-NONE-|||0
-A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S That is a good quality of mine , I learn thing very fast and I also can get used to new thing .
 A 5 6|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||mine,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN:NUM|||things|||REQUIRED|||-NONE-|||0
-A 12 13|||R:ADV|||quickly|||REQUIRED|||-NONE-|||0
 A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I am very exited about this job and I hope you reply soon .
@@ -9995,15 +9778,13 @@ A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 27 77|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We found a pharmacy and a restroom where we could get a rest and take a shower to clean ourselves .
-A 15 21|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We got close to the pharmacy there was no walkers inside so we run into the pharmacy and closed all the doors and I got someone to check us in the night I needed some rest and went to sleep immediately .
 A 5 6|||R:NOUN|||pharmacy,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB:SVA|||were|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||inside,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:VERB:TENSE|||ran|||REQUIRED|||-NONE-|||0
-A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 31 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In my area there are many railway lines and they 're often overcrowded .
 A 9 11|||R:ORTH|||they're|||REQUIRED|||-NONE-|||0
@@ -10063,9 +9844,9 @@ A 17 31|||R:OTHER|||by|||REQUIRED|||-NONE-|||0
 S Unfortunately , this is a part of celeb 's ' work ' so they have to take into account .
 A 0 2|||R:ORTH|||Unfortunately,|||REQUIRED|||-NONE-|||0
 A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
-A 7 9|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 9 12|||R:OTHER|||celeb's'work',|||REQUIRED|||-NONE-|||0
-A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||celeb's'work',|||REQUIRED|||-NONE-|||0
+A 9 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But on the other hand , there should be some inviolability spheres of life without journalists following them all the time .
 A 4 6|||R:ORTH|||hand,|||REQUIRED|||-NONE-|||0
@@ -10078,7 +9859,7 @@ A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S I know that catching celebrity doing celaning or taking a dog for a walk is a shocking news for people who read tabloids .
 A 4 5|||R:NOUN:NUM|||celebrities|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||something|||REQUIRED|||-NONE-|||0
-A 15 24|||R:OTHER|||not|||REQUIRED|||-NONE-|||0
+A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S To my mind , they do not believe celebs are such a normal people as everyone of us only with more money in theirs bank accounts
 A 2 4|||R:ORTH|||mind,|||REQUIRED|||-NONE-|||0
@@ -10142,9 +9923,7 @@ A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S I 've been playing volleyball for 12 years now and hopefully many more , what I love about it is first of all that tall or small , anyone could play it as long as they 're determined so basically is a life long sport for everyone .
 A 0 2|||R:ORTH|||I've|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||more,|||REQUIRED|||-NONE-|||0
-A 17 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 38 40|||R:ADV|||most|||REQUIRED|||-NONE-|||0
-A 40 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I love the speed of volleyball , most of the time it 's quick and if you blink you probably missed something , each contact happens in less than a second , and still every player directs the location of the ball in that amount of time and then there 's the intensity , if you haven't seen a game go until 32 - 30 , and see the energy on the floor and hear the noise from the crowd you 're missing out .
 A 5 7|||R:ORTH|||volleyball,|||REQUIRED|||-NONE-|||0
@@ -10163,7 +9942,7 @@ S I am always trying to jump higher , hit harder , pass and set better , and ser
 A 6 8|||R:ORTH|||higher,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||harder,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||better,|||REQUIRED|||-NONE-|||0
-A 18 23|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
+A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I live in New Eltham .
 A 4 6|||R:ORTH|||Eltham.|||REQUIRED|||-NONE-|||0
@@ -10227,8 +10006,7 @@ A 16 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As I was eaten with my friend Moreno and his father , I managed to sample a good range of items on the menu and I really liked Chianina beef , it was very tasty .
 A 10 12|||R:ORTH|||father,|||REQUIRED|||-NONE-|||0
-A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All the ingredients were clearly fresh and of the highest quality .
 A 10 12|||R:ORTH|||quality.|||REQUIRED|||-NONE-|||0
@@ -10236,7 +10014,6 @@ A 10 12|||R:ORTH|||quality.|||REQUIRED|||-NONE-|||0
 S The price was n't reasonable at all , because the meal came to about forty euros per person , so this restaurant it 's a little expensive .
 A 2 4|||R:ORTH|||wasn't|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOUN|||euros.|||REQUIRED|||-NONE-|||0
 A 16 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But I would highly recommend this restaurant despite the fact that the meal was a little expensive and I will no doubt be back for other dinners .
@@ -10293,7 +10070,6 @@ A 17 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S But unluckily , I 'm having an exam on Thursday so I ca n't meet you but you can take me from the school at 1:30 then we can go to have lunch .
 A 0 1|||R:OTHER|||But,|||REQUIRED|||-NONE-|||0
 A 1 5|||R:ORTH|||unluckily, I'm|||REQUIRED|||-NONE-|||0
-A 9 10|||R:NOUN|||Thursday,|||REQUIRED|||-NONE-|||0
 A 12 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 28 32|||R:VERB|||can't|||REQUIRED|||-NONE-|||0
 A 32 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -10326,7 +10102,6 @@ A 17 19|||R:ORTH|||rain.|||REQUIRED|||-NONE-|||0
 
 S If you want to see some beautiful scenery , you must go to Barcelona where you will be able to see La Sagrada Familia , which was built by Antoni Gaudi , or La Alambra in Granada , which is one of the Seven Wonders of the World .
 A 7 9|||R:ORTH|||scenery,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||Barcelona,|||REQUIRED|||-NONE-|||0
 A 18 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In Madrid you can go to visit some museums , like the Reina Sofía or El Prado .
@@ -10367,7 +10142,6 @@ A 6 8|||R:ORTH|||eyes,|||REQUIRED|||-NONE-|||0
 A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Bart always wears a red T - shirt and blue shorts .
-A 5 8|||R:ORTH|||T-shirt|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||shorts.|||REQUIRED|||-NONE-|||0
 
 S The most important thing for Bart is to be the most popular student in his school , for this reason he is always misbehaving .
@@ -10477,8 +10251,9 @@ A 11 13|||R:ORTH|||cleanliness.|||REQUIRED|||-NONE-|||0
 
 S So called people of good nature are inactive and talkative and gossip of others not doing anything for the betterment of their own town .
 A 1 2|||R:OTHER|||called,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||gossiping|||REQUIRED|||-NONE-|||0
 A 12 13|||R:PREP|||about|||REQUIRED|||-NONE-|||0
-A 15 25|||R:OTHER|||even|||REQUIRED|||-NONE-|||0
+A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All the household nearby the public road throws the dirty things easily and even do n't bother about the order of the municipality .
 A 14 15|||R:VERB:SVA|||does|||REQUIRED|||-NONE-|||0
@@ -10493,14 +10268,13 @@ S what I feel is that everyone who are staying the town should at least keep cle
 A 0 1|||R:ORTH|||What|||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PREP|||in|||REQUIRED|||-NONE-|||0
-A 15 16|||U:ADJ||||||REQUIRED|||-NONE-|||0
-A 18 25|||R:OTHER|||clean|||REQUIRED|||-NONE-|||0
+A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I am upset about it and whenever I get a chance I speak with my fellow people and look for their feedback but they are also the same in nature .
 A 18 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People are now self - centred and very narrow minded .
-A 3 6|||R:ORTH|||self-centred|||REQUIRED|||-NONE-|||0
+A 3 5|||R:ORTH|||self-|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||minded.|||REQUIRED|||-NONE-|||0
 
 S Though they are becoming so called educated but in real sense they are still savage .
@@ -10529,7 +10303,7 @@ A 12 14|||R:ORTH|||hours.|||REQUIRED|||-NONE-|||0
 
 S I Know how to prepare different kinds of food : sandwiches , fish and fries , hamburgers , Italian pasta , etc
 A 1 2|||R:ORTH|||know|||REQUIRED|||-NONE-|||0
-A 8 12|||R:ORTH|||food: sandwiches,|||REQUIRED|||-NONE-|||0
+A 10 12|||R:ORTH|||sandwiches,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||fries,|||REQUIRED|||-NONE-|||0
 A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -10559,7 +10333,7 @@ S Thank you for your time and consideration .
 A 6 8|||R:ORTH|||consideration.|||REQUIRED|||-NONE-|||0
 
 S Yours Sincerely ,
-A 1 3|||R:ORTH|||sincerely,|||REQUIRED|||-NONE-|||0
+A 1 3|||R:ORTH|||Sincerely,|||REQUIRED|||-NONE-|||0
 
 S María Luisa Castaneda del Acuna
 A 0 1|||R:SPELL|||Mara|||REQUIRED|||-NONE-|||0
@@ -10579,8 +10353,7 @@ A 13 14|||R:NOUN|||decades,|||REQUIRED|||-NONE-|||0
 A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The possibility of travelling in their own cars is much more convenient than going by a bus full of people or even worse , the idea of wasting time in a long queue .
-A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
-A 19 34|||R:OTHER|||passengers|||REQUIRED|||-NONE-|||0
+A 18 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Nevertheless , you have another side to this reality .
 A 0 2|||R:ORTH|||Nevertheless,|||REQUIRED|||-NONE-|||0
@@ -10656,16 +10429,14 @@ A 5 6|||R:SPELL|||than|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||cars.|||REQUIRED|||-NONE-|||0
 
 S Speaking about money ? Travelling by car seems cheaper than public transport .
-A 2 3|||R:NOUN|||money,|||REQUIRED|||-NONE-|||0
-A 3 5|||U:PUNCT|||travelling|||REQUIRED|||-NONE-|||0
+A 2 4|||R:ORTH|||money?|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||transport.|||REQUIRED|||-NONE-|||0
 
 S But , if we consider all the expenses ( buying the car , paying the insurance , etc . ) , maybe cars are not so cheap .
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
-A 8 10|||R:ORTH|||(buying|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||car,|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||insurance,|||REQUIRED|||-NONE-|||0
-A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In fact , in every aspect there are pros and cons .
 A 1 3|||R:ORTH|||fact,|||REQUIRED|||-NONE-|||0
@@ -10753,7 +10524,6 @@ A 8 10|||R:ORTH|||nerves.|||REQUIRED|||-NONE-|||0
 
 S He has to deal with it , the sooner the better .
 A 5 7|||R:ORTH|||it,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:OTHER|||sooner,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||better.|||REQUIRED|||-NONE-|||0
 
 S For now one thing is clear as day - the one he is in love with is Malika , not Angelina .
@@ -10799,8 +10569,7 @@ A 39 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Mike ca n't really say why they ended up having sex - perhaps , at the time he was pissed at himself for not having balls to get the girl he loved because of all these religious issues , Malika 's family and so on , but this is what happened .
 A 1 3|||R:ORTH|||can't|||REQUIRED|||-NONE-|||0
-A 13 32|||R:OTHER|||perhaps|||REQUIRED|||-NONE-|||0
-A 33 52|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 52|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And that definitely was not the right thing to do .
 A 9 11|||R:ORTH|||do.|||REQUIRED|||-NONE-|||0
@@ -10837,8 +10606,7 @@ A 13 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I am very used to dealing with young people as last year I worked at a scout camp .
 A 8 9|||R:NOUN|||people,|||REQUIRED|||-NONE-|||0
-A 16 18|||R:NOUN|||university|||REQUIRED|||-NONE-|||0
-A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Moreover , I used to work as a volunteer when still in primary school - once a week I would go to a local club to help children with their homework .
 A 0 2|||R:ORTH|||Moreover,|||REQUIRED|||-NONE-|||0
@@ -10881,9 +10649,8 @@ A 9 12|||R:ORTH|||electonics'student|||REQUIRED|||-NONE-|||0
 A 12 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I wish to be a great engineer one day so I 've decided to continue my studies at university .
-A 8 9|||R:NOUN|||day,|||REQUIRED|||-NONE-|||0
 A 11 12|||U:CONTR||||||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S I 'm good at school , my marks could prove it ; I have worked hard since the beginning of the school year .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
@@ -10907,7 +10674,6 @@ A 16 18|||R:ORTH|||day.|||REQUIRED|||-NONE-|||0
 
 S The big problem in my class are the majority of my classmates : they are hopeful at school and they waste time doing nothing at school and I think even at home .
 A 6 7|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
-A 11 13|||R:ORTH|||classmates:|||REQUIRED|||-NONE-|||0
 A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 26 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -10946,7 +10712,7 @@ A 16 18|||R:ORTH|||school,|||REQUIRED|||-NONE-|||0
 A 18 20|||R:OTHER|||Vic|||REQUIRED|||-NONE-|||0
 
 S We discovered our fascination with food and ' The Puerquitour ' was born .
-A 7 11|||R:ORTH|||'The Puerquitour'|||REQUIRED|||-NONE-|||0
+A 6 11|||R:ORTH|||and'The Puerquitour'|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||born.|||REQUIRED|||-NONE-|||0
 
 S Then a brainstorm about meals and places to visit began .
@@ -10972,7 +10738,6 @@ A 3 5|||R:ORTH|||tacos,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||special.|||REQUIRED|||-NONE-|||0
 
 S The name of the place is Tacos La Chule and tacos are gourmet there .
-A 12 14|||R:WO|||there gourmet|||REQUIRED|||-NONE-|||0
 A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S It means that they have different taste of tortillas -vanilla , strawberry , chipotle , nopal , and walnut , among others- and salsas -tamarind , guava , mango , guacamole , etc .
@@ -10995,7 +10760,6 @@ A 28 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S La Papa Guapa , which is located in La Condesa , offers baked potatoes with name of famous women and lovely drinks .
 A 2 4|||R:ORTH|||Guapa,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||Condesa,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||potatoes.|||REQUIRED|||-NONE-|||0
 A 14 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Totally recommended !
@@ -11004,12 +10768,11 @@ A 1 3|||R:ORTH|||recommended!|||REQUIRED|||-NONE-|||0
 S Mar Azul Resturant , in the north of Mexico City , was the allocation for the fourth day of Puerquitour .
 A 2 4|||R:ORTH|||Resturant,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||City,|||REQUIRED|||-NONE-|||0
-A 16 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Seafood is delicious there , my recommendations are breaded shrimp , fish fillet and shrimp Al Pastor and coconut water .
 A 3 5|||R:ORTH|||there,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||shrimp,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN:NUM|||fillets|||REQUIRED|||-NONE-|||0
 A 13 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Fifth day , it was time to eat more tacos , the place ? … El asadero Hidalguense .
@@ -11032,8 +10795,7 @@ A 5 7|||R:ORTH|||Puerquitour.|||REQUIRED|||-NONE-|||0
 S The sixth day was to celebrate Magda 's final test , a friend from high school , who already presented it to get the Master Degree ; and the farewell of Vicente , who is already at the USA , and that I will go to the UK .
 A 6 8|||R:ORTH|||Magda's|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||test,|||REQUIRED|||-NONE-|||0
-A 14 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 47 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because we like the food , we celebrated eating in Memelas Pub .
 A 4 6|||R:ORTH|||food,|||REQUIRED|||-NONE-|||0
@@ -11043,7 +10805,7 @@ S You ca n't go there and do n't eat memelas , that is like huarache but bigger 
 A 1 3|||R:ORTH|||can't|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||memelas,|||REQUIRED|||-NONE-|||0
-A 12 21|||R:OTHER|||you can|||REQUIRED|||-NONE-|||0
+A 12 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The dessert ?
 A 1 3|||R:ORTH|||dessert?|||REQUIRED|||-NONE-|||0
@@ -11069,7 +10831,8 @@ A 20 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The last day of The Puerquitour was accomplished with my favourite dessert , a strawberry cheesecake at Starbucks and a long talk about nothing and everything .
 A 11 13|||R:ORTH|||dessert,|||REQUIRED|||-NONE-|||0
-A 14 27|||R:OTHER|||dessert|||REQUIRED|||-NONE-|||0
+A 13 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I love to spend time doing what I like and with people I love .
 A 13 15|||R:ORTH|||love.|||REQUIRED|||-NONE-|||0
@@ -11115,7 +10878,6 @@ A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S At least , I feel sorry for him and I would like to find that his story has a good ending .
 A 1 3|||R:ORTH|||least,|||REQUIRED|||-NONE-|||0
-A 14 14|||M:PART|||out|||REQUIRED|||-NONE-|||0
 A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He looks like a good boy that lives in hell and the Devil is his sister .
@@ -11145,10 +10907,9 @@ A 13 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This exception can be read at the end of the first chapter , where the narrator answer the thief writing that he said that he would get him the file , and that he would get him what broken bits of food he could , and he would come to the thief at the Battery .
 A 11 13|||R:ORTH|||chapter,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:MORPH|||narration|||REQUIRED|||-NONE-|||0
-A 16 47|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
-A 47 49|||R:VERB|||written.|||REQUIRED|||-NONE-|||0
-A 49 56|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 54 55|||R:NOUN|||narr|||REQUIRED|||-NONE-|||0
+A 55 56|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Apart from this , he just writes exactly what the characters said .
 A 2 4|||R:ORTH|||this,|||REQUIRED|||-NONE-|||0
@@ -11174,7 +10935,6 @@ A 16 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These twisted and creative thoughts are spread all over the text , accompanied by even more twisted reflections like at the end of the first chapters , when he describes the man who stole him as man afraid of the dead bodies in the graveyard just because he saw him hugging himself .
 A 10 12|||R:ORTH|||text,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||more.|||REQUIRED|||-NONE-|||0
 A 16 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Beside this , the characters of the novel seem to be unhappy , living a sad and boring life that pushes them to abuse our protagonist , with the exception of Joe .
@@ -11283,7 +11043,7 @@ A 10 12|||R:ORTH|||protagonist.|||REQUIRED|||-NONE-|||0
 
 S The events are narrated in a mysterious way , telling us what happened in a realistic story - line without flashback .
 A 7 9|||R:ORTH|||way,|||REQUIRED|||-NONE-|||0
-A 14 22|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The story is narrated as it happens .
 A 6 8|||R:ORTH|||happens.|||REQUIRED|||-NONE-|||0
@@ -11316,10 +11076,7 @@ A 12 14|||R:ORTH|||ending.|||REQUIRED|||-NONE-|||0
 
 S Probably , the thief will take Pip to an unwanted adventure that will make him growing up faster .
 A 0 2|||R:ORTH|||Probably,|||REQUIRED|||-NONE-|||0
-A 2 4|||R:OTHER|||thieves|||REQUIRED|||-NONE-|||0
-A 14 15|||R:PRON|||it|||REQUIRED|||-NONE-|||0
-A 15 18|||R:OTHER|||impossible to|||REQUIRED|||-NONE-|||0
-A 18 19|||R:OTHER|||do|||REQUIRED|||-NONE-|||0
+A 14 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I would like to read a story where Pip ends as he starts , at the graveyard .
 A 12 14|||R:ORTH|||starts,|||REQUIRED|||-NONE-|||0
@@ -11429,13 +11186,12 @@ A 14 16|||R:ORTH|||family.|||REQUIRED|||-NONE-|||0
 S On the first day I was very angry because my parents did n't take with us Ilaria , my best friend .
 A 3 4|||R:NOUN|||day,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||didn't|||REQUIRED|||-NONE-|||0
-A 14 16|||R:WO|||us with|||REQUIRED|||-NONE-|||0
-A 16 22|||R:OTHER|||me|||REQUIRED|||-NONE-|||0
+A 16 22|||R:OTHER|||Il|||REQUIRED|||-NONE-|||0
 
 S But I changed my mind when I heard at the radio that Felix Sandman , a Swedish singer , was on Holiday in Sardegna near my hotel !
 A 8 9|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||Sandman,|||REQUIRED|||-NONE-|||0
-A 16 28|||R:OTHER|||former|||REQUIRED|||-NONE-|||0
+A 16 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I love him and my dream was to meet him , but I knew it was impossible and my parents did n't want to drive me to his hotel , so I was quite sad .
 A 9 11|||R:ORTH|||him,|||REQUIRED|||-NONE-|||0
@@ -11450,9 +11206,8 @@ A 23 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then , I realised the boy at the centre was n't a simple boy , He was Felix !
 A 0 2|||R:ORTH|||Then,|||REQUIRED|||-NONE-|||0
-A 6 7|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||wasn't|||REQUIRED|||-NONE-|||0
-A 13 19|||R:OTHER|||one.|||REQUIRED|||-NONE-|||0
+A 13 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So I went toward the crowd and when he saw me he smiled .
 A 12 14|||R:ORTH|||smiled.|||REQUIRED|||-NONE-|||0
@@ -11506,9 +11261,8 @@ A 6 8|||R:ORTH|||disappointed.|||REQUIRED|||-NONE-|||0
 S To start , you must try the Rose Wind Salad , it 's a fresh , flavourful salad that is served in a bowl made of pizza crust .
 A 1 3|||R:ORTH|||start,|||REQUIRED|||-NONE-|||0
 A 9 13|||R:ORTH|||Salad, it's|||REQUIRED|||-NONE-|||0
-A 13 14|||U:DET||||||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||fresh,|||REQUIRED|||-NONE-|||0
-A 15 29|||R:OTHER|||fresh,|||REQUIRED|||-NONE-|||0
+A 14 16|||R:ORTH|||fresh,|||REQUIRED|||-NONE-|||0
+A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As a main dish , you ca n't go wrong ordering one of their pizza 's , all are made fresh to order in their authentic Italian pizza oven .
 A 3 5|||R:ORTH|||dish,|||REQUIRED|||-NONE-|||0
@@ -11553,10 +11307,9 @@ S It seems that the majority of those surveyed are of the opinion that the best 
 A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It offers a wide variety of activities like museums , a cinema , a very large green garden and many pubs to choose from .
-A 6 7|||R:OTHER|||activities,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||museums,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||cinema,|||REQUIRED|||-NONE-|||0
-A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Johnnie Fox Pub was highly recommended , it offers an opportunity to listen to traditional music , watch dancers perform and enjoy a nice meal in one place .
 A 6 8|||R:ORTH|||recommended,|||REQUIRED|||-NONE-|||0
@@ -11608,7 +11361,7 @@ A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S The importance of working hard to achieve goalы and practicing regularly to become good at something are also demonstrated by professional sportsmen .
 A 7 8|||R:SPELL|||goals|||REQUIRED|||-NONE-|||0
 A 16 17|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
-A 18 23|||R:OTHER|||important|||REQUIRED|||-NONE-|||0
+A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is a good example for youngsters to follow .
 A 8 10|||R:ORTH|||follow.|||REQUIRED|||-NONE-|||0
@@ -11660,8 +11413,8 @@ A 11 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Their realism is different : in fact Dickens ' style is that of sentimental realism in which he mixes pathos and comedy , like characters that tend to be caricatures of the vices and virtues he wish to portray , while the Bronte sisters use realistic style laced with Romantic and Gothic elements , like Byronic male heroes and female protagonists that are psychologically complex .
 A 3 5|||R:ORTH|||different:|||REQUIRED|||-NONE-|||0
-A 7 9|||R:ORTH|||Dickens'|||REQUIRED|||-NONE-|||0
-A 13 14|||R:OTHER|||sentiment.|||REQUIRED|||-NONE-|||0
+A 7 10|||R:ORTH|||Dickens'style|||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||sentiment|||REQUIRED|||-NONE-|||0
 A 14 66|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The graph illustrates the four different sources of consumption of fish and other meat in European country from 1979 to 2004 .
@@ -11688,7 +11441,7 @@ A 19 27|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
 S Both lamb consumption and the category labelled beef had a decline trend between 1979 and 2004 , although maintained a decrease overall , with lamb consumption falling from a peak of 150 grams per person per week in 1979 down to just over 50 grams per person per week in 2004 and beef consumption falling from around 230 grams per person per week down to just over 120 grams per person per week .
 A 15 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 50 51|||R:OTHER|||2004,|||REQUIRED|||-NONE-|||0
-A 51 74|||R:OTHER|||according|||REQUIRED|||-NONE-|||0
+A 51 74|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Chicken consumption was the only source of meat consumption which elaborated stable climbing from 150 grams per person per week to the highest consumption 250 per person per week .
 A 11 11|||M:PREP|||on|||REQUIRED|||-NONE-|||0
@@ -11717,11 +11470,8 @@ A 11 13|||R:ORTH|||arpin.|||REQUIRED|||-NONE-|||0
 
 S Recently he has visited Moscow and while we 've been having conversation I 've mentioned that I was looking for the opportunity to work on postdoc position abroad .
 A 7 9|||R:ORTH|||we've|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||conversations,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||I've|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 19|||R:VERB|||been|||REQUIRED|||-NONE-|||0
-A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And since my great interest is to develop my skills in microscopy and digital image analysis while working in the field of cell biology Alexis told me to try and contact you .
 A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -11741,8 +11491,8 @@ A 11 12|||R:MORPH|||dissimilar|||REQUIRED|||-NONE-|||0
 A 12 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Thereafter I studied accumulation of various actin - binding proteins and actin isoforms within adherence junction in normal and transformed cells .
-A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 12 22|||R:OTHER|||iso|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN:INFL|||isoform|||REQUIRED|||-NONE-|||0
+A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the coarse of this investigation I have obtained some promising results which I 'm going to report on the FEBS - EMBO conference which will take place in Paris in the beginning of september .
 A 2 3|||R:NOUN|||basis|||REQUIRED|||-NONE-|||0
@@ -11771,8 +11521,7 @@ S P.S. There are my CV and a copy of my paper in the attachment .
 A 13 15|||R:ORTH|||attachment.|||REQUIRED|||-NONE-|||0
 
 S I am writing about an important historical place which is my favourite one , I am referring to Lugo city .
-A 11 12|||R:OTHER|||favourite,|||REQUIRED|||-NONE-|||0
-A 12 14|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||one,|||REQUIRED|||-NONE-|||0
 A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I visited Lugo last summer and I enjoyed myself very much .
@@ -11788,7 +11537,7 @@ A 9 11|||R:ORTH|||visiting.|||REQUIRED|||-NONE-|||0
 S For example , you can walk around the Roman Wall , which has been declared a protected UNESCO World Heritage Site in 2000 because it is the only Roman Wall in the world that is complete .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||Wall,|||REQUIRED|||-NONE-|||0
-A 17 37|||R:OTHER|||area|||REQUIRED|||-NONE-|||0
+A 17 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think that Lugo is very beautiful .
 A 6 8|||R:ORTH|||beautiful.|||REQUIRED|||-NONE-|||0
@@ -11864,8 +11613,8 @@ S The analysis will consist of evaluating the Council 's eco - friendly proposal
 A 7 14|||R:ORTH|||Council's eco-friendly proposals.|||REQUIRED|||-NONE-|||0
 
 S In accord with the aforementioned , the amount of garbage produced during the years 2007 and 2010 more than doubled , 86% of it discarded inadequately .
-A 4 6|||R:OTHER|||above,|||REQUIRED|||-NONE-|||0
-A 16 27|||R:OTHER|||2007 and the|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||aforementioned,|||REQUIRED|||-NONE-|||0
+A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is due to the low effect of the " Recycling Worms " program over the disposal problem . "
 A 14 15|||R:PREP|||on|||REQUIRED|||-NONE-|||0
@@ -11887,21 +11636,17 @@ A 15 17|||R:ORTH|||expand.|||REQUIRED|||-NONE-|||0
 S The city has many projects such as the " Keep it clean , keep it beauty " , whose goal is to promote proper disposal in the public areas .
 A 4 5|||R:NOUN|||projects,|||REQUIRED|||-NONE-|||0
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
-A 8 10|||R:ORTH|||"Keep|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||clean,|||REQUIRED|||-NONE-|||0
 A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Another important one is the " Let 's make it green " , responsible for increasing the green areas within the city in 150% during the last two years , consisting of a combination of public and private investment in reforestation of rural and communal areas .
 A 6 8|||R:ORTH|||Let's|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||",|||REQUIRED|||-NONE-|||0
-A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 26 47|||R:OTHER|||number|||REQUIRED|||-NONE-|||0
+A 16 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S A later crucial activity are the " Green Communities " , currently carrying 38% of the total amount of consumed vegetables in the metropolitan area .
 A 4 5|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
-A 9 10|||R:PUNCT|||",|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||which|||REQUIRED|||-NONE-|||0
-A 12 13|||R:VERB:FORM|||carry|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||",|||REQUIRED|||-NONE-|||0
 A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S A municipal waste policy that integrates private and public sectors and the community is required to solve the current problem .
@@ -11912,7 +11657,6 @@ S The city needs a joint venture to support a functional and sustainable commerc
 A 15 17|||R:ORTH|||rubbish.|||REQUIRED|||-NONE-|||0
 
 S The increase of green areas represent a significant improvement in the quality of life according to the USED report of 2012 and also fits in 16 of 20 requirements of a city of the future .
-A 2 3|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 5 6|||R:VERB:SVA|||represents|||REQUIRED|||-NONE-|||0
 A 17 36|||R:OTHER|||US|||REQUIRED|||-NONE-|||0
 
@@ -11929,9 +11673,8 @@ A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||places.|||REQUIRED|||-NONE-|||0
 
 S Another idea is you can work , you can find a job and earn money before you start university .
-A 3 3|||M:PREP|||that|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||work,|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Moreover , sometimes people are tired when they finish school because of the exams so they need to have some time to relax .
 A 0 2|||R:ORTH|||Moreover,|||REQUIRED|||-NONE-|||0
@@ -12011,8 +11754,7 @@ A 13 15|||R:ORTH|||intelligence.|||REQUIRED|||-NONE-|||0
 
 S They will practically do everything : clean , cook , remind us what we have to do and also speak with us like an average human .
 A 6 10|||R:ORTH|||clean, cook,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:VERB|||do.|||REQUIRED|||-NONE-|||0
-A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In practice there will be no normal furniture , just machines waiting for a command .
 A 1 2|||R:NOUN|||practice,|||REQUIRED|||-NONE-|||0
@@ -12028,7 +11770,6 @@ A 9 11|||R:ORTH|||future.|||REQUIRED|||-NONE-|||0
 
 S Glad to hear that you 've been invited to attend the last round of interview next month !
 A 4 6|||R:ORTH|||you've|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||month.|||REQUIRED|||-NONE-|||0
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S I really hope to work with you someday !
@@ -12041,7 +11782,7 @@ A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S At the interview , leaving interviewers a good impression is of great importance . Here're some tips on how to do it .
 A 2 4|||R:ORTH|||interview,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||importance.|||REQUIRED|||-NONE-|||0
-A 14 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First , dressing as properly as possible .
 A 0 2|||R:ORTH|||First,|||REQUIRED|||-NONE-|||0
@@ -12061,8 +11802,7 @@ A 3 5|||R:ORTH|||punctual.|||REQUIRED|||-NONE-|||0
 S Interviewers have to cope with tight schedule everyday so they are n't willing to spare one more minute to wait for a candidate who 's late somehow .
 A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||aren't|||REQUIRED|||-NONE-|||0
-A 13 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 19 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Third , being prepared .
 A 0 2|||R:ORTH|||Third,|||REQUIRED|||-NONE-|||0
@@ -12075,7 +11815,7 @@ A 10 12|||R:ORTH|||done.|||REQUIRED|||-NONE-|||0
 S You 're expected to know something about our company , ask proper questions and communicate effectively with interviewers .
 A 0 2|||R:ORTH|||You're|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||company,|||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||us|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If you can learn as much knowledge about our company as you can up front , you really stand a chance in the interview .
 A 14 16|||R:ORTH|||front,|||REQUIRED|||-NONE-|||0
@@ -12084,7 +11824,7 @@ A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Since you 've applied for the sales assistant in the sales department , the sales manager will be interviewing you .
 A 1 3|||R:ORTH|||you've|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||department,|||REQUIRED|||-NONE-|||0
-A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He started out his career as an accountant , but he was fed up with dealing with numbers all day long .
 A 7 9|||R:ORTH|||accountant,|||REQUIRED|||-NONE-|||0
@@ -12146,20 +11886,13 @@ S Yours faithfully
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S I find it quite difficult to find an area of improvement given Andres 's outstanding overall performance .
-A 12 14|||R:OTHER|||Andres'|||REQUIRED|||-NONE-|||0
-A 15 16|||U:ADJ||||||REQUIRED|||-NONE-|||0
-A 16 18|||R:ORTH|||performance.|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||Andres's|||REQUIRED|||-NONE-|||0
+A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Yet , oftentimes , being overly respectful may play against him and although he has gained the respect of all the people he has worked with , some of them suggested he should build up his self - confidence , rather than end up attempting to cover everyone 's back and taking ownership for other people 's mistakes .
-A 0 2|||R:ORTH|||Yet,|||REQUIRED|||-NONE-|||0
-A 2 4|||R:OTHER|||often,|||REQUIRED|||-NONE-|||0
+A 0 4|||R:ORTH|||Yet, oftentimes,|||REQUIRED|||-NONE-|||0
 A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 25|||R:VERB|||has,|||REQUIRED|||-NONE-|||0
-A 25 47|||R:OTHER|||although|||REQUIRED|||-NONE-|||0
-A 47 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 49 55|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 55 57|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 57 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 24 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If I had my own language school I would first bear in mind a main goal : raising public awareness of my language school and the services it will provide .
 A 6 7|||R:OTHER|||school,|||REQUIRED|||-NONE-|||0
@@ -12191,7 +11924,7 @@ A 0 2|||R:ORTH|||Instead,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||adult's|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||awareness',|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 15 24|||R:OTHER|||areas|||REQUIRED|||-NONE-|||0
+A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , if the target markets were both , young people and adults , offering discounts for family groups could be a better choice .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -12244,16 +11977,12 @@ S Even if companies will hire engineers and specialists mostly from abroad , the
 A 10 12|||R:ORTH|||abroad,|||REQUIRED|||-NONE-|||0
 A 15 16|||R:OTHER|||growth|||REQUIRED|||-NONE-|||0
 A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 25 27|||R:NOUN|||companies|||REQUIRED|||-NONE-|||0
-A 27 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 23 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S According to the dynamics of development of the natural gas infrastructure , there will be constant development in gastronomy and hospitality sectors as well .
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||infrastructure,|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
-A 20 22|||R:NOUN|||infrastructure|||REQUIRED|||-NONE-|||0
-A 22 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 25|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 
 S The Kosciuszko Institute conducted a research which shows that Poland can benefit from extracting and developing the infrastructure of shale gas
 A 12 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -12312,11 +12041,11 @@ A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S In my personal experience , I believe that it 's much better to prepare for a long time before any exam you may face in your life .
 A 3 5|||R:ORTH|||experience,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
-A 16 28|||R:OTHER|||disaster|||REQUIRED|||-NONE-|||0
+A 16 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It 's quite important to be organized to get the highest score you can get in your exam .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||life|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For example , one year ago , I had my final surgery exam .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
@@ -12336,7 +12065,6 @@ A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S If I had n't had such an organized plan , I would never have got such a perfect score .
 A 2 4|||R:ORTH|||hadn't|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||plan,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:VERB|||had|||REQUIRED|||-NONE-|||0
 A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Another thing to add is not being stressed before the exam night .
@@ -12344,7 +12072,7 @@ A 11 13|||R:ORTH|||night.|||REQUIRED|||-NONE-|||0
 
 S It 's quite normal to have this basic feeling of being stressed and nervous when exams are approaching .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||conducted|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What is not normal at all is having anxiety due to the plethora of studies you haven't finished and are included in your exam .
 A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -12374,10 +12102,8 @@ A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If you do n't start studying before exam with an appropriate time , you will only have enough time to know the broad lines of the subject , but this will never help you soak the details and understand the concepts lying behind every single word .
 A 2 4|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
-A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 8 9|||R:PREP|||at|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||time,|||REQUIRED|||-NONE-|||0
-A 17 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S That will help you a lot even if you do n't get the chance to revise everything before your exam .
 A 5 6|||R:NOUN|||lot,|||REQUIRED|||-NONE-|||0
@@ -12407,8 +12133,7 @@ A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In sum , I believe that setting a schedule to have a long time preparation plan is much better than having only few days to get prepared . If you want to get high scores and perform greatly , you should start studying from day one if possible .
 A 1 3|||R:ORTH|||sum,|||REQUIRED|||-NONE-|||0
-A 12 14|||R:OTHER|||long-term|||REQUIRED|||-NONE-|||0
-A 16 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Do n't you think you are worth getting the highest score one could aim at ?
 A 1 2|||U:CONTR||||||REQUIRED|||-NONE-|||0
@@ -12443,8 +12168,7 @@ A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Energy which we get from sun and wind is still are only a few percent of world energy production .
 A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 16 16|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Thirdly , only the construction of a nuclear power plant is expensive .
 A 0 2|||R:ORTH|||Thirdly,|||REQUIRED|||-NONE-|||0
@@ -12483,12 +12207,11 @@ A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Lima has a multicultural tradition , then in it coincide a complex mix of racial and ethnic groups like mestizos , European Peruvians which are the second largest group and the minority in Lima includes Aymara and Quechua and Afro - Peruvians .
 A 4 6|||R:ORTH|||tradition,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:SVA|||coincides|||REQUIRED|||-NONE-|||0
-A 10 10|||M:PREP|||with|||REQUIRED|||-NONE-|||0
 A 14 43|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Lima is the best example of colonization , immigration , and indigenous influences such as the stay of Pre - Hispanic legacy with architectural monuments , called " Huacas " .
 A 6 10|||R:ORTH|||colonization, immigration,|||REQUIRED|||-NONE-|||0
-A 15 31|||R:OTHER|||colonization|||REQUIRED|||-NONE-|||0
+A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Historic Centre of Lima was declared World Heritage Site in 1988 .
 A 11 13|||R:ORTH|||1988.|||REQUIRED|||-NONE-|||0
@@ -12496,8 +12219,8 @@ A 11 13|||R:ORTH|||1988.|||REQUIRED|||-NONE-|||0
 S It is a city that keeps its history through an amazing architecture like balconies , churches like San Francisco Church which has mysterious subterranean catacombs ; el Real Felipe which is the last incredible Spanish fortress ; through their costumes as well as Carnival , this day you can enjoy this particular , interesting and colorful festival because you use water , paint or talc to wet your family and neighbor ; their typical dance called " La Marinera " ; also they keep their history through religion where you discover the religious enthusiasm which is represented by la Procesión del Señor de los Milagros ; their gastronomy is another extraordinary and wonderful example about their symbols , like Mazamorra Morada , el Pisco Sour ( wine ) , el Ceviche , los Picarones , etc .
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||balconies,|||REQUIRED|||-NONE-|||0
-A 17 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 51 137|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 118|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 119 137|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Lima is a beautiful city of contrast , where you can find a diversity of historical , modern and business places .
 A 6 8|||R:ORTH|||contrast,|||REQUIRED|||-NONE-|||0
@@ -12550,7 +12273,6 @@ A 8 10|||R:ORTH|||phone.|||REQUIRED|||-NONE-|||0
 S The second bank , Royal Savings Bank , has many branches in the UK ( over 650 ) , so you can make all bank operations on spot .
 A 2 4|||R:ORTH|||bank,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||Bank,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||(over|||REQUIRED|||-NONE-|||0
 A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But there is a service charge for owning a credit card ( £ 12 per year ) .
@@ -12603,16 +12325,14 @@ A 15 17|||R:ORTH|||service.|||REQUIRED|||-NONE-|||0
 S I could n't believe my ears when the phone rang and I answered and they said they wanted me to get at the concert as soon as possible to see how good I was in sound recording .
 A 1 3|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
 A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 38|||R:OTHER|||answered.|||REQUIRED|||-NONE-|||0
+A 17 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What can I say ?
 A 3 5|||R:ORTH|||say?|||REQUIRED|||-NONE-|||0
 
 S It 's been my dream since childhood and now I was overwhelmed when I realised they thought at me to do this for such a great , important person in the world music industry .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
-A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 19 21|||R:VERB|||were|||REQUIRED|||-NONE-|||0
-A 21 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I am glad that they were satisfied with my service .
 A 9 11|||R:ORTH|||service.|||REQUIRED|||-NONE-|||0
@@ -12641,7 +12361,7 @@ A 7 8|||R:OTHER|||up,|||REQUIRED|||-NONE-|||0
 A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S My parents would take me to a gentle slope with my brother and leave us there for a couple of hours to try skiing on our own .
-A 17 28|||R:OTHER|||dinner|||REQUIRED|||-NONE-|||0
+A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The temperature was often several degrees below zero , and you would freeze if you did n't keep moving up and down the slope .
 A 7 9|||R:ORTH|||zero,|||REQUIRED|||-NONE-|||0
@@ -12695,9 +12415,7 @@ A 23 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Academically , I 've always been a very determined and studious individual and I would be more than willing to devote myself to the hardwork necessary in order to achieve a bachelor 's degree .
 A 0 4|||R:ORTH|||Academically, I've|||REQUIRED|||-NONE-|||0
-A 13 31|||R:OTHER|||I'|||REQUIRED|||-NONE-|||0
-A 31 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 33 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I also have an indubitable passion for extra - curricular activities .
 A 7 12|||R:ORTH|||extra-curricular activities.|||REQUIRED|||-NONE-|||0
@@ -12715,7 +12433,6 @@ A 17 51|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S After I heard about the Czech Government Scholarship , I decided to make some research on Czech Republic before taking any step in applying .
 A 7 9|||R:ORTH|||Scholarship,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:VERB|||do|||REQUIRED|||-NONE-|||0
-A 15 16|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I found out that Czech Republic is a country with rich possibilities for students planning to study abroad and is currently undergoing rapid social changes and transformation , making it a fascinating place for students of any discipline to study in .
@@ -12743,8 +12460,7 @@ A 16 18|||R:ORTH|||finance.|||REQUIRED|||-NONE-|||0
 
 S Also , education in Nigeria is now a joke as teachers and lecturers go on strike frequently , and learning in some parts of Nigeria are not safe !
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||joke,|||REQUIRED|||-NONE-|||0
-A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Right now , I am greatly looking forward to the challenges of a university life academically , socially and mentally , and I believe that my ambition to learn new business concepts coupled with my passion for extra - curricular activities and community service , would make me a competent addition to the any of my proposed university and the Czech Republic Scholarship team .
 A 1 3|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
@@ -12796,8 +12512,7 @@ A 15 17|||R:ORTH|||matter.|||REQUIRED|||-NONE-|||0
 
 S Dog 's optimism is by far the best way to bring back a smile on people 's face .
 A 0 2|||R:ORTH|||Dog's|||REQUIRED|||-NONE-|||0
-A 15 17|||R:OTHER|||people.|||REQUIRED|||-NONE-|||0
-A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And that is what they are there for , to make people happy .
 A 7 9|||R:ORTH|||for,|||REQUIRED|||-NONE-|||0
@@ -12825,7 +12540,7 @@ A 14 16|||R:ORTH|||true.|||REQUIRED|||-NONE-|||0
 
 S Dogs are really not that hard to take care of , bathing and grooming do n't need to be done every day , they just need to be fed and walked regularly .
 A 9 11|||R:ORTH|||of,|||REQUIRED|||-NONE-|||0
-A 14 33|||R:OTHER|||do.|||REQUIRED|||-NONE-|||0
+A 15 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These pets need a few walks a day , which could also be good for their owners who are spending all day at work or in school and need some physical activity .
 A 7 9|||R:ORTH|||day,|||REQUIRED|||-NONE-|||0
@@ -12853,7 +12568,7 @@ A 1 3|||R:ORTH|||John!|||REQUIRED|||-NONE-|||0
 S It 's great to hear from you again ! I will give you some details about my experience at " Zoe Kak adventure " , one of the most well - known centres in our country .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||again!|||REQUIRED|||-NONE-|||0
-A 9 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S First of all , we started with a tiring assault course , which consisted of climbing up pretty sharp walls and crawling through different obstacles .
 A 2 4|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
@@ -12960,9 +12675,7 @@ S I am a graduate of the Chinese University of Hong Kong .
 A 10 12|||R:ORTH|||Kong.|||REQUIRED|||-NONE-|||0
 
 S I am proficient in Chinese languages ( Cantonese and Mandarin ) and have over ten years ' experience in publication industry .
-A 14 15|||R:OTHER|||20|||REQUIRED|||-NONE-|||0
-A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Currently I am working in a press as an editor .
 A 0 1|||R:OTHER|||Currently,|||REQUIRED|||-NONE-|||0
@@ -12996,10 +12709,7 @@ S Education is a milestone in our life and having a good education is the main d
 A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Aware parents disappointed with educational systems and institutionalized education try to spot in homeschooling a solution for their children 's education .
-A 13 14|||R:OTHER|||homeschooling.|||REQUIRED|||-NONE-|||0
-A 14 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although homeschooling may seem , according to some of these parents ' opinions , " a paved road " , it
 A 3 5|||R:ORTH|||seem,|||REQUIRED|||-NONE-|||0
@@ -13013,8 +12723,7 @@ A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Homeschooling should not be considered a wold - wide phenomenon since only a few countries : the UK ,
 A 6 7|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 9 10|||R:NOUN|||phenomenon,|||REQUIRED|||-NONE-|||0
-A 14 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Canada , and especially the USA , can boast .
 A 0 2|||R:ORTH|||Canada,|||REQUIRED|||-NONE-|||0
@@ -13043,11 +12752,10 @@ A 9 11|||R:ORTH|||learning.|||REQUIRED|||-NONE-|||0
 
 S Homeschooling may also free up time for complementary activities such as music , sports , and even the family life .
 A 11 15|||R:ORTH|||music, sports,|||REQUIRED|||-NONE-|||0
-A 16 21|||R:OTHER|||more|||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Homeschooled students ' success has been backed up by the results on standardize test and the recognition of prestigious universities .
 A 1 3|||R:ORTH|||students'|||REQUIRED|||-NONE-|||0
-A 11 12|||R:PREP|||of|||REQUIRED|||-NONE-|||0
 A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Now though , before homeschooling your kids you also have to consider the same amount of roadblocks :
@@ -13202,10 +12910,9 @@ A 10 12|||R:ORTH|||sport.|||REQUIRED|||-NONE-|||0
 
 S It consists of a mixture between three different sports , swimming , cycling and jogging and as a result it can be extremely demanding .
 A 5 6|||R:PREP|||of|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN|||sports:|||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 10 12|||R:ORTH|||swimming,|||REQUIRED|||-NONE-|||0
-A 14 25|||R:OTHER|||swimming.|||REQUIRED|||-NONE-|||0
+A 8 12|||R:ORTH|||sports, swimming,|||REQUIRED|||-NONE-|||0
+A 13 15|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What I enjoy most about it is being able to practise it anywhere , which means I can do it near home instead of having to go to a sports center .
 A 10 11|||R:VERB|||do|||REQUIRED|||-NONE-|||0
@@ -13228,7 +12935,6 @@ S You must not push yourself too far .
 A 6 8|||R:ORTH|||far.|||REQUIRED|||-NONE-|||0
 
 S A gap year between school and college sounds a great idea for those that have not decided what they want to study .
-A 13 14|||R:PRON|||who|||REQUIRED|||-NONE-|||0
 A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However there are some questions whether it should be everyone or not .
@@ -13361,7 +13067,6 @@ A 14 16|||R:ORTH|||Care.|||REQUIRED|||-NONE-|||0
 
 S I have recently graduated from the Social Science University in Psychology and received high degrees in both my Teaching and Supervising Courses .
 A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
-A 18 19|||R:ORTH|||teaching|||REQUIRED|||-NONE-|||0
 A 20 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In addition we had to have one year of volunteering in Youth Supervising environment in preparation for our finished assingment , so I am able to be a member of your well skilled staff .
@@ -13371,8 +13076,7 @@ A 15 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Since I was 13 years old , I have helped my parents with upbringing my four junger siblings .
 A 5 7|||R:ORTH|||old,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:ADJ|||young|||REQUIRED|||-NONE-|||0
-A 17 19|||R:OTHER|||people|||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I have been involved in volunteering in a variety of youth organizations as supervisor and tutor .
 A 15 17|||R:ORTH|||tutor.|||REQUIRED|||-NONE-|||0
@@ -13433,7 +13137,7 @@ A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This can help you to understand that not everyone has acces to many things you do have acces too , and to realise that perhaps you should appreciate these things , such as smartphones , computers , cars or even fresh water , which is a basic resource and we tend to take for granted that everyone can have some water to drink even though this is not true .
 A 10 11|||R:SPELL|||access|||REQUIRED|||-NONE-|||0
-A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 18|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 18 20|||R:ORTH|||too,|||REQUIRED|||-NONE-|||0
 A 20 70|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -13496,7 +13200,6 @@ A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
 A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In some cities it 's even forbidden to drive through the city center without some special permission , so there is no other solution than use a public transport .
-A 2 3|||R:OTHER|||cities,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||it's|||REQUIRED|||-NONE-|||0
 A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -13521,8 +13224,7 @@ A 3 5|||R:ORTH|||boss.|||REQUIRED|||-NONE-|||0
 
 S However , as a driver you always have to be careful and watch out on the route .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
-A 4 5|||R:NOUN|||driver,|||REQUIRED|||-NONE-|||0
-A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 16 18|||R:ORTH|||route.|||REQUIRED|||-NONE-|||0
 
 S If you want to travel from one place to another to see different places , your own car is the best solution .
 A 13 15|||R:ORTH|||places,|||REQUIRED|||-NONE-|||0
@@ -13550,7 +13252,6 @@ A 5 7|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S Most of us are living in a big cities and face problems with the traffic .
 A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
-A 13 14|||U:DET||||||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||traffic.|||REQUIRED|||-NONE-|||0
 
 S What if we use the public transport to get to work ?
@@ -13584,7 +13285,7 @@ A 4 6|||R:ORTH|||again:|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||transport?|||REQUIRED|||-NONE-|||0
 
 S In my opinion : yes , there is !
-A 2 6|||R:ORTH|||opinion: yes,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:ORTH|||yes,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||is!|||REQUIRED|||-NONE-|||0
 
 S Is travelling by car more convenient ?
@@ -13627,7 +13328,7 @@ S First , the scene that described the murder makes readers ca n't help themselv
 A 0 2|||R:ORTH|||First,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:NOUN|||readersn't|||REQUIRED|||-NONE-|||0
 A 10 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 21|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Just like the madman 's plan was happening right in front us .
 A 3 5|||R:ORTH|||madman's|||REQUIRED|||-NONE-|||0
@@ -13641,7 +13342,7 @@ A 7 9|||R:ORTH|||heartbeats.|||REQUIRED|||-NONE-|||0
 S To my opinion , heartbeat is the element that push the whole story to the climax .
 A 2 4|||R:ORTH|||opinion,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:SVA|||pushes|||REQUIRED|||-NONE-|||0
-A 15 17|||R:OTHER|||point|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Every time when the sound of heartbeats started arousing , something ensued .
 A 2 3|||U:ADV||||||REQUIRED|||-NONE-|||0
@@ -13657,8 +13358,7 @@ A 25 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S The second time when madman heard the heartbeats , he became impatient , scared , excited and insane , in the end , he confessed that he killed the man and dismembered the corpse .
 A 7 9|||R:ORTH|||heartbeats,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||impatient,|||REQUIRED|||-NONE-|||0
-A 13 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 31 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S At the same time , the heartbeats also dragged the readers nervous and anxious .
 A 3 5|||R:ORTH|||time,|||REQUIRED|||-NONE-|||0
@@ -13692,8 +13392,7 @@ A 11 13|||R:ORTH|||forest.|||REQUIRED|||-NONE-|||0
 
 S When they arrived there , they started to look around trying to find different types of animals such as birds , rabbits and deer .
 A 3 5|||R:ORTH|||there,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||animals,|||REQUIRED|||-NONE-|||0
-A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Max and his friends took a walk under the trees when , acroos the river , they saw something that looked like an animal lying on the grass."What 's that ? " , Max said aloud .
 A 10 12|||R:ORTH|||when,|||REQUIRED|||-NONE-|||0
@@ -13770,13 +13469,12 @@ A 13 15|||R:ORTH|||life.|||REQUIRED|||-NONE-|||0
 
 S Real problem starts when journalists injures not the celebrity , but its friends or family .
 A 0 1|||M:DET|||The real|||REQUIRED|||-NONE-|||0
-A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||celebrity,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||family.|||REQUIRED|||-NONE-|||0
 
 S Paparazzi are cruel in contact with famous people 's children , that may have negative influence on their emotional development .
 A 7 11|||R:ORTH|||people's children,|||REQUIRED|||-NONE-|||0
-A 15 21|||R:OTHER|||effects|||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S How about those who do not want to be popular because of scandals ?
 A 12 14|||R:ORTH|||scandals?|||REQUIRED|||-NONE-|||0
@@ -13787,9 +13485,8 @@ A 13 15|||R:ORTH|||can,|||REQUIRED|||-NONE-|||0
 A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And when finally paparazzi notice that there is nothing interesting in their life , they just leave them alone .
-A 4 5|||R:NOUN:NUM|||notices|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||life,|||REQUIRED|||-NONE-|||0
-A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Summarizing , I do believe that adult people are responsible enough to make a decision , if they want to share the most important part of their life with journalists .
 A 0 2|||R:ORTH|||Summarizing,|||REQUIRED|||-NONE-|||0
@@ -13825,8 +13522,7 @@ A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S In my opinion , the food was good but the prices were too expensive considering the quantity served and the messy service .
 A 2 4|||R:ORTH|||opinion,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||good,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:ADJ|||expensive,|||REQUIRED|||-NONE-|||0
-A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We faced continuous problems with the order such as : dishes from another table served for us by mistake , the drinks were served with a considerable delay and the bill was shown even without asking ( just because we finished the dinner but our drinks were still on the table ) .
 A 6 7|||R:NOUN|||order,|||REQUIRED|||-NONE-|||0
@@ -13835,10 +13531,8 @@ A 15 16|||R:PREP|||by|||REQUIRED|||-NONE-|||0
 A 19 53|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For my luck ( or not ) , I met a friend of mine on the day after that told me that she had dinner at " Las Ficheras " before and in her opinion , as a Mexican , that restaurant was terrible .
-A 3 8|||R:ORTH|||(or not),|||REQUIRED|||-NONE-|||0
-A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 30 31|||R:OTHER|||before.|||REQUIRED|||-NONE-|||0
-A 31 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 5 8|||R:ORTH|||not),|||REQUIRED|||-NONE-|||0
+A 17 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She also told me that a great Mexican restaurant was just opened with lower prices and good service .
 A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -13890,9 +13584,7 @@ A 10 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Last week I was borrowed an ankle support and some crutches , so ever since then it 's going better .
 A 3 4|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||crutches,|||REQUIRED|||-NONE-|||0
-A 13 14|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 17 19|||R:VERB|||has|||REQUIRED|||-NONE-|||0
-A 19 21|||R:OTHER|||been|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Furthermore , precisely today I have started my 15-day rehabilitation sessions !
 A 0 2|||R:ORTH|||Furthermore,|||REQUIRED|||-NONE-|||0
@@ -13914,8 +13606,6 @@ A 16 48|||R:OTHER|||n|||REQUIRED|||-NONE-|||0
 
 S Anyway , CS and magic saved me right at the last second ( the last night ) , and I left Malta with a smile and a warmed up heart .
 A 0 2|||R:ORTH|||Anyway,|||REQUIRED|||-NONE-|||0
-A 12 14|||R:ORTH|||(the|||REQUIRED|||-NONE-|||0
-A 15 17|||R:ORTH|||night)|||REQUIRED|||-NONE-|||0
 A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And for that I want to THANK YOU once again .
@@ -13924,7 +13614,6 @@ A 9 11|||R:ORTH|||again.|||REQUIRED|||-NONE-|||0
 S Back home , everything started fast -I should have gotten used to by now , should n't I??- .
 A 1 3|||R:ORTH|||home,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:ORTH|||- I|||REQUIRED|||-NONE-|||0
-A 12 12|||M:PRON|||it|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||now,|||REQUIRED|||-NONE-|||0
 A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -13945,7 +13634,7 @@ S * Sorry , I 'm gon na ( ab)use of your native language skills once again : her
 A 1 5|||R:ORTH|||Sorry, I'm|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN|||(a)use|||REQUIRED|||-NONE-|||0
-A 13 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S What I doubt is the difference between this bunch : be good enough , measure up , make the grade ; be up to standard / the task .
 A 12 14|||R:ORTH|||enough,|||REQUIRED|||-NONE-|||0
@@ -14003,7 +13692,7 @@ S Did you ask Mario about the speakers ?
 A 6 8|||R:ORTH|||speakers?|||REQUIRED|||-NONE-|||0
 
 S Because chatting is way faster than writing ;) .
-A 6 9|||R:ORTH|||writing;).|||REQUIRED|||-NONE-|||0
+A 7 9|||R:ORTH|||;).|||REQUIRED|||-NONE-|||0
 
 S I 'm gon na go now .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
@@ -14032,9 +13721,8 @@ A 17 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 39 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The World Meteorological Organization made known publicly that 2015 has been the hottest year on record as well as it has caused more carbon dioxide on average by burning fossil fuels .
-A 5 6|||U:VERB||||||REQUIRED|||-NONE-|||0
-A 6 7|||R:MORPH|||public|||REQUIRED|||-NONE-|||0
-A 14 32|||R:OTHER|||in the|||REQUIRED|||-NONE-|||0
+A 14 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 26 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These problems just announced recently will be issues to talk about at the UN summit in Paris in three weeks .
 A 1 2|||R:NOUN|||problems,|||REQUIRED|||-NONE-|||0
@@ -14043,18 +13731,13 @@ A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then , world leaders will be negotiating about cutting the increased carbon emissions coupled with the El Niño climate phenomenon .
 A 0 2|||R:ORTH|||Then,|||REQUIRED|||-NONE-|||0
-A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
-A 17 21|||R:OTHER|||El|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Stephen Belcher , director of the Met Office 's Hadley Centre , claims that humanity is to blame for climate changes as the rise of temperature or the catastrophe expected by scientists when global warming rises beyond 2C. This opinion is also represented by the British Secretary of energy and climate change , Amber Rudd , who considers the climate change to be one of the greatest problems in nowadays ' politics due to its consequences on economy , global security and the fight against poverty .
 A 1 3|||R:ORTH|||Belcher,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||Office's|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||Centre,|||REQUIRED|||-NONE-|||0
-A 13 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 27 28|||R:PRON|||he|||REQUIRED|||-NONE-|||0
-A 28 69|||R:OTHER|||was|||REQUIRED|||-NONE-|||0
-A 69 71|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 71 87|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 87|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She stands up for a global deal confirmed on the UN summit by the leading states and therefore these climate targets should be a role - model for other countries .
 A 8 9|||R:PREP|||at|||REQUIRED|||-NONE-|||0
@@ -14078,7 +13761,7 @@ A 14 15|||R:NOUN|||Bel|||REQUIRED|||-NONE-|||0
 A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Despite the result of a NASA study pointing out that there would have been an ice mass grew in Antarctica from 2003 - 2008 , there is only a small chance of 5 - 10% that this prognosis will come true according to Prof Andrew Shepherd , University of Leeds , as the study has already been proven wrong by 57 other studies .
-A 15 64|||R:OTHER|||An|||REQUIRED|||-NONE-|||0
+A 15 64|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although the NASA study shows a different result , the majority of scientists see global warming as a dangerous threat for this planet in terms of living conditions , environment and economy and as well as an issue of the UN summit in Paris .
 A 7 9|||R:ORTH|||result,|||REQUIRED|||-NONE-|||0
@@ -14138,8 +13821,7 @@ S A country may also receive financial assistance and expert advice from the Wor
 A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Disadvantages of sites not included in the World Heritage List are that these sites are not funded so they ca n't protect them for risks .
-A 1 2|||R:ORTH|||disadvantages|||REQUIRED|||-NONE-|||0
-A 17 27|||R:OTHER|||included|||REQUIRED|||-NONE-|||0
+A 15 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Moreover they remind in the list of sites in danger without to receive assistance .
 A 0 1|||R:ADV|||Moreover,|||REQUIRED|||-NONE-|||0
@@ -14155,7 +13837,7 @@ A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S It 's difficult , but I think that it is necessary try to invent new way to finance and defend the natural and cultural heritage .
 A 0 4|||R:ORTH|||It's difficult,|||REQUIRED|||-NONE-|||0
 A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
-A 14 26|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 14 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Cricket is my passion .
 A 3 5|||R:ORTH|||passion.|||REQUIRED|||-NONE-|||0
@@ -14176,7 +13858,6 @@ S It also teaches us how to overcome individual weaknesses and gain advantage of
 A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I started playing cricket since my early childhood .
-A 1 1|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||childhood.|||REQUIRED|||-NONE-|||0
 
 S Even when I was a kid I started playing with boys of much higher age than me .
@@ -14267,11 +13948,9 @@ A 6 8|||R:ORTH|||deeply,|||REQUIRED|||-NONE-|||0
 A 19 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So after watching this movie and my friend 's question I ca n't help thinking about my life .
-A 0 1|||R:OTHER|||So,|||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||friend's|||REQUIRED|||-NONE-|||0
-A 9 10|||R:OTHER|||question,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:OTHER|||couldn't|||REQUIRED|||-NONE-|||0
-A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Now I have the feeling that I need to live more , but I have no idea what is this " more " .
 A 10 12|||R:ORTH|||more,|||REQUIRED|||-NONE-|||0
@@ -14322,7 +14001,6 @@ A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Those later period Romans were n't even able to make the high quality cement that their ancestors were able to make and have technical mastery over just a few centuries earlier .
 A 2 3|||R:OTHER|||periods,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||weren't|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||highs.|||REQUIRED|||-NONE-|||0
 A 12 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S And who can safely say that three centuries from now humans will possess all the technological knowledge that they possess now and take for granted ?
@@ -14361,7 +14039,7 @@ A 1 3|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||so,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN|||hand,|||REQUIRED|||-NONE-|||0
 A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
-A 16 18|||R:OTHER|||have?|||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The causes that will lead to a new World War may well be in existence right now for all I know , and no one , or only a few very wise and intelligent people know about it .
 A 18 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -14442,7 +14120,6 @@ A 12 14|||R:ORTH|||pitch,|||REQUIRED|||-NONE-|||0
 A 16 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The Camp is well - known and opens from May to October and it would be good to book within two weeks , it always get overbooked for the period my parents can take days off , what do you think coming with us from the 1st august to the 15th ?
-A 1 2|||R:ORTH|||camp|||REQUIRED|||-NONE-|||0
 A 17 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 49 52|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -14573,19 +14250,14 @@ A 11 13|||R:ORTH|||century,|||REQUIRED|||-NONE-|||0
 A 15 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S During the next centuries it was expanded , and in 16th century finally rebuilt in a Renaissance fashion , which remained unchanged until today - the most representative remnant is probably famous arcaded coutyard .
-A 3 4|||R:OTHER|||centuries,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||expanded,|||REQUIRED|||-NONE-|||0
 A 10 10|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 15 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S During the tour the visitors are shown several room and apartaments , as well as Royal Private Apartaments with far - famed tapestries of Polish ' kings collection .
 A 2 3|||R:NOUN|||tour,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOUN:NUM|||rooms|||REQUIRED|||-NONE-|||0
-A 10 11|||R:SPELL|||apartments,|||REQUIRED|||-NONE-|||0
-A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 24 26|||R:OTHER|||Royal|||REQUIRED|||-NONE-|||0
-A 26 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 10 12|||R:ORTH|||apartaments,|||REQUIRED|||-NONE-|||0
+A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Another attraction of the tour is visiting the Crown Treasury , where Polish coronation insignia were stored , and armoury .
 A 9 11|||R:ORTH|||Treasury,|||REQUIRED|||-NONE-|||0
@@ -14594,7 +14266,6 @@ A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Apart from the featured , there are also many marvellous exhibitions in the Castle containing its history as well as the other collections .
 A 3 5|||R:ORTH|||featured,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||Castle.|||REQUIRED|||-NONE-|||0
 A 14 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S While visiting Wawel Royal Castle one can not omit seeing Dragon 's Den - a cave under the Castle , where , according to the oldest legends , the dragon of Wawel lived .
@@ -14643,8 +14314,6 @@ A 2 3|||R:ADV|||ago,|||REQUIRED|||-NONE-|||0
 A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I decided to enrol for a creative writing course in order to practise my writing skills .
-A 3 4|||R:MORPH|||enroll|||REQUIRED|||-NONE-|||0
-A 4 5|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Along the course I had to accomplish some writing assignments and submit them to be evaluated by my peers .
@@ -14701,16 +14370,16 @@ A 9 11|||R:ORTH|||us!|||REQUIRED|||-NONE-|||0
 
 S We 're confused , they 're not clear and then they also get angry and they 're surprised when we get mad at them !
 A 0 6|||R:ORTH|||We're confused, they're|||REQUIRED|||-NONE-|||0
-A 15 25|||R:OTHER|||angry.|||REQUIRED|||-NONE-|||0
+A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It 's true that we should always be respectful but sometimes it turns out to be impossible because they do everything to provoke us .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
 A 8 9|||R:OTHER|||respectful,|||REQUIRED|||-NONE-|||0
-A 16 25|||R:OTHER|||true|||REQUIRED|||-NONE-|||0
+A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I think the most important thing in the relationship with our parents is to find a sort of accordance , because in the end we do n't only feel anger for them but also a lot of love .
 A 13 15|||R:VERB:FORM|||finding|||REQUIRED|||-NONE-|||0
-A 18 39|||R:OTHER|||agreement|||REQUIRED|||-NONE-|||0
+A 18 39|||R:OTHER|||accord|||REQUIRED|||-NONE-|||0
 
 S Love : That 's a new feeling that adolescents have to face .
 A 0 4|||R:ORTH|||Love: That's|||REQUIRED|||-NONE-|||0
@@ -14720,8 +14389,7 @@ S It 's not the usual love they 're used to feel , as love for family and friend
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||they're|||REQUIRED|||-NONE-|||0
 A 10 12|||R:OTHER|||feeling,|||REQUIRED|||-NONE-|||0
-A 15 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 27 28|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
+A 15 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It 's a kind of love that struggles ; it makes butterflies fly in our stomach , it makes us dive into a sort of imaginary tale .
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
@@ -14755,8 +14423,7 @@ A 15 17|||R:ORTH|||home.|||REQUIRED|||-NONE-|||0
 S Here , in Mallorca , there are a lot of places to visit but I will recommend you a unique place , without tourists , noise and crowded beaches .
 A 0 2|||R:ORTH|||Here,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||Mallorca,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||visit,|||REQUIRED|||-NONE-|||0
-A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S On the east of Mallorca you will find a small and beautiful village called Artà .
 A 14 16|||R:ORTH|||Artà.|||REQUIRED|||-NONE-|||0
@@ -14829,9 +14496,8 @@ A 3 4|||R:VERB|||do|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||sports.|||REQUIRED|||-NONE-|||0
 
 S It is a perfect place to go diving because you can see different fishes , sea urchins and seaweed .
-A 13 15|||R:OTHER|||fish,|||REQUIRED|||-NONE-|||0
-A 15 17|||R:NOUN|||seas|||REQUIRED|||-NONE-|||0
-A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 15|||R:ORTH|||fishes,|||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There you can also take a canoe and paddle in the quite sea .
 A 12 14|||R:ORTH|||sea.|||REQUIRED|||-NONE-|||0
@@ -14864,16 +14530,14 @@ A 5 6|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||down.|||REQUIRED|||-NONE-|||0
 
 S The sunset in that place is ideal and romantic ( especially if you are with your partner ) and you will see how the sun goes behind the mountain range of Tramuntana .
-A 9 11|||R:ORTH|||(especially|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||partner)|||REQUIRED|||-NONE-|||0
 A 18 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S From that seashore you can see all the Alcúdia bay , part of the mountain range of Tramuntana and the cape of Formentor .
 A 8 9|||R:SPELL|||Alcdia|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||bay,|||REQUIRED|||-NONE-|||0
-A 12 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 22 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Ca los Cans is a mixture of sea , nature and culture .
 A 7 9|||R:ORTH|||sea,|||REQUIRED|||-NONE-|||0
@@ -14882,7 +14546,7 @@ A 11 13|||R:ORTH|||culture.|||REQUIRED|||-NONE-|||0
 S I am sure that you will like it and , of course , I need to ask you a favour : Please , keep the secret .
 A 8 10|||R:ORTH|||and,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||course,|||REQUIRED|||-NONE-|||0
-A 18 27|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 18 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Regards ,
 A 0 2|||R:ORTH|||Regards,|||REQUIRED|||-NONE-|||0
@@ -14971,12 +14635,11 @@ A 7 9|||R:ORTH|||true.|||REQUIRED|||-NONE-|||0
 
 S Firstly , there will always be people who will not be able to afford to buy a car .
 A 0 2|||R:ORTH|||Firstly,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||buy.|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Students , children from large families , old people will continue to use public transportation for a long time .
 A 0 2|||R:ORTH|||Students,|||REQUIRED|||-NONE-|||0
-A 6 7|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 5 7|||R:ORTH|||families,|||REQUIRED|||-NONE-|||0
 A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Secondly , cars can also turn into public transport .
@@ -15022,8 +14685,8 @@ A 15 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Moreover , in the first three countries doctors earn about twice as much as a nurse earns , apart from the last country , Country D. In this one , the salary gap between doctors and nurses is bigger than in other countries .
 A 0 2|||R:ORTH|||Moreover,|||REQUIRED|||-NONE-|||0
-A 6 7|||R:NOUN|||countries,|||REQUIRED|||-NONE-|||0
-A 16 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:SVA|||earn|||REQUIRED|||-NONE-|||0
+A 17 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In Country D , the salaries of doctors are about three times higher than those of nurses .
 A 2 4|||R:ORTH|||D,|||REQUIRED|||-NONE-|||0
@@ -15065,7 +14728,6 @@ A 9 11|||R:ORTH|||banned.|||REQUIRED|||-NONE-|||0
 S The sport would go underground , there would be no safety measures like gloves , a doctor , paramedics or early stopping of the fight if someone looked unable to continue .
 A 4 6|||R:ORTH|||underground,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||gloves,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||doctor.|||REQUIRED|||-NONE-|||0
 A 17 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S With this going on the people taking part will be dangerous , and on the streets .
@@ -15078,20 +14740,16 @@ S Dangerous dogs who were trained to kill and maim in similar underound dog figh
 A 14 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Once boxing is banned and no - one grows up knowing it as acceptable there will be no interest in boxing and hopefully less all round interest in violence making towns and cities much safer places to live in , there will be less fighting outside pubs and clubs and less violent attacks with little or no reason .
-A 12 13|||R:SPELL|||is|||REQUIRED|||-NONE-|||0
-A 13 14|||R:ADJ|||acceptable,|||REQUIRED|||-NONE-|||0
 A 14 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 42 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 43 59|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S change the rules of boxing slightly would much improve the safety risks of the sport and not detract form the entertainment .
 A 0 1|||R:VERB:FORM|||Changing|||REQUIRED|||-NONE-|||0
-A 7 8|||R:ADV|||greatly|||REQUIRED|||-NONE-|||0
 A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There are all sorts of proposals , lighter and more cushioning gloves could be worn , ban punches to the head , headguards worn or make fights shorter , as most of the serious injuries occur in the latter rounds , these would all show off the boxers skill and tallent and still be entertaining to watch .
 A 5 7|||R:ORTH|||proposals,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||worn,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:SPELL|||bang|||REQUIRED|||-NONE-|||0
 A 17 58|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Even if a boxer is a success and manages not to be seriously hurt he still faces serious consequences in later life diseases that attack the brains have been known to set in as a direct result of boxing , even Muhamed Ali , who was infamous ( ? ) both for his boxing and his quick - witted intelligence now has Alzheimer disease and can no longer do many everyday acts .
@@ -15110,8 +14768,8 @@ A 8 10|||R:ORTH|||literature,|||REQUIRED|||-NONE-|||0
 A 18 21|||R:OTHER|||oppress|||REQUIRED|||-NONE-|||0
 
 S Although such a show of strength by these works ' characters is sometimes viewed as a violent and therefore negative contribution to the otherwise insightful thought of the author , it is this conflict upon which many stories of ethnic American literature are based .
-A 8 10|||R:ORTH|||works'|||REQUIRED|||-NONE-|||0
-A 16 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 11|||R:ORTH|||works'characters|||REQUIRED|||-NONE-|||0
+A 15 45|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , such a rebellion can not be seen clearly in each minority work , and , therefore , the products of ethnic American literature can not be catagorized as merely the result of years of oppression .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -15122,8 +14780,7 @@ A 19 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Rather , this ever - changing and ever - challenging aspect of minority literature creates an especially important necessity that each work be considered individually as both a product of years of struggle and a work inherently distinct from any other .
 A 0 2|||R:ORTH|||Rather,|||REQUIRED|||-NONE-|||0
 A 4 5|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 7 9|||R:ORTH|||ever-|||REQUIRED|||-NONE-|||0
-A 17 42|||R:OTHER|||special|||REQUIRED|||-NONE-|||0
+A 17 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In the minority works , the conflict and rebellion presented accurately reflects society as a whole , and although the mother 's in The Joy Luck Club rebel against such forces as arranged marriages , Tita in Like Water for Chocolate fights to overcome old family traditions , and the Indian tribes in Love Medicine struggle to secure their inherent rights from the US government , the characters ' conflicts reflect similar conflicts of other cultures .
 A 3 5|||R:ORTH|||works,|||REQUIRED|||-NONE-|||0
@@ -15172,9 +14829,9 @@ A 7 9|||R:ORTH|||l'optimisme.|||REQUIRED|||-NONE-|||0
 S For example when Candide is forced to join the Bulgar army he is beaten almost to death but Candide does not concern himself because he know it is for his own good - in fact later in the book he uses his training to become a soldier .
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN|||army,|||REQUIRED|||-NONE-|||0
-A 13 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 19 22|||R:OTHER|||forced|||REQUIRED|||-NONE-|||0
-A 22 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 25 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 28 48|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although this would seem to be good it is not because of his training he kills two men , a Jew and an Archbishop with no hesitation and then proceeds to kill his sweethearts brother .
 A 6 7|||R:OTHER|||good,|||REQUIRED|||-NONE-|||0
@@ -15197,8 +14854,7 @@ A 3 5|||R:ORTH|||horrified,|||REQUIRED|||-NONE-|||0
 A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Candide looks to Pangloss for an answer but Pangloss can only tell him that some good will come of it .
-A 6 7|||R:NOUN|||answer,|||REQUIRED|||-NONE-|||0
-A 11 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Candide , although remaining true to the ideals of optimism , always appears to be sceptical of it .
 A 0 2|||R:ORTH|||Candide,|||REQUIRED|||-NONE-|||0
@@ -15213,11 +14869,9 @@ A 18 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Candide can not see what possible good can come of this especially as the reason that he was in America was due to him killing the Jew and Archbishop because they were Cunégonde 's lovers .
 A 10 11|||R:OTHER|||this,|||REQUIRED|||-NONE-|||0
 A 12 13|||R:PREP|||because|||REQUIRED|||-NONE-|||0
-A 13 13|||M:PREP|||of|||REQUIRED|||-NONE-|||0
 A 16 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Throughout the book we begin to see how Candide is gradually lead away for l'optimisme or perhaps more importantly how l'optimisme is shown to be the philosophy of despair .
-A 11 12|||R:VERB:FORM|||leading|||REQUIRED|||-NONE-|||0
 A 13 30|||R:OTHER|||from l'|||REQUIRED|||-NONE-|||0
 
 S The constant belief that good can come from bad is not actually inspiring but leads to a constant flow of disasters .
@@ -15240,8 +14894,7 @@ A 11 13|||R:ORTH|||prevail.|||REQUIRED|||-NONE-|||0
 S Eventually , of course , he does marry Cunégonde but she is not the beautiful young flower that he once loved .
 A 0 2|||R:ORTH|||Eventually,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||course,|||REQUIRED|||-NONE-|||0
-A 8 9|||R:SPELL|||Cunégonde,|||REQUIRED|||-NONE-|||0
-A 12 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S She has become ugly and grew worse by the day .
 A 9 11|||R:ORTH|||day.|||REQUIRED|||-NONE-|||0
@@ -15251,12 +14904,13 @@ A 6 8|||R:ORTH|||l'optimisme.|||REQUIRED|||-NONE-|||0
 
 S Candide has travelled the world in search of Cunégonde , with the hope that he will marry her despite all the trouble which he has gone through , of course in the end he does get Cunégonde but at the price of her looks and personality .
 A 8 10|||R:ORTH|||Cunégonde,|||REQUIRED|||-NONE-|||0
-A 12 47|||R:OTHER|||help|||REQUIRED|||-NONE-|||0
+A 11 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 40 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Voltaire , in Candide , shows how the philosophy of Optimism is one of despair not hope .
 A 0 2|||R:ORTH|||Voltaire,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||Candide,|||REQUIRED|||-NONE-|||0
-A 12 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 11 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It would be tempting to think of the various European Communities as an embryonic United States of Europe ; especially when we hear politicians talk of the importance of European Unity .
 A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -15309,8 +14963,7 @@ A 15 16|||R:MORPH|||relinqu|||REQUIRED|||-NONE-|||0
 A 16 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The fact that Parliament does not bind itself or can not be bound by any political body means that it can never lose its sovereignty unless a majority of the population wished it and Parliament consented .
-A 9 11|||R:ORTH|||cannot|||REQUIRED|||-NONE-|||0
-A 19 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But with the average jingoistic Briton there is no chance of us curing ourselves of our xenophobia and ever wishing to be fully intergrated with Europe .
 A 13 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -15344,14 +14997,14 @@ A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Because of her history of isolated sovereignty it is difficult to accept being a part of a single Europe .
 A 6 7|||R:OTHER|||sovereignty,|||REQUIRED|||-NONE-|||0
-A 16 20|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For instance , British law is based largely upon precedent , that is judge made law .
 A 1 3|||R:ORTH|||instance,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||precedent,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:DET|||which|||REQUIRED|||-NONE-|||0
-A 13 17|||R:OTHER|||judge-made.|||REQUIRED|||-NONE-|||0
+A 13 15|||R:OTHER|||judge-made|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S We have established a system of law which dates back many centuries , and which is widely known and respected .
 A 11 13|||R:ORTH|||centuries,|||REQUIRED|||-NONE-|||0
@@ -15384,7 +15037,7 @@ A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Our individual monetary system I suppose , could be seen as a symbol of sovereignty .
 A 3 4|||R:OTHER|||system,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||suppose,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||sovereignty.|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S It can be said that if a single Europe was created , problems may arise over its fundamental political concepts .
 A 10 12|||R:ORTH|||created,|||REQUIRED|||-NONE-|||0
@@ -15467,8 +15120,6 @@ A 12 13|||U:ADV||||||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||Europe.|||REQUIRED|||-NONE-|||0
 
 S This process will continue and Europe the rest of the world will evolue with or without the participation of Britain in this process .
-A 6 6|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
-A 16 17|||U:DET||||||REQUIRED|||-NONE-|||0
 A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is my belief that Britain must be involved in the decision making which will eventually decide the new world order .
@@ -15521,8 +15172,7 @@ S Possible problems should be studied and solved if possible before they happen 
 A 11 13|||R:ORTH|||happen.|||REQUIRED|||-NONE-|||0
 
 S E.R.M. is already upon us but in this area I feel Britain should be especially careful .
-A 4 5|||R:OTHER|||us,|||REQUIRED|||-NONE-|||0
-A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Whilst not pretending to fully understand this system I do know that no system can lower interest rates , and inflation while raising growth , with the possible exception of the Magic Circle .
 A 7 8|||R:OTHER|||system,|||REQUIRED|||-NONE-|||0
@@ -15540,8 +15190,7 @@ A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S To conclude I would say a single Europe is already happening and that it will continue to do so is guaranteed .
 A 1 2|||R:OTHER|||conclude,|||REQUIRED|||-NONE-|||0
-A 5 5|||M:PREP|||that|||REQUIRED|||-NONE-|||0
-A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Britain must not concern itself with loss of sovereignty but gain of the European equivalent .
 A 3 6|||R:OTHER|||worry about|||REQUIRED|||-NONE-|||0
@@ -15605,7 +15254,6 @@ A 8 10|||R:ORTH|||Europe.|||REQUIRED|||-NONE-|||0
 S Further changes are forecast for Britain , effecting day to day matters , to create a " European Standard " .
 A 4 5|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||Britain,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB|||affecting|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||matters,|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 20 21|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -15708,7 +15356,7 @@ A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Simplicity is one of the Commission 's key aims , with the idea that if things are simpler and more easy for everyone to understand people will be happier , get on better .
 A 5 7|||R:ORTH|||Commission's|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||aims,|||REQUIRED|||-NONE-|||0
-A 14 34|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 14 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If this is so , they should also work better .
 A 3 5|||R:ORTH|||so,|||REQUIRED|||-NONE-|||0
@@ -15742,8 +15390,7 @@ A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Britons ( especially those from older generations ) may then feel " lost " and that they do not really " belong " any more .
 A 1 3|||R:ORTH|||(especially|||REQUIRED|||-NONE-|||0
-A 6 8|||R:ORTH|||generations)|||REQUIRED|||-NONE-|||0
-A 17 26|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The new Single Europe may be too new and unknown for them to make their allegiance to it .
 A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -15755,21 +15402,18 @@ S Will there be greater prosperity , better - informed , happier citizens , or w
 A 4 6|||R:ORTH|||prosperity,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||informed,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||citizens,|||REQUIRED|||-NONE-|||0
-A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 24 26|||R:VERB|||happen|||REQUIRED|||-NONE-|||0
-A 26 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Britain , although small , is more often than not in the fore of international matters , taking a definite stance on what it considers to be right .
 A 0 2|||R:ORTH|||Britain,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||small,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||forefront|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||matters,|||REQUIRED|||-NONE-|||0
-A 18 29|||R:OTHER|||into|||REQUIRED|||-NONE-|||0
+A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Has it then not got quite a lot at stake , its character at least , in integrating itself into this Single Europe ?
 A 9 11|||R:ORTH|||stake,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||least,|||REQUIRED|||-NONE-|||0
-A 17 24|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S No one would dispute that this is a difficult question .
 A 9 11|||R:ORTH|||question.|||REQUIRED|||-NONE-|||0
@@ -15787,8 +15431,6 @@ A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 33 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is up to Britain therefore to accept this fact and to show an example by leading the way as regards tolerancy .
-A 2 2|||M:ADV|||therefore|||REQUIRED|||-NONE-|||0
-A 5 6|||U:ADV||||||REQUIRED|||-NONE-|||0
 A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Then we will all be able to look at the future in a more positive way .
@@ -15829,7 +15471,6 @@ S Firstly , was Europe 's realization of her own weakness , after having lost he
 A 0 2|||R:ORTH|||Firstly,|||REQUIRED|||-NONE-|||0
 A 3 5|||R:ORTH|||Europe's|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||weakness,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||age.|||REQUIRED|||-NONE-|||0
 A 16 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These superpowers were economically , militarally and politically stronger than the divided individual European states .
@@ -15838,8 +15479,6 @@ A 5 6|||R:SPELL|||militarily|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||states.|||REQUIRED|||-NONE-|||0
 
 S Secondly was the conviction that military conflict should in the future be avoided ; after all , the two great wars had both begun as European " civil wars " . Thirdly was the common desire for a better , freer world in which international relations would be conducted in a more orderly way .
-A 0 1|||R:OTHER|||Secondly,|||REQUIRED|||-NONE-|||0
-A 1 2|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||avoided;|||REQUIRED|||-NONE-|||0
 A 15 17|||R:ORTH|||all,|||REQUIRED|||-NONE-|||0
 A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -15863,7 +15502,7 @@ S The 1970 's saw progress in integration , with the introduction of community p
 A 1 3|||R:ORTH|||1970's|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||integration,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||instruments,|||REQUIRED|||-NONE-|||0
-A 17 24|||R:OTHER|||were|||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S All of the member states agree in principle to the idea of a single market by 1992 , however each wish their own interests to be safeguarded .
 A 16 18|||R:ORTH|||1992,|||REQUIRED|||-NONE-|||0
@@ -15876,16 +15515,15 @@ A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Many see this issue as a threat to their own regulations and laws , and could foresee a drop in standards if they do not stand firm .
 A 12 14|||R:ORTH|||laws,|||REQUIRED|||-NONE-|||0
-A 16 28|||R:OTHER|||see it|||REQUIRED|||-NONE-|||0
+A 16 28|||R:OTHER|||see|||REQUIRED|||-NONE-|||0
 
 S The situation is seen as a threat to the countries in question who do not wish to boldly give up their sovereignty for the sake of European unity .
 A 17 18|||R:MORPH|||bold|||REQUIRED|||-NONE-|||0
 A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Whether or not the continuation of the progress in the field of European unity is sucessful depends very much on the people of Europe .
-A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
 A 15 16|||R:SPELL|||successful|||REQUIRED|||-NONE-|||0
-A 18 25|||R:OTHER|||heavily|||REQUIRED|||-NONE-|||0
+A 18 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If a feeling of European unity develops and can be sustained , the threat will subside as a feeling of identity takes over .
 A 10 12|||R:ORTH|||sustained,|||REQUIRED|||-NONE-|||0
@@ -15950,7 +15588,7 @@ A 14 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The basic dilema facing the UK 's rail and road transport system is the general rise in population .
 A 5 7|||R:ORTH|||UK's|||REQUIRED|||-NONE-|||0
-A 14 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This leads to an increase in the number of commuters and transport users every year , consequently putting pressure on the UKs transports network .
 A 14 16|||R:ORTH|||year,|||REQUIRED|||-NONE-|||0
@@ -15962,8 +15600,7 @@ A 3 4|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||cities.|||REQUIRED|||-NONE-|||0
 
 S Most large cities have managed to incourage commuters to use public transport thus decreasing major conjestion in Rush hour periods .
-A 11 12|||R:OTHER|||transport,|||REQUIRED|||-NONE-|||0
-A 14 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Public transport is the obvious solution to to the increase in population if it is made cheep to commuters , clean , easy and efficient then it could take the strain of the overloaded British roads .
 A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
@@ -15996,9 +15633,8 @@ A 15 16|||R:NOUN:NUM|||world|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||population.|||REQUIRED|||-NONE-|||0
 
 S If every time we use our cars to travel any distance we find ourselfs in a 10 mile tail - back why do we still insist that that we travel in such ameander .
-A 10 11|||R:OTHER|||distance,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:SPELL|||ourselves|||REQUIRED|||-NONE-|||0
-A 17 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S To illistrate my point , if every time you took a train , it stops for 2 hours on the track , everyone would stop taking it .
 A 3 5|||R:ORTH|||point,|||REQUIRED|||-NONE-|||0
@@ -16017,19 +15653,14 @@ A 9 10|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 17 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This is in my opinion , shows considerable ignorance .
-A 1 2|||R:OTHER|||is,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||opinion,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||ignorance.|||REQUIRED|||-NONE-|||0
 
 S I am by far and away no ' greeny ' who wants to make everyone live in tipee 's and eat soya bean soup , however I do agree that somthing should be done about the volume of traffic that is on our roads today .
 A 2 3|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 8 9|||R:OTHER|||'green'|||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 17 43|||R:OTHER|||tip|||REQUIRED|||-NONE-|||0
-A 43 45|||R:NOUN|||tip|||REQUIRED|||-NONE-|||0
-A 45 46|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 7 10|||R:ORTH|||'greeny'|||REQUIRED|||-NONE-|||0
+A 17 46|||R:OTHER|||tip|||REQUIRED|||-NONE-|||0
 
 S The governments answer to the considerably growing amount of traffic on our roads it just to back move , they are not even attempting to treat the cause , thent more and more people are now driving .
 A 12 13|||R:NOUN|||roads,|||REQUIRED|||-NONE-|||0
@@ -16046,7 +15677,6 @@ A 0 2|||R:ORTH|||Why?|||REQUIRED|||-NONE-|||0
 S Do we , the westeren world ( 5% of the population of the world ) , have the right to use the resources of the rest of the world at the environmental cost ?
 A 1 3|||R:ORTH|||we,|||REQUIRED|||-NONE-|||0
 A 11 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 28 29|||R:NOUN|||world)?|||REQUIRED|||-NONE-|||0
 A 29 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Just beause we can not be bothered to get out of bed a bit earilene to catch public transport .
@@ -16124,15 +15754,13 @@ A 1 3|||R:ORTH|||year,|||REQUIRED|||-NONE-|||0
 A 15 36|||R:OTHER|||box|||REQUIRED|||-NONE-|||0
 
 S Many youths in low income areas see boxing as ' a way out ' , a chance to make it to the top and earn a lot of money on the way .
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 10 11|||R:NOUN:POSS|||'a|||REQUIRED|||-NONE-|||0
-A 12 14|||R:ORTH|||out'|||REQUIRED|||-NONE-|||0
+A 8 11|||R:ORTH|||as'a|||REQUIRED|||-NONE-|||0
 A 14 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There are , however , people who regard boxing as barbaric , brutal and primitive .
 A 1 5|||R:ORTH|||are, however,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||barbaric,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||primitive.|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S These people argue that there is no need for boxing and that it only promotes violence .
 A 15 17|||R:ORTH|||violence.|||REQUIRED|||-NONE-|||0
@@ -16215,16 +15843,14 @@ A 46 95|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S But there is one exception - the original example , the first reference why boxing should be banned , the tragic accident where Michael Watson was put into a coma by Chris Eubank ( the man who does n't specifically go into fights to knock his opposition out ) .
 A 8 10|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
-A 17 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 50|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This example only proves too well what a dangerous so called ' sport ' boxing is .
-A 8 9|||U:ADJ||||||REQUIRED|||-NONE-|||0
-A 10 15|||R:OTHER|||called'sport'box|||REQUIRED|||-NONE-|||0
-A 15 17|||R:ORTH|||is.|||REQUIRED|||-NONE-|||0
+A 10 17|||R:OTHER|||called'sport'box|||REQUIRED|||-NONE-|||0
 
 S The boxing federation is trying to do as much as it can to make the ' spot ' safer having rungside doctors , banning bare hand fights but the top and bottom of the argument is that any blow to the head causes considerable damage .
-A 14 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 34 46|||R:OTHER|||box|||REQUIRED|||-NONE-|||0
+A 14 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 41 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There is always much speculation over the dangers of such a brutal sport as boxing .
 A 5 6|||R:PREP|||about|||REQUIRED|||-NONE-|||0
@@ -16259,12 +15885,7 @@ A 16 18|||R:ORTH|||ridiculous,|||REQUIRED|||-NONE-|||0
 A 20 58|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Let us consider ' Sky ' viewes , recently beginning a subscription to view Tysons " next Live Lights " .
-A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 4 5|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 6 7|||R:PRON|||'Sky'viewes,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:OTHER|||who|||REQUIRED|||-NONE-|||0
-A 9 10|||R:VERB|||started|||REQUIRED|||-NONE-|||0
+A 2 8|||R:ORTH|||consider'Sky'viewes,|||REQUIRED|||-NONE-|||0
 A 13 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This member of the public does not want the sport to be banned either .
@@ -16288,7 +15909,6 @@ A 1 3|||R:ORTH|||pleased,|||REQUIRED|||-NONE-|||0
 A 18 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This hypocritical view is shoved by so many that whether boxing should be banned or not will remain a controversial issue for the forseeable future .
-A 4 5|||R:VERB|||pushed|||REQUIRED|||-NONE-|||0
 A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There were 2 main objections raised against the introduction of the national lottery .
@@ -16311,7 +15931,6 @@ A 10 12|||R:ORTH|||charity,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||rejected.|||REQUIRED|||-NONE-|||0
 
 S My personal objections to Camelot as the lottery organiser is that a large proportion of the consortium are american or foreign firms , for example IBM has a sizeable stake in Camelot .
-A 9 10|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 14 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The British national lottery run by non British firms .
@@ -16320,7 +15939,6 @@ A 8 10|||R:ORTH|||firms.|||REQUIRED|||-NONE-|||0
 
 S since its introduction there has been more controversy over the national lottery .
 A 0 1|||R:ORTH|||Since|||REQUIRED|||-NONE-|||0
-A 2 3|||R:OTHER|||introduction,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||lottery.|||REQUIRED|||-NONE-|||0
 
 S When it promised to give 45 pence in every pound to charitable causes , it neglected to promise that most or all of this money would go to charity .
@@ -16338,14 +15956,14 @@ A 15 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The lottery seamed to be a reverse Robin Hood : stealing from the poor to give to the rich .
 A 2 5|||R:VERB:FORM|||was|||REQUIRED|||-NONE-|||0
-A 8 10|||R:ORTH|||Hood:|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||poor|||REQUIRED|||-NONE-|||0
+A 18 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The lottery has also suffered alegations that it is addictive , especially with the introduction of scratch cards .
 A 5 6|||R:OTHER|||a lot of complaints|||REQUIRED|||-NONE-|||0
-A 6 9|||R:OTHER|||about|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||about|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 10 11|||R:PUNCT|||behaviour,|||REQUIRED|||-NONE-|||0
-A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It has been claimed that it is so addictive that people will spend all their availiable cash on lottery tickets , only to be disappointed .
 A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -16389,7 +16007,6 @@ A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S The most obvious example of this is the calculator , an instrument used by mathmeticians and scientists for making numerical calculations .
 A 8 10|||R:ORTH|||calculator,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:SPELL|||mathmeticians.|||REQUIRED|||-NONE-|||0
 A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This has made it no longer necessary for the human to perform calculations and run through equations , and so need not understand the principles behind them any longer .
@@ -16412,13 +16029,12 @@ A 43 47|||R:VERB|||supersed|||REQUIRED|||-NONE-|||0
 A 47 60|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Computer generated pictures , including ' fractal ' pictures , drawn from equations , seem to be more popular than hand printed images from an artist 's imagination , and computer games seem to provide more entertainment than any game or activity that takes place in the real , physical world .
-A 2 4|||R:ORTH|||pictures,|||REQUIRED|||-NONE-|||0
-A 5 10|||R:ORTH|||'fractal'pictures,|||REQUIRED|||-NONE-|||0
+A 2 10|||R:ORTH|||pictures, including'fractal'pictures,|||REQUIRED|||-NONE-|||0
 A 13 52|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Virtual reality allows people to have ' 3-D ' entertainment created for them by a computer .
-A 6 10|||R:ORTH|||'3-D'entertainment|||REQUIRED|||-NONE-|||0
-A 11 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 5 10|||R:ORTH|||have'3-D'entertainment|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Whether or not the computer is taking over from the human brain , it has certainly made the human body all but redundant .
 A 11 13|||R:ORTH|||brain,|||REQUIRED|||-NONE-|||0
@@ -16458,7 +16074,8 @@ A 15 75|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S " We all felt that we were living one of those historic moment that you read about in a history book and were proud to be a part of it -- It was November 9 , 1989 , the day that the Wall fell in Berlin-
 A 12 13|||R:NOUN:NUM|||moments|||REQUIRED|||-NONE-|||0
-A 17 46|||R:OTHER|||in.|||REQUIRED|||-NONE-|||0
+A 17 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 45 46|||U:NOUN||||||REQUIRED|||-NONE-|||0
 
 S Within a few weeks , the excitement had died down and people had turned their attention to more recent news .
 A 3 5|||R:ORTH|||weeks,|||REQUIRED|||-NONE-|||0
@@ -16481,12 +16098,9 @@ S Some had been executed -- I had a classmate whose father had escaped from Hung
 A 15 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I had asked him once if he had n't been scared , scared of what he would find once he left --
-A 1 2|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 7 9|||R:ORTH|||hadn't|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||scared,|||REQUIRED|||-NONE-|||0
-A 14 16|||U:PRON||||||REQUIRED|||-NONE-|||0
-A 16 18|||R:VERB|||being|||REQUIRED|||-NONE-|||0
-A 18 22|||R:OTHER|||scared of|||REQUIRED|||-NONE-|||0
+A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S He told me that nothing could compare to the way he had been forced to live his life there -- Even though I had lost touch with this classmate , her father 's words were with me as I watched the events unfold in Germany --
 A 18 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -16526,10 +16140,9 @@ A 18 23|||R:OTHER|||Ne|||REQUIRED|||-NONE-|||0
 
 S Science and technology have allowed me to travel to this part of the world , they have provided a living for my family , they have cured my grandmother of cancer , and they provide horizons of hope and knowledge in the fields of medicine , science , engineering , and even the less overt corners of our lives .
 A 13 15|||R:ORTH|||world,|||REQUIRED|||-NONE-|||0
-A 18 60|||R:OTHER|||me|||REQUIRED|||-NONE-|||0
+A 18 60|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The use of the means humans have developed is wherein the greatest problems lie .
-A 9 10|||R:ADV|||where|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||lie.|||REQUIRED|||-NONE-|||0
 
 S Alone , they do not threaten us , but when they become welded with certain aspects of and certain people in our societies , they become potentially the most dangerous things that we hold in our hands .
@@ -16594,8 +16207,7 @@ A 15 28|||R:OTHER|||arithm|||REQUIRED|||-NONE-|||0
 
 S It is true in a way , the development of portable calculating machines ( calculators ) has meant that we no longer need to be able to work out sums in our heads , but at what cost ?
 A 5 7|||R:ORTH|||way,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||calculators)|||REQUIRED|||-NONE-|||0
-A 16 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In many shops , the cashiers appear to be dumbfounded by the simplest of sums without the aid of their tills .
 A 2 4|||R:ORTH|||shops,|||REQUIRED|||-NONE-|||0
@@ -16621,15 +16233,13 @@ A 5 7|||R:ORTH|||tidiness.|||REQUIRED|||-NONE-|||0
 
 S When people talk about artificial intelligence ( AI ) , you hear many funny tales from people who are convinced that the computers are coming alive and will eventually rule us .
 A 8 10|||R:ORTH|||),|||REQUIRED|||-NONE-|||0
-A 14 15|||R:NOUN|||stories|||REQUIRED|||-NONE-|||0
-A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 24 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S These are just the rantings of people who have nothing to do with computers and who do not realise that behind every computer is a programmer .
 A 16 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Even ' artificial intelligence ' needs to be programmed .
-A 1 5|||R:ORTH|||'artificial intelligence'|||REQUIRED|||-NONE-|||0
+A 0 6|||R:ORTH|||Even'artificial intelligence'needs|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||programmed.|||REQUIRED|||-NONE-|||0
 
 S Human brains still work out how to build the computers , how to program them and , more importantly , how to control them .
@@ -16662,8 +16272,7 @@ A 9 11|||R:ORTH|||one.|||REQUIRED|||-NONE-|||0
 
 S Computers nowadays are a far cry from the one 's in the past which filled whole rooms .
 A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
-A 7 8|||R:DET|||those|||REQUIRED|||-NONE-|||0
-A 8 10|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:NOUN:POSS|||ones|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||rooms.|||REQUIRED|||-NONE-|||0
 
 S They are able to generate amazingly accurate graphical representations and perform extremely difficult mathematical equations in just seconds .
@@ -16712,11 +16321,10 @@ A 14 15|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 18 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They should be out enjoying themselves and gaining experiences for themselves instead of reading about them on a flat screen .
-A 17 21|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It is said that you can meet people through computers and have ' relationships ' .
-A 11 15|||R:ORTH|||have'relationships'|||REQUIRED|||-NONE-|||0
-A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 16|||R:ORTH|||have'relationships'.|||REQUIRED|||-NONE-|||0
 
 S I find this preposterous and people are losing the ability to communicate and form relationships .
 A 14 16|||R:ORTH|||relationships.|||REQUIRED|||-NONE-|||0
@@ -16750,7 +16358,6 @@ A 19 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I agree that computers are helpful but people should not live through their computers and be so reliant on them .
 A 5 6|||R:OTHER|||helpful,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||so.|||REQUIRED|||-NONE-|||0
 A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They should read books and live more in order to regain their lost imagination and sense of adventure .
@@ -16768,7 +16375,6 @@ S These include : the erasion of identification of harmful hereditary genetic di
 A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There can be no doubt that genetic manipulation and genetic engineering have had highly beneficial effects on many areas of society .
-A 16 17|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , many people dislike or are prejudiced against , genetic manipulation .
@@ -16777,17 +16383,16 @@ A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||manipulation.|||REQUIRED|||-NONE-|||0
 
 S Partly this is a ' Fear of the unknown ' ; something which tampers with the intrinsic components of plant and animal life is beyond comprehension for most people , and therefore provokes fear .
-A 4 6|||R:ORTH|||'Fear|||REQUIRED|||-NONE-|||0
+A 3 6|||R:ORTH|||a'Fear|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||unknown'|||REQUIRED|||-NONE-|||0
-A 13 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 24 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 35|||R:OTHER|||t|||REQUIRED|||-NONE-|||0
 
 S What people have also become aware of , is the immense power which genetic manipulation can give to certain individuals .
 A 6 8|||R:ORTH|||of,|||REQUIRED|||-NONE-|||0
 A 19 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This has been very good to feed popular culture ( the film ' Jurassic Park ' being an obvious reference point ) .
-A 9 14|||R:ORTH|||(the film'Jurassic|||REQUIRED|||-NONE-|||0
+A 11 14|||R:ORTH|||film'Jurassic|||REQUIRED|||-NONE-|||0
 A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There is also however , the very real possibility that the power of genetic manipulation could become the possession of uncontrolled unregulated individuals who could use it for ' evil ' purposes .
@@ -16816,8 +16421,7 @@ S Though the possible effects of genetic manipulation may be far larger than a k
 A 17 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Certainly we would not hold the makers of a car or kitchen - knife responsible for their misuse , and there is no reason why scientists should bear the major burden or responsibility if genetic manipulation is put to misuse .
-A 0 1|||R:OTHER|||Certainly,|||REQUIRED|||-NONE-|||0
-A 15 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The fundamental flaw in saying scientists must bear the major burden or moral responsibility for their work , is that if this had been applied universally for centuries , scientific research would never have taken place , and mankind would be without electricity , radios , quite simply , anything above the mud hut ' existence .
 A 16 18|||R:ORTH|||work,|||REQUIRED|||-NONE-|||0
@@ -16861,10 +16465,7 @@ S But , once genetic manipulation becomes common - place in the future , and it 
 A 0 2|||R:ORTH|||But,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||future,|||REQUIRED|||-NONE-|||0
 A 16 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 31 32|||R:OTHER|||not.|||REQUIRED|||-NONE-|||0
-A 32 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 36 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 38 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 32 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S There are many problems facing the Monarchy .
 A 6 8|||R:ORTH|||Monarchy.|||REQUIRED|||-NONE-|||0
@@ -16877,7 +16478,7 @@ A 9 9|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 16 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The other problem is that people say ( or think ) that they do not do anything but they are rich and also they do not pay any taxes .
-A 7 11|||R:ORTH|||(or think)|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||think)|||REQUIRED|||-NONE-|||0
 A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 24 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -16889,7 +16490,7 @@ A 8 10|||R:ORTH|||too.|||REQUIRED|||-NONE-|||0
 
 S For example many people like the royal family or they are honest people not like the politisions that always lay .
 A 1 2|||R:NOUN|||example,|||REQUIRED|||-NONE-|||0
-A 15 21|||R:OTHER|||polite people|||REQUIRED|||-NONE-|||0
+A 16 21|||R:OTHER|||polite|||REQUIRED|||-NONE-|||0
 
 S I think the royal family and Monarchy is a a tradition in UK and anywhere in the world , UK is known by its royal family , so I do not think it should be abolished .
 A 7 8|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
@@ -16943,13 +16544,11 @@ S The people who are for this can argue by saying that it is the right of every 
 A 19 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Women who would not normally be able to have children can now do so with invitro fertilisation .
-A 3 5|||R:WO|||normally not|||REQUIRED|||-NONE-|||0
-A 15 18|||R:OTHER|||invitations.|||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Through no fault of her own she could have a blocked fallopian tube causing her to be unable to allow eggs down to the womb and it is only fair in helping her to have children .
 A 5 6|||R:OTHER|||own,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||tube,|||REQUIRED|||-NONE-|||0
-A 13 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Technology has progressed quickly and in doing so ethics and practical guidelines have been left behind .
 A 4 5|||R:OTHER|||and,|||REQUIRED|||-NONE-|||0
@@ -16963,7 +16562,7 @@ A 10 12|||R:ORTH|||ie.|||REQUIRED|||-NONE-|||0
 S 1 . Fertility treatment should not be given to post - menopausal women .
 A 0 2|||R:ORTH|||1.|||REQUIRED|||-NONE-|||0
 A 9 12|||R:ORTH|||post-menopausal|||REQUIRED|||-NONE-|||0
-A 12 14|||R:OTHER|||patients.|||REQUIRED|||-NONE-|||0
+A 12 14|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The menopause is the body 's way of telling you that you are to old and your body is no long capable of bearing a baby .
 A 4 6|||R:ORTH|||body's|||REQUIRED|||-NONE-|||0
@@ -16971,9 +16570,8 @@ A 13 14|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
 A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Last year there was a case of a post menopausal woman who by lying about her age was given in vitro fertilisation ( IVF ) .
-A 1 2|||R:OTHER|||year,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ADJ|||post-menopausal|||REQUIRED|||-NONE-|||0
-A 11 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I do n't think this is fair or morally correct to the child since her mother would be claiming her pension when she was at primary school and her mother would probably die while the child was in her teens .... there should be a test that is given before ( IVF ) is carried out to check the mother is not past the menopause .
 A 2 3|||R:CONTR|||not|||REQUIRED|||-NONE-|||0
@@ -17011,16 +16609,15 @@ A 24 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S All the above are carried out on living people , but nowadays biological operations can be carried out on humans which are not even born .
 A 6 7|||R:PREP|||by|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||people,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:OTHER|||nowadays,|||REQUIRED|||-NONE-|||0
-A 18 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Bodies can start their days in a test tubes .
 A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||tubes.|||REQUIRED|||-NONE-|||0
 
 S This is called ' in vitro fertilisation ' .
-A 3 5|||R:ORTH|||'in|||REQUIRED|||-NONE-|||0
-A 6 9|||R:ORTH|||fertilisation'.|||REQUIRED|||-NONE-|||0
+A 2 5|||R:ORTH|||called'in|||REQUIRED|||-NONE-|||0
+A 7 9|||R:ORTH|||'.|||REQUIRED|||-NONE-|||0
 
 S This is when an egg is removed from a woman placed in a test tube and then sperm is placed in to the test tube and the egg and sperm fuse together .
 A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -17084,7 +16681,7 @@ A 11 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If the mother wants a boy Y sperm is selected and if a girl X is selected .
 A 5 6|||R:NOUN|||boy,|||REQUIRED|||-NONE-|||0
-A 12 18|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 12 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This may lead to an increase in one sex , and a decline in the other .
 A 8 10|||R:ORTH|||sex,|||REQUIRED|||-NONE-|||0
@@ -17113,19 +16710,15 @@ A 17 21|||R:OTHER|||consum|||REQUIRED|||-NONE-|||0
 S In cows it is commonly know as mad cow disease and by law any cow showing these signs must be destroyed and not sold for meat .
 A 1 2|||R:NOUN|||cows,|||REQUIRED|||-NONE-|||0
 A 5 6|||R:VERB:FORM|||known|||REQUIRED|||-NONE-|||0
-A 10 11|||R:OTHER|||and,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||law,|||REQUIRED|||-NONE-|||0
-A 15 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The problem is however the signs are not shown for a long time , this being a viral disease .
 A 3 4|||R:OTHER|||however,|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||time,|||REQUIRED|||-NONE-|||0
-A 16 20|||R:OTHER|||because|||REQUIRED|||-NONE-|||0
+A 16 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It can be passed on to humans through eating parts of the animal such as the brain which is affected and these parts are usually sold and put into fast foods such as beef burgers .
-A 12 13|||R:NOUN|||animal,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOUN|||brain,|||REQUIRED|||-NONE-|||0
-A 17 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The rest of the meat however is relatively safe and eating , e.g. a steak offers very little chance of the disease being passed on .
 A 5 7|||R:WO|||is however|||REQUIRED|||-NONE-|||0
@@ -17150,8 +16743,7 @@ A 16 32|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 33 46|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Although British farmers have learned to diversits , Dairy farming and the sale of Beef products still forms the backbone of British agriculture and would completely change the face of farming in Britain .
-A 6 7|||R:SPELL|||diversit,|||REQUIRED|||-NONE-|||0
-A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||diversits,|||REQUIRED|||-NONE-|||0
 A 15 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Wether they switch to sheep or vegetable crops were made , substantial changes would be needed to change the situation .
@@ -17163,11 +16755,8 @@ A 5 7|||R:ORTH|||were,|||REQUIRED|||-NONE-|||0
 A 18 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The so - called ' mad cow disease ' seemed to make the cows lose all sense of balance and direction , stumbling around drunkenly .
-A 1 5|||R:OTHER|||so-called|||REQUIRED|||-NONE-|||0
-A 5 6|||R:ADJ|||"mad|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOUN|||disease"|||REQUIRED|||-NONE-|||0
-A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 16 16|||M:DET|||their|||REQUIRED|||-NONE-|||0
+A 1 6|||R:ORTH|||so-called'mad|||REQUIRED|||-NONE-|||0
+A 7 9|||R:ORTH|||disease'|||REQUIRED|||-NONE-|||0
 A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Herds where this disease was found were put down before the symptoms progressed further .
@@ -17222,8 +16811,7 @@ A 11 13|||R:ORTH|||industry's|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||unclear.|||REQUIRED|||-NONE-|||0
 
 S Beef products are present in many foodstuffs such as jellies , fruit gums , and of course stock cubes .
-A 6 7|||R:OTHER|||foodstuffs,|||REQUIRED|||-NONE-|||0
-A 9 11|||R:OTHER|||jellys,|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||jellies,|||REQUIRED|||-NONE-|||0
 A 12 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Would all these products have to find synthetic or substitute ingredients ?
@@ -17279,7 +16867,6 @@ S Researchers believe that eating beef containing offal will transmit the fatal 
 A 13 15|||R:ORTH|||humans.|||REQUIRED|||-NONE-|||0
 
 S This claim has devestated the British beef industry as people are now too scared to eat beef in case they contract the illness .
-A 3 4|||R:VERB|||demonized|||REQUIRED|||-NONE-|||0
 A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Already the sales of beef in America have dropped by about 15 % and in Britain they have dropped about 6 % - 7 % .
@@ -17297,7 +16884,6 @@ A 13 23|||R:OTHER|||some'do|||REQUIRED|||-NONE-|||0
 
 S As you can imagine this has had a tremendous inffluence on sales in places such as fast food restaurants where beefburgers are the main item on the menu .
 A 3 4|||R:VERB|||imagine,|||REQUIRED|||-NONE-|||0
-A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
 A 14 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S An example of one is MacDonalds where they have immediately brought out a notice stating that their beefburgers are made from 100% of the finest , pure beef and contain no offal .
@@ -17310,10 +16896,7 @@ A 2 3|||R:NOUN|||opinion,|||REQUIRED|||-NONE-|||0
 A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S An outcome like this would mean they would be sued for several thousands of pounds and would probably have to sell up .
-A 12 13|||R:MORPH|||thousand|||REQUIRED|||-NONE-|||0
-A 13 14|||U:PREP||||||REQUIRED|||-NONE-|||0
-A 19 21|||R:VERB|||had|||REQUIRED|||-NONE-|||0
-A 21 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As a result of a lower beef demand in places of food production there would be a lower need for beef cows .
 A 12 13|||R:NOUN|||production,|||REQUIRED|||-NONE-|||0
@@ -17349,7 +16932,6 @@ A 23 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S If one has preconceived notions concerning one 's salary , one will certainly be disappointed since some employers are sure to value their skills and abilities less than others . "
 A 6 10|||R:ORTH|||one's salary,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||disappointed.|||REQUIRED|||-NONE-|||0
 A 15 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Contribution to society " is subjective and therefore impossible to compensate " equally ' .
@@ -17369,7 +16951,6 @@ A 17 18|||R:MORPH|||parasit|||REQUIRED|||-NONE-|||0
 A 18 31|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S People who inherit money or live off the interest of investors often seem to spend their time in search of a new thrill , some sort of excitement that money can not buy .
-A 6 7|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 A 19 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Having almost unlimited wealth changes people , both those who are born into wealth and those who earn their own money early on .
@@ -17407,8 +16988,8 @@ A 13 15|||R:ORTH|||overpaid.|||REQUIRED|||-NONE-|||0
 
 S For instance , everyone seems to think that doctors make much too money for the work they do , yet none of the doctors are lowering their fees ( they must think that it 's a fair price ) .
 A 1 3|||R:ORTH|||instance,|||REQUIRED|||-NONE-|||0
-A 12 12|||M:ADJ|||much|||REQUIRED|||-NONE-|||0
-A 18 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 19|||R:ORTH|||do,|||REQUIRED|||-NONE-|||0
+A 19 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So , unless we wish to impose on the personal lives of wealthy people by making them work harder , or give people who are not wealthy money that society does not believe they deserve , we can not give pay equal to contribution to society .
 A 0 2|||R:ORTH|||So,|||REQUIRED|||-NONE-|||0
@@ -17455,7 +17036,6 @@ A 13 15|||R:ORTH|||rules.|||REQUIRED|||-NONE-|||0
 S This makes it hard , because if they do n't , they are looked down upon by their piers .
 A 3 5|||R:ORTH|||hard,|||REQUIRED|||-NONE-|||0
 A 8 11|||R:ORTH|||don't,|||REQUIRED|||-NONE-|||0
-A 14 15|||R:OTHER|||down.|||REQUIRED|||-NONE-|||0
 A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S An example is military women wanting to serve in combat positions when at war .
@@ -17588,7 +17168,7 @@ A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S From the very beginning the Women 's Movement in America has been fighting a losing battle .
 A 3 4|||R:NOUN|||beginning,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||Women's|||REQUIRED|||-NONE-|||0
-A 15 17|||R:OTHER|||one|||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , I contend that the fault does not lie with the radical members of the movement , but rather , in the perception of those observing the movement .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -17598,7 +17178,7 @@ A 19 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S When Women 's Lib really took off again in the late 1960s , it was again destined for failure .
 A 1 3|||R:ORTH|||Women's|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||1960s,|||REQUIRED|||-NONE-|||0
-A 15 20|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 15 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Immediately , the focus was on radicals like Stein , instead of the housewife who returned to college and made a career for herself .
 A 0 2|||R:ORTH|||Immediately,|||REQUIRED|||-NONE-|||0
@@ -17623,8 +17203,7 @@ A 5 7|||R:ORTH|||at?|||REQUIRED|||-NONE-|||0
 
 S Only that so - called feminists have not in and of themselves harmed the Women 's movement .
 A 2 5|||R:ORTH|||so-called|||REQUIRED|||-NONE-|||0
-A 14 16|||R:OTHER|||Women.|||REQUIRED|||-NONE-|||0
-A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , the popular perception of them has .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -17637,7 +17216,7 @@ A 16 28|||R:OTHER|||way|||REQUIRED|||-NONE-|||0
 
 S Like many other aspects and movements in life , they would be more readiliy received if the public it was being aimed was not so jaded .
 A 7 9|||R:ORTH|||life,|||REQUIRED|||-NONE-|||0
-A 15 27|||R:OTHER|||from|||REQUIRED|||-NONE-|||0
+A 15 27|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Within this century there have been many technological advances which have resulted in a drastically different society than that of a hundred years ago .
 A 16 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -17658,10 +17237,9 @@ A 18 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 24 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Television has potential to offer wonderful things to its viewers , such as educational programming for children , cultural programs about far away places , and a closer look at current events than can not be given by newspaper .
-A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||viewers,|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||children,|||REQUIRED|||-NONE-|||0
-A 18 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 40|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Television has the power to bring war into the home as well as artistic expressions of those involved in the program production , giving society the opportunity to understand their own culture more fully .
 A 18 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -17706,10 +17284,8 @@ A 17 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S However , throughout the years , television has lost much of its integrety ; the programs offered are usually cheap entertainment rather than education .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||years,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:OTHER|||a lot|||REQUIRED|||-NONE-|||0
-A 12 13|||R:SPELL|||integrity;|||REQUIRED|||-NONE-|||0
-A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 15 25|||R:OTHER|||fact that|||REQUIRED|||-NONE-|||0
+A 12 14|||R:ORTH|||integrety;|||REQUIRED|||-NONE-|||0
+A 15 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The entertainment aspect of television has offered society an easy escape from its problems and dificulties .
 A 15 16|||R:SPELL|||dificul|||REQUIRED|||-NONE-|||0
@@ -17728,11 +17304,8 @@ A 7 8|||R:NOUN|||people's|||REQUIRED|||-NONE-|||0
 A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Though it has probably been around for awhile , it 's presence hasn't really been known untill fairly recently , and it 's consequences have been devistating .
-A 7 11|||R:OTHER|||awhile, its|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 19|||R:ADV|||really|||REQUIRED|||-NONE-|||0
-A 19 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 26 28|||R:OTHER|||there|||REQUIRED|||-NONE-|||0
+A 7 11|||R:ORTH|||awhile, it's|||REQUIRED|||-NONE-|||0
+A 14 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S AIDS has definately had an impact on people in the United States and probably all over the world because it always leads to death and there is no cure .
 A 15 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -17904,8 +17477,7 @@ A 14 16|||R:ORTH|||people,|||REQUIRED|||-NONE-|||0
 A 18 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The synthesis of antibiotics and research of their uses still continues today as thousands of universities and companies around the world continue the work of a small bacteria -- the producer of penicillin .
-A 9 10|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 17 34|||R:OTHER|||universities|||REQUIRED|||-NONE-|||0
+A 17 34|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The modern microcomputer ( PC ) has evolved at an incredibly fast pace : from the very first modern computer in the 1940 's to the computers of today , there have been many technological advances and also there has been a tremendous impact on society .
 A 12 14|||R:ORTH|||pace:|||REQUIRED|||-NONE-|||0
@@ -17914,7 +17486,6 @@ A 26 47|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The computer has eliminated many jobs through automation of factories ; accounting , engineering , and other scientific programs , etc .
 A 9 15|||R:ORTH|||factories; accounting, engineering,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||other.|||REQUIRED|||-NONE-|||0
 A 17 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The effects of the computer have been tremendous ; however , the phenomenon is a catch-22 .
@@ -17948,9 +17519,7 @@ A 10 12|||R:ORTH|||for,|||REQUIRED|||-NONE-|||0
 A 18 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The mental effect of computers is two - fold .
-A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 8 9|||R:OTHER|||folds.|||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:ORTH|||fold.|||REQUIRED|||-NONE-|||0
 
 S Firstly , computers have made mathematical computations so easy to do , many people do not fully understand how or why their computer works .
 A 0 2|||R:ORTH|||Firstly,|||REQUIRED|||-NONE-|||0
@@ -17993,7 +17562,6 @@ S A computer 's circuits do n't get tired and , if programmed 100% correctly ( a
 A 1 3|||R:ORTH|||computer's|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||and,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||100%,|||REQUIRED|||-NONE-|||0
 A 13 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This supposed reliability has left many workers out of work .
@@ -18004,7 +17572,6 @@ A 5 7|||R:ORTH|||unpredictable.|||REQUIRED|||-NONE-|||0
 
 S Anger , frustration , fear , and many other negative feelings have sprung up simultaneously with the rise of computer usage .
 A 0 6|||R:ORTH|||Anger, frustration, fear,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:OTHER|||up.|||REQUIRED|||-NONE-|||0
 A 14 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Clearly , there is evidence of good and bad results from the advent of the modern computer .
@@ -18049,12 +17616,12 @@ A 21 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S The satellite dish , created in the last 0 years , has changed the meaning of telecommunication .
 A 2 4|||R:ORTH|||dish,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||years,|||REQUIRED|||-NONE-|||0
-A 16 18|||R:OTHER|||the satellite|||REQUIRED|||-NONE-|||0
+A 16 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S In part , it has created The Information Age , as the latter part of the 20th ctry , is often labelled .
 A 1 3|||R:ORTH|||part,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||Age,|||REQUIRED|||-NONE-|||0
-A 17 23|||R:OTHER|||century|||REQUIRED|||-NONE-|||0
+A 17 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Not certain about the date of its invention , it must be recognized as one of the more vital tools used in society today , amongst world leaders , trading companies , and the media , as well as the entertainment world .
 A 7 9|||R:ORTH|||invention,|||REQUIRED|||-NONE-|||0
@@ -18063,7 +17630,9 @@ A 19 43|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Ted Turner revolutionized the use of the satellite , with his creation of CNN , the round - the - clock , round - the - world news station .
 A 7 9|||R:ORTH|||satellite,|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||CNN,|||REQUIRED|||-NONE-|||0
-A 17 30|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 15 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 19 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 23 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Presidents and dictators alike switch the channel to recieve first hand information from the network , such as impeachments , coup d'etats or civil wars .
 A 8 9|||R:SPELL|||receive|||REQUIRED|||-NONE-|||0
@@ -18075,7 +17644,7 @@ S Decisions , of governmental autonomy , are being made , based on that nights n
 A 0 2|||R:ORTH|||Decisions,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||autonomy,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||made,|||REQUIRED|||-NONE-|||0
-A 13 14|||R:NOUN|||night.|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:NUM|||night|||REQUIRED|||-NONE-|||0
 A 14 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The leaders and presidents of enterprises such as panasonic and CORE refer to CNN , created by satellite dish , on a daily bases .
@@ -18118,10 +17687,8 @@ A 8 9|||R:SPELL|||as|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||STARWARS.|||REQUIRED|||-NONE-|||0
 
 S The creation of the satellite dish in the past 20 years , has altered the average intelligence of the human being for the better and sometimes worse .
-A 3 4|||R:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 18 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 23 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 20 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It has created an information age , which could be dangerous , and heightened an entertainer 's salary .
 A 6 7|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -18176,7 +17743,7 @@ S Unfortunately , with each progressive day , the world 's need for this dangero
 A 0 2|||R:ORTH|||Unfortunately,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||day,|||REQUIRED|||-NONE-|||0
 A 8 10|||R:ORTH|||world's|||REQUIRED|||-NONE-|||0
-A 15 17|||R:ORTH|||augments.|||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S For not only does it have the capacity to kill ,
 A 0 0|||M:PREP|||Because|||REQUIRED|||-NONE-|||0
@@ -18191,7 +17758,6 @@ S The drawback is the danger .
 A 4 6|||R:ORTH|||danger.|||REQUIRED|||-NONE-|||0
 
 S In utilizing this power in plants and factories we run the risk of contaminating our land , blowing holes in our sky , rendering our seas useless , and killing our species as well as all the species of the earth .
-A 0 1|||R:PREP|||By|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||factories,|||REQUIRED|||-NONE-|||0
 A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 31 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -18211,8 +17777,7 @@ A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 22 30|||R:OTHER|||o|||REQUIRED|||-NONE-|||0
 
 S It would be logical to think that the leaders of the world would confer and aspire to put a stop to nuclear use in an effort to avoid any further damage to the earth and its inhabitants .
-A 15 18|||R:VERB|||aspirate|||REQUIRED|||-NONE-|||0
-A 18 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The saddest part of this tragedy is that there have been very few efforts to do so .
 A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -18259,16 +17824,13 @@ A 12 14|||R:ORTH|||astronomical.|||REQUIRED|||-NONE-|||0
 
 S The airplane opened doors to traveling and also broadened people 's perceptions of the entire world .
 A 9 11|||R:ORTH|||people's|||REQUIRED|||-NONE-|||0
-A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S It also introduced what seemed a completely impossible concept which no human is capable of doing without a machine : the concept of flying .
-A 3 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||without.|||REQUIRED|||-NONE-|||0
 A 17 25|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Before the invention of the airplane , long distance traveling was a very difficult , time consuming task .
 A 5 7|||R:ORTH|||airplane,|||REQUIRED|||-NONE-|||0
-A 9 10|||R:MORPH|||travel|||REQUIRED|||-NONE-|||0
 A 13 17|||R:OTHER|||difficult, time-consuming|||REQUIRED|||-NONE-|||0
 A 17 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -18340,7 +17902,7 @@ A 15 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Even today , the woman is still only earning something like 60 cents for every dollar that a man earns .
 A 1 3|||R:ORTH|||today,|||REQUIRED|||-NONE-|||0
-A 17 21|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Feminism does not only have to do with work and money , but also with the image of women .
 A 10 12|||R:ORTH|||money,|||REQUIRED|||-NONE-|||0
@@ -18350,14 +17912,14 @@ S It 's only recently that we 've " discovered " , or begun to think about rathe
 A 0 2|||R:ORTH|||It's|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||we've|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||",|||REQUIRED|||-NONE-|||0
-A 16 38|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+A 15 38|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S A recognition of such influences on the image of women is the first step in breaking it down , so that women are seen for who they truly are .
 A 17 19|||R:ORTH|||down,|||REQUIRED|||-NONE-|||0
 A 19 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Feminism is better described as a " discovery in progress " ; it 's a movement , an attitude that has not yet become mainstream .
-A 13 26|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 13 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Only when women have achieved equality with men , will there cease to be a need for feminism , and the discovery will have been completed .
 A 7 9|||R:ORTH|||men,|||REQUIRED|||-NONE-|||0
@@ -18370,7 +17932,6 @@ A 16 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Today , people have become aware of the importance of environment to our future .
 A 0 2|||R:ORTH|||Today,|||REQUIRED|||-NONE-|||0
 A 10 10|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 11 12|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||future.|||REQUIRED|||-NONE-|||0
 
 S People are concerned with nuclear weapons .
@@ -18423,7 +17984,6 @@ A 3 5|||R:ORTH|||issues,|||REQUIRED|||-NONE-|||0
 A 15 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S ( Recycling in a small way also helps those w / o homes b / c they receive money for their collections ) .
-A 9 11|||R:ORTH|||w/|||REQUIRED|||-NONE-|||0
 A 14 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Many countries realize that recycling is not only beneficial to their economy it also is beneficial to their environment .
@@ -18486,21 +18046,19 @@ A 11 13|||R:ORTH|||it.|||REQUIRED|||-NONE-|||0
 
 S I 'm able to store almost all the information I need for school and for other things in my computer whereas before I had a computer my desk was cluttered w/ paper and records of all sorts , I no longer need to keep these records but only to transfer them to my computer .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 17 55|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 16 55|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This means I 'm able to store more information in an organized fashion .
 A 2 4|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||fashion.|||REQUIRED|||-NONE-|||0
 
 S Though I have only used a fraction of my computer 's ability , I 'm still aware of the tremendous opportunities which I have or will have .
-A 0 1|||R:PREP|||Although|||REQUIRED|||-NONE-|||0
 A 9 13|||R:ORTH|||computer's ability,|||REQUIRED|||-NONE-|||0
 A 14 28|||R:OTHER|||'|||REQUIRED|||-NONE-|||0
 
 S Aside from being able to store great amounts of info , I 'm also able to process and to edit things quickly .
-A 9 11|||R:OTHER|||information,|||REQUIRED|||-NONE-|||0
-A 11 13|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 9 13|||R:ORTH|||info, I'm|||REQUIRED|||-NONE-|||0
+A 14 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S For example , without the use of a computer I had to balance my checkbook once a month and had to this w/ a calculator , a pen and a piece of paper .
 A 1 3|||R:ORTH|||example,|||REQUIRED|||-NONE-|||0
@@ -18516,19 +18074,15 @@ S Also , w/ the use of the Word Processor I 'm able to edit and rearrange docume
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN|||Processor,|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
-A 12 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 45 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 49|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S My father has the same program in his computer and is able to buy on line tickets w / out leaving the house and moreover w / out picking up the phone .
 A 6 7|||R:PREP|||on|||REQUIRED|||-NONE-|||0
-A 16 18|||R:NOUN|||tickets.|||REQUIRED|||-NONE-|||0
-A 18 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Also , I realize that my experience w/ computers is limited and that the power of computers , for me , is incomprehensible .
 A 0 2|||R:ORTH|||Also,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
-A 17 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 22 24|||R:OTHER|||limited|||REQUIRED|||-NONE-|||0
+A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S I 'm now here in Madrid .
 A 0 2|||R:ORTH|||I'm|||REQUIRED|||-NONE-|||0
@@ -18552,20 +18106,17 @@ A 15 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Instead , once I applied to the program- the application for which was probably computer generated- I assume my info was processed by a computer .
 A 0 2|||R:ORTH|||Instead,|||REQUIRED|||-NONE-|||0
-A 7 8|||R:ORTH|||program -|||REQUIRED|||-NONE-|||0
-A 15 16|||R:OTHER|||generated|||REQUIRED|||-NONE-|||0
-A 16 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 17 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S W / out this luxury , the International Programs Office would inevitably inundated w/ paperwork and things would therefore be lost or at least misplaced .
-A 0 3|||R:ORTH|||W/out|||REQUIRED|||-NONE-|||0
+A 0 2|||R:ORTH|||W/|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||luxury,|||REQUIRED|||-NONE-|||0
-A 12 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 20 26|||R:OTHER|||inundated with|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 15 26|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When booking my flight , though I did not do this myself , the transaction would seem impossible minus the aid of computers .
 A 3 5|||R:ORTH|||flight,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:ORTH|||myself,|||REQUIRED|||-NONE-|||0
-A 17 18|||R:OTHER|||impossible.|||REQUIRED|||-NONE-|||0
 A 18 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Computers have had a most significant impact on the people in the latter 1/2 of the 20th century .
@@ -18583,19 +18134,15 @@ A 6 14|||R:ORTH|||ideas, images, news, etc.|||REQUIRED|||-NONE-|||0
 
 S Now , if something is happening in any part of the world- from across town all the way to Beijing -- every person in the world can watch this event as it is happening .
 A 0 2|||R:ORTH|||Now,|||REQUIRED|||-NONE-|||0
-A 11 12|||R:ORTH|||world -|||REQUIRED|||-NONE-|||0
-A 14 16|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 35|||R:OTHER|||town|||REQUIRED|||-NONE-|||0
+A 14 17|||R:WO|||the town all|||REQUIRED|||-NONE-|||0
+A 17 35|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S While previously people had to wait days , or even weeks for news ( which consisted of second - or third - hand accounts , which always involved much interpretation and distortion ) now they can see it happening , for themselves , as it is happening , this allows them to make their own , informed judgment about the event ; and if a reaction is necessary- such as the gathering of opposition to a certain law -- it can be made immediately , while the emotions are still strong , and before the action is finalized .
-A 1 2|||R:OTHER|||previously,|||REQUIRED|||-NONE-|||0
 A 6 8|||R:ORTH|||days,|||REQUIRED|||-NONE-|||0
-A 16 72|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 73 99|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 18 99|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S As well , the fact that so many people ( especially in the US ) have television sets means that everybody ( well , at least everybody who watches ) receives the same inflow of information and ideas .
 A 1 3|||R:ORTH|||well,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||television,|||REQUIRED|||-NONE-|||0
 A 17 39|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S So , for example , people in Spain can be informed about how people in California or Japan speak and act , this allows people from different cultures to come together and discuss ideas .
@@ -18610,7 +18157,6 @@ A 18 42|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Not only the news , but also entertainment is an important practical function of television , through television entertainment , as through literature and drama , people learn different messages about life .
 A 3 5|||R:ORTH|||news,|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH|||television,|||REQUIRED|||-NONE-|||0
-A 17 18|||R:NOUN|||television.|||REQUIRED|||-NONE-|||0
 A 18 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S They can see various actions acted out to their ends , and understand the consequences of these actions , without having to perform the same actions and experience the consequences for themselves .
@@ -18645,7 +18191,7 @@ A 11 13|||R:ORTH|||brewed.|||REQUIRED|||-NONE-|||0
 
 S With this storm the waters have churned and spawned a wave that has crashed upon the rocks of every kitchen .
 A 2 3|||R:NOUN|||storm,|||REQUIRED|||-NONE-|||0
-A 9 21|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 9 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S This wave is the microwave .
 A 4 6|||R:ORTH|||microwave.|||REQUIRED|||-NONE-|||0
@@ -18706,7 +18252,7 @@ A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 15 23|||R:OTHER|||elimin|||REQUIRED|||-NONE-|||0
 
 S A mother who works , can come home can whip up something in minutes in the microwave , whereas before she would have been slaving in the kitchen .
-A 4 5|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 3 5|||R:ORTH|||works,|||REQUIRED|||-NONE-|||0
 A 16 18|||R:ORTH|||microwave,|||REQUIRED|||-NONE-|||0
 A 18 29|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -18724,7 +18270,6 @@ A 5 7|||R:ORTH|||before,|||REQUIRED|||-NONE-|||0
 A 10 12|||R:ORTH|||fire!|||REQUIRED|||-NONE-|||0
 
 S This marvel of technology has helped propel people into the dizzing pace of life that most of us lead in the 20th century .
-A 8 9|||R:PREP|||to|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||dizzying|||REQUIRED|||-NONE-|||0
 A 17 24|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -18755,7 +18300,6 @@ A 11 15|||R:ORTH|||dictatorship, propaganda.|||REQUIRED|||-NONE-|||0
 
 S In the 20th Century the machine gun has not changed all that many lives ( except for those that it ' s killed ) , but the invention of radio has made a tremendous impact .
 A 3 4|||R:NOUN|||Century,|||REQUIRED|||-NONE-|||0
-A 14 16|||R:ORTH|||(except|||REQUIRED|||-NONE-|||0
 A 17 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The idea behind the radio is simple .
@@ -18774,7 +18318,7 @@ A 3 5|||R:ORTH|||informed.|||REQUIRED|||-NONE-|||0
 
 S I don ' t think any people of my generation can even comprehend now our lives would be different .
 A 1 4|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
-A 18 20|||R:OTHER|||changed|||REQUIRED|||-NONE-|||0
+A 17 20|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Every morning I listen for the weather forcast and dress accordingly .
 A 4 5|||R:PREP|||to|||REQUIRED|||-NONE-|||0
@@ -18835,8 +18379,7 @@ S In short , I don ' t know what life was like before radio , but its invention 
 A 1 3|||R:ORTH|||short,|||REQUIRED|||-NONE-|||0
 A 4 7|||R:ORTH|||don't|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH|||radio,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||its,|||REQUIRED|||-NONE-|||0
-A 17 28|||R:OTHER|||too|||REQUIRED|||-NONE-|||0
+A 17 28|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S A current ideology in the United States today is for one to be successful , one must follow all of the written and unwritten rules of society ,
 A 13 15|||R:ORTH|||successful,|||REQUIRED|||-NONE-|||0
@@ -18901,13 +18444,13 @@ A 14 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 S Voltaire , as a Neoclassicist , knew all these regulations and followed them in his literature .
 A 0 2|||R:ORTH|||Voltaire,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||Neoclassicist,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||them.|||REQUIRED|||-NONE-|||0
-A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 12 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , when writing Candide , Voltaire defied the Academie 's rules .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:ORTH|||Candide,|||REQUIRED|||-NONE-|||0
-A 9 13|||R:ORTH|||Academie's rules.|||REQUIRED|||-NONE-|||0
+A 9 11|||R:ORTH|||Academie's|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 
 S Candide is a parody on the guidelines of Neoclassicism .
 A 8 10|||R:ORTH|||Neoclassicism.|||REQUIRED|||-NONE-|||0
@@ -18951,7 +18494,6 @@ A 14 16|||R:ORTH|||lightly:|||REQUIRED|||-NONE-|||0
 A 16 82|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The light attitude in which these acts of sex and violence are written shows the parody form in which Voltaire writes Candide .
-A 8 9|||R:MORPH|||sexual|||REQUIRED|||-NONE-|||0
 A 16 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Voltaire chooses not to stay away from the church and state issues .
@@ -18959,7 +18501,6 @@ A 11 13|||R:ORTH|||issues.|||REQUIRED|||-NONE-|||0
 
 S He attracts the hippocracy of the Church in the old woman 's father being the Pope .
 A 10 12|||R:ORTH|||woman's|||REQUIRED|||-NONE-|||0
-A 12 13|||R:NOUN|||father.|||REQUIRED|||-NONE-|||0
 A 13 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S When Candide visits the land of Eldorado , Voltaire shows the people 's perfect relationship to God : they only praise God because there is nothing they want from God .
@@ -19005,7 +18546,7 @@ S Thirty years ago , minorities could n't ride a bus , vote , or go to school wi
 A 2 4|||R:ORTH|||ago,|||REQUIRED|||-NONE-|||0
 A 5 7|||R:ORTH|||couldn't|||REQUIRED|||-NONE-|||0
 A 9 11|||R:ORTH|||bus,|||REQUIRED|||-NONE-|||0
-A 12 21|||R:OTHER|||for themselves|||REQUIRED|||-NONE-|||0
+A 12 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Desegragation reduced some prejudice , but it still exists .
 A 3 4|||R:NOUN|||prejudices,|||REQUIRED|||-NONE-|||0
@@ -19073,7 +18614,7 @@ A 10 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The differences they are rediscovering only add more color , flavor and excitement to that brewing " pot " of our people .
 A 8 10|||R:ORTH|||color,|||REQUIRED|||-NONE-|||0
-A 15 23|||R:OTHER|||color|||REQUIRED|||-NONE-|||0
+A 15 23|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S However , some individuals and even groups of Americans are reacting negatively to this ethnic explosion ( seen most clearly through the arts ) .
 A 0 2|||R:ORTH|||However,|||REQUIRED|||-NONE-|||0
@@ -19088,7 +18629,6 @@ A 11 13|||R:ORTH|||Americans.|||REQUIRED|||-NONE-|||0
 
 S As Ellie Weisel , author of such books as Night says about indifference : it is the opposite of everything good .
 A 2 4|||R:ORTH|||Weisel,|||REQUIRED|||-NONE-|||0
-A 12 13|||R:OTHER|||indifference,|||REQUIRED|||-NONE-|||0
 A 13 22|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S The opposite of love , beauty , intelligence , light , joy , life and growth are not their familiar ontonyms but indifference .
@@ -19188,11 +18728,9 @@ A 4 5|||R:ORTH|||TV|||REQUIRED|||-NONE-|||0
 A 18 21|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Violence is common in TV entertainment-- the dramas that portray stories about crime , psychotic murderers , police cases , emergency services , international terrorism , and war ( Hepburn 1 ) .
-A 5 6|||R:OTHER|||entertainment -|||REQUIRED|||-NONE-|||0
 A 12 14|||R:ORTH|||crime,|||REQUIRED|||-NONE-|||0
-A 14 17|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 17 19|||R:NOUN|||psychoanalysis|||REQUIRED|||-NONE-|||0
-A 19 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||psycho|||REQUIRED|||-NONE-|||0
+A 15 33|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Television violence is prevalent in the United States and some people disagree with its effects on children .
 A 16 18|||R:ORTH|||children.|||REQUIRED|||-NONE-|||0
@@ -19213,7 +18751,6 @@ S The bills would apply to broadcasting and cable ( Stern 1 ) .
 A 11 13|||R:ORTH|||).|||REQUIRED|||-NONE-|||0
 
 S Some of the proposals to antiviolence are as follows : the Senate V - chip , the House V - chip , a Technology Fund , a Violence Safe Harbor , and a Violence Report Card .
-A 8 10|||R:ORTH|||follows:|||REQUIRED|||-NONE-|||0
 A 12 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 21 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
@@ -19243,8 +18780,7 @@ A 17 19|||R:ORTH|||advised,|||REQUIRED|||-NONE-|||0
 A 19 30|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S An exhaustive examination of the broadcast networks ' programming during the 1995 - 1995 season has concluded that sinister combat violence ' pervades a significant number of Saturday - morning cartoons ( Jensen 1 ) .
-A 6 8|||R:ORTH|||networks'|||REQUIRED|||-NONE-|||0
-A 16 17|||R:OTHER|||concluded.|||REQUIRED|||-NONE-|||0
+A 6 9|||R:ORTH|||networks'programming|||REQUIRED|||-NONE-|||0
 A 17 36|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S How much violence is there ?
